@@ -1,0 +1,140 @@
+Action: ACTION_UP
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor vertical wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor avatar floor floor floor wall floor floor floor floor vertical floor floor horizontal floor horizontal floor floor wall floor floor exit2 floor floor floor goal wall floor
+wall floor floor exit1 floor floor entry1 wall floor floor floor floor floor floor floor floor floor wall floor floor sitting floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor floor floor floor exit1 floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor floor floor floor wall floor floor random floor random floor floor floor floor floor floor wall floor floor floor exit1 wall floor
+wall floor floor horizontal floor horizontal floor floor floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor floor floor floor floor wall floor wall floor
+wall floor floor floor floor random floor floor floor floor sitting floor floor floor floor floor horizontal floor horizontal floor floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor floor wall floor wall floor wall floor floor floor floor floor floor wall floor
+wall floor floor floor floor floor floor floor floor floor vertical floor floor entry1 floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor floor entry2 wall floor floor floor floor floor vertical floor floor floor floor floor sitting floor floor wall floor wall floor wall floor
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+
+ 
+Action: ACTION_RIGHT
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor avatar floor floor wall floor floor floor floor vertical floor floor horizontal floor floor floor wall floor floor exit2 floor floor floor goal wall floor
+wall floor floor exit1 floor floor entry1 wall floor floor floor floor floor floor floor floor floor wall floor floor sitting floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor floor floor floor exit1 floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor floor floor floor wall floor floor random floor random floor floor floor floor floor floor wall floor floor floor exit1 wall floor
+wall floor floor horizontal floor floor floor floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor floor floor floor floor wall floor wall floor
+wall floor floor floor floor random floor floor floor floor sitting floor floor floor floor floor horizontal floor floor floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor floor wall floor wall floor wall floor floor floor floor floor floor wall floor
+wall floor floor floor floor floor floor floor floor floor vertical floor floor entry1 floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor floor entry2 wall floor floor floor floor floor floor floor floor floor floor sitting floor floor wall floor wall floor wall floor
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+
+ 
+Action: ACTION_RIGHT
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor avatar floor wall floor floor floor floor vertical floor horizontal floor horizontal floor floor floor wall floor floor exit2 floor floor floor goal wall floor
+wall floor floor exit1 floor floor entry1 wall floor floor floor floor vertical floor floor floor floor floor wall floor floor sitting floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor floor floor floor exit1 floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor floor floor floor wall floor floor random floor random floor floor floor floor floor floor wall floor floor floor exit1 wall floor
+wall floor horizontal floor horizontal floor floor floor floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor floor floor floor floor wall floor wall floor
+wall floor floor floor floor random floor random floor floor floor sitting floor floor floor floor horizontal floor horizontal floor floor floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor vertical floor wall floor wall floor wall floor floor floor floor floor floor wall floor
+wall floor floor floor floor floor floor floor floor floor vertical floor floor entry1 floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor floor entry2 wall floor floor floor floor floor floor floor floor floor floor sitting floor floor wall floor wall floor wall floor
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+
+ 
+Action: ACTION_UP
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor avatar floor wall floor floor floor floor floor horizontal floor floor floor floor wall floor floor exit2 floor floor floor goal wall floor
+wall floor floor exit1 floor floor entry1 wall floor floor floor floor vertical floor floor floor floor floor wall floor floor sitting floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor floor floor floor exit1 floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor floor floor floor wall floor floor random floor random floor floor floor floor floor floor wall floor floor floor exit1 wall floor
+wall floor floor horizontal floor floor floor floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor floor floor floor floor wall floor wall floor
+wall floor floor floor floor random floor random floor floor floor sitting floor floor floor floor horizontal floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor vertical floor wall floor wall floor wall floor floor floor floor floor floor wall floor
+wall floor floor floor floor floor floor floor floor floor floor floor entry1 floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor floor entry2 wall floor floor floor floor floor floor floor floor floor floor sitting floor floor wall floor wall floor wall floor
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+
+ 
+Action: ACTION_UP
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor avatar floor wall floor floor floor floor horizontal floor horizontal floor floor floor floor wall floor floor exit2 floor floor floor goal wall floor
+wall floor floor exit1 floor floor entry1 wall floor floor floor floor vertical floor floor floor floor floor wall floor floor sitting floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor vertical floor floor floor floor exit1 floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor floor floor floor wall floor floor random floor random floor floor floor floor floor floor wall floor floor floor exit1 wall floor
+wall floor floor horizontal floor horizontal floor floor floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor floor floor floor floor wall floor wall floor
+wall floor floor floor floor random floor random floor floor floor sitting floor vertical floor floor horizontal floor horizontal floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor vertical floor wall floor wall floor wall floor floor floor floor floor floor wall floor
+wall floor floor floor floor floor floor floor floor floor floor floor entry1 floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor floor entry2 wall floor floor floor floor floor floor floor floor floor floor sitting floor floor wall floor wall floor wall floor
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+
+ 
+Action: ACTION_UP
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor avatar floor wall floor floor floor floor horizontal floor floor floor floor floor wall floor floor exit2 floor floor floor goal wall floor
+wall floor floor exit1 floor floor entry1 wall floor floor floor floor floor floor floor floor floor wall floor floor sitting floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor vertical floor floor floor floor exit1 floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor floor floor floor wall floor floor random floor random floor floor floor floor floor floor wall floor floor floor exit1 wall floor
+wall floor floor floor horizontal floor floor floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor floor floor floor floor wall floor wall floor
+wall floor floor floor floor random floor floor floor floor sitting floor vertical floor floor horizontal floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor floor wall floor wall floor wall floor floor floor floor floor floor wall floor
+wall floor floor floor floor floor floor floor floor floor floor floor entry1 floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor floor entry2 wall floor floor floor floor floor floor floor floor floor floor sitting floor floor wall floor wall floor wall floor
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+
+ 
+Action: ACTION_UP
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor avatar floor wall floor floor floor horizontal floor horizontal floor floor floor floor floor wall floor floor exit2 floor floor floor goal wall floor
+wall floor floor exit1 floor floor entry1 wall floor floor floor floor floor floor floor floor floor wall floor floor sitting floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor vertical floor floor floor floor exit1 floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor floor floor floor wall floor floor random vertical floor random floor floor floor floor floor floor wall floor floor floor exit1 wall floor
+wall floor floor floor horizontal floor horizontal floor floor wall floor wall floor wall floor vertical wall floor wall floor wall floor wall floor floor floor floor floor wall floor wall floor
+wall floor floor floor floor random floor random floor floor floor sitting floor vertical floor horizontal floor horizontal floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor floor wall floor wall floor wall floor floor floor floor floor floor wall floor
+wall floor floor floor floor floor floor floor floor floor floor floor entry1 floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor floor entry2 wall floor floor floor floor floor floor floor floor floor floor sitting floor floor wall floor wall floor wall floor
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+
+ 
+Action: ACTION_UP
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor avatar floor wall floor floor floor horizontal floor floor floor floor floor floor wall floor floor exit2 floor floor floor goal wall floor
+wall floor floor exit1 floor floor entry1 wall floor floor floor floor floor floor floor floor floor wall floor floor sitting floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor floor floor floor exit1 floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor floor floor floor wall floor floor random vertical floor random floor floor floor floor floor floor wall floor floor floor exit1 wall floor
+wall floor floor floor floor horizontal floor floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor floor floor floor floor wall floor wall floor
+wall floor floor floor floor random floor random floor floor floor sitting floor vertical floor horizontal floor floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor floor wall floor wall floor wall floor floor floor floor floor floor wall floor
+wall floor floor floor floor floor floor floor floor floor floor floor entry1 floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor floor entry2 wall floor floor floor floor floor floor floor floor floor floor sitting floor floor wall floor wall floor wall floor
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+
+ 
+Action: ACTION_DOWN
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor floor wall floor floor horizontal floor horizontal floor floor floor floor floor floor wall floor floor exit2 floor floor floor goal wall floor
+wall floor floor exit1 floor floor entry1 wall floor floor floor floor floor floor floor floor floor wall floor floor sitting floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor floor floor floor exit1 floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor floor floor floor wall floor floor random vertical floor random floor floor floor floor floor floor wall floor floor avatar floor exit1 wall floor
+wall floor floor floor floor horizontal floor horizontal floor wall floor wall floor vertical wall floor wall floor wall floor wall floor wall floor floor floor floor floor wall floor wall floor
+wall floor floor floor floor random floor random floor floor floor sitting floor vertical horizontal floor horizontal floor floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor vertical floor wall floor wall floor wall floor floor floor floor floor floor wall floor
+wall floor floor floor floor floor floor floor floor floor floor floor entry1 floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor floor entry2 wall floor floor floor floor floor floor floor floor floor floor sitting floor floor wall floor wall floor wall floor
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+
+ 
+Action: ACTION_RIGHT
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor floor wall floor floor horizontal floor floor floor floor floor floor floor wall floor floor exit2 floor floor floor goal wall floor
+wall floor floor exit1 floor floor entry1 wall floor floor floor floor floor floor floor floor floor wall floor floor sitting floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor floor floor floor exit1 floor wall floor wall floor wall floor wall floor wall floor wall floor
+wall floor floor floor floor floor floor wall floor floor random vertical floor random floor floor floor floor floor floor wall floor floor avatar floor exit1 wall floor
+wall floor floor floor floor floor horizontal floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor floor floor floor floor wall floor wall floor
+wall floor floor floor floor random floor random floor floor floor sitting floor horizontal floor floor floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor wall floor wall floor floor floor floor floor vertical floor wall floor wall floor wall floor floor floor floor floor floor wall floor
+wall floor floor floor floor floor floor floor floor floor floor floor entry1 floor floor floor floor floor floor floor wall floor
+wall floor wall floor wall floor floor entry2 wall floor floor floor floor floor floor floor floor floor floor sitting floor floor wall floor wall floor wall floor
+wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor wall floor
+
+ 

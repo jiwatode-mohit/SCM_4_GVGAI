@@ -1,0 +1,1 @@
+python vgdl_gen.py --hf-generation-model Qwen/QwQ-32B --quantize

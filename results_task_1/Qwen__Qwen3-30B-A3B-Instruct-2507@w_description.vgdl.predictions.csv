@@ -1,0 +1,135 @@
+subset,iteration,game,model,reply,thought,prediction,correct
+first_10,0,boulderchase,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,True
+first_10,0,brainman,Qwen/Qwen3-30B-A3B-Instruct-2507,"brainman
+The recurring elements include a key that transforms into a missile, doors that require the key to pass, boulders that bounce off walls and the avatar, and a maze layout with green, red, and blue tiles. The avatar moves through a grid, collects gems (green, red, blue), and must use the key to unlock doors. The pattern of movement and interaction matches BrainMan exactly.",,brainman,True
+first_10,0,cakybaky,Qwen/Qwen3-30B-A3B-Instruct-2507,cakybaky,,cakybaky,True
+first_10,0,defender,Qwen/Qwen3-30B-A3B-Instruct-2507,"defender
+The recurring pattern of a city at the bottom, walls, portals, and the avatar shooting missiles (ACTION_USE leading to ""sam"" symbol) matches the Defender gameplay. The ""portalAmmo"" and ""supply"" tokens align with Defender's mechanics of collecting ammo and using it to defend against alien bombers.",,multiple,False
+first_10,0,digdug,Qwen/Qwen3-30B-A3B-Instruct-2507,digdug,,digdug,True
+first_10,0,iceandfire,Qwen/Qwen3-30B-A3B-Instruct-2507,"iceandfire
+The ASCII frames show a grid with walls, chips, traps, fire and ice tiles, fireboots, iceshoes, and an avatar navigating toward an exit. The avatar must collect specific items (fireboots, iceshoes) to safely traverse hazardous tiles, matching the mechanics of iceandfire.",,iceandfire,True
+first_10,0,lasers2,Qwen/Qwen3-30B-A3B-Instruct-2507,"boulderchase
+The recurring patterns of boulders rolling down the grid, the presence of obstacles and enemies (crabs, butterflies), the avatar collecting diamonds, and the goal of reaching the exit align with the mechanics of boulderchase. The ASCII symbols like ""boulder"", ""box"", ""avatar"", and the consistent movement of boulders down the maze confirm this.",,boulderchase,False
+first_10,0,portals,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,False
+first_10,0,racebet,Qwen/Qwen3-30B-A3B-Instruct-2507,"racebet
+The game features camels moving toward a goal, colored pits (A-D) for betting, and a maze-like layout with walls and arenas. The consistent presence of camels (A-D), goal markers, and pit areas aligns with racebet's mechanics. The avatar's movement and the progression of camels toward the goal indicate betting gameplay, with the objective of matching the first camel to reach the finish.",,racebet,True
+first_10,1,boulderchase,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,True
+first_10,1,brainman,Qwen/Qwen3-30B-A3B-Instruct-2507,"brainman
+The recurring elements include a maze layout with walls, a player avatar, keys, colored gems (green, red, blue), doors, and an exit. The avatar moves through the maze, collects keys (which become missiles), and uses them to open doors. The presence of keys turning into missiles and the need to collect all keys to proceed aligns with the mechanics of brainman.",,brainman,True
+first_10,1,cakybaky,Qwen/Qwen3-30B-A3B-Instruct-2507,cakybaky,,cakybaky,True
+first_10,1,defender,Qwen/Qwen3-30B-A3B-Instruct-2507,defender,,defender,True
+first_10,1,digdug,Qwen/Qwen3-30B-A3B-Instruct-2507,digdug,,digdug,True
+first_10,1,iceandfire,Qwen/Qwen3-30B-A3B-Instruct-2507,"iceandfire
+The game features a maze with hazards like fire and ice, requiring specific boots (fireboots, iceshoes) to traverse safely. The player collects chips for points and must reach the exit. The avatar's movement is restricted by terrain, and the presence of collectible boots, traps, and the need to navigate hazardous areas matches the description of iceandfire.",,iceandfire,True
+first_10,1,lasers2,Qwen/Qwen3-30B-A3B-Instruct-2507,"boulderchase
+The repeated use of 'box', 'boulder', and 'avatar' in a maze with obstacles, walls, and a goal, along with the movement patterns and the presence of a 'goal' tile that triggers victory upon reaching it after collecting 10 diamonds, strongly matches the mechanics of BoulderChase. The progression of boulders rolling and being pushed, and the avatar's interactions with them, align with the described gameplay of boulderchase.",,boulderchase,False
+first_10,1,portals,Qwen/Qwen3-30B-A3B-Instruct-2507,"portals
+The recurring patterns of portals (blue and light blue pairs), floor tiles, walls, and the avatar's movement through them, along with the presence of entry/exit points and goal tiles, strongly indicate the game ""portals"". The consistent layout and the way the avatar moves between connected portal pairs across the grid confirm this.",,portals,True
+first_10,1,racebet,Qwen/Qwen3-30B-A3B-Instruct-2507,racebet,,racebet,True
+first_10,2,boulderchase,Qwen/Qwen3-30B-A3B-Instruct-2507,"boulderchase
+The recurring patterns of boulders rolling down slopes, diamonds, crabs, butterflies, and an exit door, along with the avatar's movement and actions like using a sword (ACTION_USE) to defeat enemies, match the mechanics of BoulderChase. The consistent layout with dirt, boulders, and specific enemy types (crabs, butterflies) aligns with this game's description.",,boulderchase,True
+first_10,2,brainman,Qwen/Qwen3-30B-A3B-Instruct-2507,"brainman
+The recurring elements include a maze layout with walls, a player avatar, keys, colored tiles (green, red, blue), and an exit. The avatar moves through the maze, collecting keys that become missiles, and must avoid enemies (implied by the gem tiles that are dangerous). The layout shows consistent patterns of colored tiles and a single exit, with the avatar navigating to reach it. The game ends upon reaching the exit, matching BrainMan's mechanics.",,brainman,True
+first_10,2,cakybaky,Qwen/Qwen3-30B-A3B-Instruct-2507,cakybaky,,cakybaky,True
+first_10,2,defender,Qwen/Qwen3-30B-A3B-Instruct-2507,"defender
+The game features a spaceship (avatar) shooting blue missiles (sam) at alien bombers, with cities being destroyed by red bombs. The layout includes a cityscape at the bottom, alien enemies spawning and moving, and the player using missiles to defend. The recurring pattern of ""sam"" appearing when using the action confirms missile firing, and the city destruction mechanism matches Defender.",,defender,True
+first_10,2,digdug,Qwen/Qwen3-30B-A3B-Instruct-2507,digdug,,digdug,True
+first_10,2,iceandfire,Qwen/Qwen3-30B-A3B-Instruct-2507,"iceandfire
+The game features a maze with hazards like fire tiles and ice, requiring the player to collect specific items (fire boots, ice shoes) to traverse them. The avatar moves through the maze, collecting chips and navigating around traps. The layout, symbols (fireboots, iceshoes, trap, chip), and movement constraints match the description of iceandfire.",,iceandfire,True
+first_10,2,lasers2,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,False
+first_10,2,portals,Qwen/Qwen3-30B-A3B-Instruct-2507,portals,,portals,True
+first_10,2,racebet,Qwen/Qwen3-30B-A3B-Instruct-2507,"racebet
+The game features camels moving in a maze-like arena, a goal at the end, and colored pits (pitA, pitB, etc.) where the player can place bets. The avatar moves through the arena, and the camels advance over time. The presence of ""betA"", ""betB"", and the final ""winA"" to ""winD"" states in the game's logic aligns with racebet's mechanics. The consistent layout with walls, camels, and pits, along with the movement patterns, confirms it is racebet.",,racebet,True
+first_10,3,boulderchase,Qwen/Qwen3-30B-A3B-Instruct-2507,"boulderchase
+The recurring elements include boulders, diamonds, crabs, butterflies, and an exit door. The avatar moves through a maze, collecting diamonds and avoiding enemies. The layout features a consistent grid with walls, dirt, boulders, and movable elements. The presence of crabs and butterflies that interact (killing each other) and the requirement to collect 10 diamonds to open the exit aligns with *boulderchase*.",,boulderchase,True
+first_10,3,brainman,Qwen/Qwen3-30B-A3B-Instruct-2507,"brainman
+The recurring elements include a maze layout with walls, a player avatar, keys (which become missiles), green, red, and blue tiles, doors, and an exit. The avatar moves through the maze, collects keys, and uses them to open doors. The presence of green, red, and blue tiles, along with the door and exit, matches the mechanics of BrainMan where keys are collected and used to open doors. The avatar's movement and the static layout across frames confirm it's not a dynamic game like Defender or Lasers2. The absence of bombs, lasers, or chasers rules out other titles.",,multiple,False
+first_10,3,cakybaky,Qwen/Qwen3-30B-A3B-Instruct-2507,cakybaky,,cakybaky,True
+first_10,3,defender,Qwen/Qwen3-30B-A3B-Instruct-2507,defender,,defender,True
+first_10,3,digdug,Qwen/Qwen3-30B-A3B-Instruct-2507,digdug,,digdug,True
+first_10,3,iceandfire,Qwen/Qwen3-30B-A3B-Instruct-2507,"iceandfire
+The game features ice and fire tiles that require specific footwear (iceshoes, fireboots) to traverse, a goal tile (exit), collectible chips, traps, and an avatar that must navigate safely. The consistent presence of ice, fire, boots, traps, and chips across all frames matches the mechanics of *iceandfire*.",,iceandfire,True
+first_10,3,lasers2,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,False
+first_10,3,portals,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,False
+first_10,3,racebet,Qwen/Qwen3-30B-A3B-Instruct-2507,"racebet
+The recurring presence of camels (A-D) moving toward a goal, pits (A-D) for betting, and the avatar's ability to enter pits to place bets aligns with the mechanics of racebet. The consistent layout with arena, pits, and goal areas, along with the camel movement and avatar interaction, confirms it as racebet.",,racebet,True
+first_10,4,boulderchase,Qwen/Qwen3-30B-A3B-Instruct-2507,"boulderchase
+The repeated presence of boulders, diamonds, crabs, butterflies, and an exit door, along with the avatar's movement and the consistent maze layout, matches the gameplay of boulderchase. The avatar collects diamonds and avoids enemies and falling boulders, with the exit only accessible after collecting enough diamonds.",,boulderchase,True
+first_10,4,brainman,Qwen/Qwen3-30B-A3B-Instruct-2507,"brainman
+The recurring elements include a maze layout with colored tiles (green, red, blue), a key that transforms into a missile, a door, an exit, and a player avatar navigating through the maze. The avatar moves in a grid-based environment, and the key is a critical item that can be collected and used to open doors. The presence of a door, exit, and colored tiles aligns with the mechanics of BrainMan, where keys become missiles and are used to unlock doors. The consistent layout and item interactions match BrainMan's description.",,brainman,True
+first_10,4,cakybaky,Qwen/Qwen3-30B-A3B-Instruct-2507,cakybaky,,cakybaky,True
+first_10,4,defender,Qwen/Qwen3-30B-A3B-Instruct-2507,defender,,defender,True
+first_10,4,digdug,Qwen/Qwen3-30B-A3B-Instruct-2507,digdug,,digdug,True
+first_10,4,iceandfire,Qwen/Qwen3-30B-A3B-Instruct-2507,"iceandfire
+The maze contains ice and fire tiles that are lethal without proper footwear (iceshoes/fireboots), and the avatar must collect these items to traverse safely. The presence of chips, traps, and the exit, along with the avatar's movement across hazardous terrain, matches the mechanics of Ice and Fire.",,iceandfire,True
+first_10,4,lasers2,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,False
+first_10,4,portals,Qwen/Qwen3-30B-A3B-Instruct-2507,portals,,portals,True
+first_10,4,racebet,Qwen/Qwen3-30B-A3B-Instruct-2507,racebet,,racebet,True
+last_10,0,boulderchase,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,True
+last_10,0,brainman,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,False
+last_10,0,cakybaky,Qwen/Qwen3-30B-A3B-Instruct-2507,cakybaky,,cakybaky,True
+last_10,0,defender,Qwen/Qwen3-30B-A3B-Instruct-2507,"defender
+The game features a spaceship avatar defending a city from alien bombers, with aliens dropping bombs, the player shooting missiles (sam/bomb), and the city's health decreasing when hit by bombs. The layout includes walls, portals (for alien spawning), bombs, aliens, and a city. The avatar moves rightward, and the pattern of aliens, bombs, and the city's presence matches Defender's mechanics.",,multiple,False
+last_10,0,digdug,Qwen/Qwen3-30B-A3B-Instruct-2507,digdug,,digdug,True
+last_10,0,iceandfire,Qwen/Qwen3-30B-A3B-Instruct-2507,"iceandfire
+The recurring elements include ice tiles, fire tiles, ice shoes, fire boots, traps, chips, and an exit. The avatar must navigate these hazards, collecting ice shoes or fire boots to safely cross icy or fiery tiles. The layout and symbols (ice, fire, boots, traps) match the mechanics of iceandfire.",,iceandfire,True
+last_10,0,lasers2,Qwen/Qwen3-30B-A3B-Instruct-2507,"boulderchase
+The ASCII frames show a maze with walls, an avatar, boulders, obstacles, and a goal. Boulders are seen rolling and being pushed by the avatar, which aligns with the mechanics of Boulder Chase. The presence of a box (likely a boulder), movement of the avatar, and the goal tile at the end confirm the game. The pattern of boulders moving in sequence and the avatar navigating around obstacles matches the gameplay described for boulderchase.",,boulderchase,False
+last_10,0,portals,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,False
+last_10,0,racebet,Qwen/Qwen3-30B-A3B-Instruct-2507,racebet,,racebet,True
+last_10,1,boulderchase,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,True
+last_10,1,brainman,Qwen/Qwen3-30B-A3B-Instruct-2507,"brainman
+The recurring pattern of keys, green, red, and blue tiles, and the avatar moving through a maze to reach an exit while interacting with colored tiles and a door suggests the game involves collecting keys and navigating to an exit. The consistent layout with a key, colored tiles, and a door matching the description of brainman, where keys become missiles and must be collected to open doors and reach the exit.",,brainman,True
+last_10,1,cakybaky,Qwen/Qwen3-30B-A3B-Instruct-2507,cakybaky,,cakybaky,True
+last_10,1,defender,Qwen/Qwen3-30B-A3B-Instruct-2507,"defender
+The recurring elements include aliens spawning from portals, bombs dropping from aliens, a city to protect, supply crates for ammo, and an avatar that shoots missiles. The layout and behavior match Defender's mechanics exactly.",,multiple,False
+last_10,1,digdug,Qwen/Qwen3-30B-A3B-Instruct-2507,digdug,,digdug,True
+last_10,1,iceandfire,Qwen/Qwen3-30B-A3B-Instruct-2507,"iceandfire
+The recurring elements include ice, fire, traps, boots (iceshoes and fireboots), chips, and a goal (exit). The avatar must navigate through hazardous terrain, collect boots to cross ice/fire, avoid traps, and collect chips while progressing toward the exit. The layout and symbols match the description of iceandfire precisely.",,iceandfire,True
+last_10,1,lasers2,Qwen/Qwen3-30B-A3B-Instruct-2507,"boulderchase
+The avatar moves right, pushing a boulder, with consistent wall layouts, a goal tile, and obstacles. The boulder is pushed and interacts with the environment, matching the mechanics of BoulderChase where the player pushes boulders to clear paths and reach the exit. The presence of a ""box"" and ""obstacle"" aligns with the game's structure.",,boulderchase,False
+last_10,1,portals,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,False
+last_10,1,racebet,Qwen/Qwen3-30B-A3B-Instruct-2507,"racebet
+The game features camels moving toward a goal, a player avatar navigating a maze, and designated pits (A–D) for betting. The layout with walls, camels, goal, and pits matches the described mechanics of racebet, where the player bets on camels and wins if their bet matches the first-place camel and both have exactly two wins. The recurring pattern of camels moving closer to the goal and the avatar's position changing across frames confirms this.",,racebet,True
+last_10,2,boulderchase,Qwen/Qwen3-30B-A3B-Instruct-2507,"boulderchase
+The recurring patterns of boulders rolling down slopes, diamonds appearing on dirt tiles, crabs chasing the player, and the exit door requiring 10 diamonds to open align with the mechanics of BoulderChase. The avatar's movement and the layout of the maze with dirt, walls, and boulders further confirm this.",,boulderchase,True
+last_10,2,brainman,Qwen/Qwen3-30B-A3B-Instruct-2507,"cakybaky
+The avatar moves right through a maze collecting green items sequentially, with a chef chasing the player, and the layout includes walls, doors, and a key, matching the sequential ingredient collection mechanic of cakybaky.",,cakybaky,False
+last_10,2,cakybaky,Qwen/Qwen3-30B-A3B-Instruct-2507,cakybaky,,cakybaky,True
+last_10,2,defender,Qwen/Qwen3-30B-A3B-Instruct-2507,"defender
+The game features a spaceship (avatar) shooting missiles at alien bombers, with supply drops, bombs falling from aliens, and a city to protect. The layout with walls, alien spawn points, bomb drops, and the player's movement patterns match Defender exactly. The presence of ""supply"" and ""bomb"" tiles, along with the avatar's defensive role, confirms it.",,defender,True
+last_10,2,digdug,Qwen/Qwen3-30B-A3B-Instruct-2507,digdug,,digdug,True
+last_10,2,iceandfire,Qwen/Qwen3-30B-A3B-Instruct-2507,"iceandfire
+The recurring elements include fire tiles, ice tiles, fireboots, ice shoes, traps, chips, and an exit. The avatar moves through a maze, must collect specific items (fireboots, ice shoes) to traverse hazardous terrain, and avoids traps. The layout and item placement match the mechanics of IceAndFire, where the player must manage traversal across different terrain types.",,iceandfire,True
+last_10,2,lasers2,Qwen/Qwen3-30B-A3B-Instruct-2507,"boulderchase
+The recurring patterns of boulders rolling down slopes, the presence of a player avatar navigating a maze, and the goal of collecting diamonds to reach an exit align with boulderchase. The consistent layout with walls, obstacles, and the avatar's movement through left actions while boulders progress indicate the game's mechanics.",,boulderchase,False
+last_10,2,portals,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,False
+last_10,2,racebet,Qwen/Qwen3-30B-A3B-Instruct-2507,"racebet
+The game features camels moving toward a goal, a player navigating a maze to place bets on camels by stepping on colored pits, and a win state when a camel reaches the goal and the bet matches the winner. The layout, symbols (camelA, camelB, etc.), pit locations (pitA, pitB), and the final ""winA"" state confirm this is racebet.",,racebet,True
+last_10,3,boulderchase,Qwen/Qwen3-30B-A3B-Instruct-2507,"boulderchase
+The repeated presence of boulders, diamonds, crabs, butterflies, and an exit door, along with the avatar's movement through a maze and the consistent layout patterns, matches the gameplay of boulderchase. The sequence of actions and the changing positions of the avatar, boulders, and enemies (crabs and butterflies) align with the mechanics described in boulderchase.",,boulderchase,True
+last_10,3,brainman,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,False
+last_10,3,cakybaky,Qwen/Qwen3-30B-A3B-Instruct-2507,cakybaky,,cakybaky,True
+last_10,3,defender,Qwen/Qwen3-30B-A3B-Instruct-2507,defender,,defender,True
+last_10,3,digdug,Qwen/Qwen3-30B-A3B-Instruct-2507,digdug,,digdug,True
+last_10,3,iceandfire,Qwen/Qwen3-30B-A3B-Instruct-2507,"iceandfire
+The recurring elements include ice and fire tiles, fireboots and iceshoes for traversal, traps, chips for points, and an exit goal. The avatar must collect appropriate footwear to cross hazardous terrain, and movement is restricted by ice/fire without the correct gear. The consistent layout and symbols match the description of iceandfire.",,iceandfire,True
+last_10,3,lasers2,Qwen/Qwen3-30B-A3B-Instruct-2507,"boulderchase
+The ASCII frames show a maze with walls, a player avatar, a boulder that moves and can be pushed, and a goal. The boulder consistently moves downward and is pushed by the avatar. The layout includes obstacles and a path that the avatar navigates, matching the mechanics of BoulderChase where the player collects diamonds and pushes boulders to progress.",,boulderchase,False
+last_10,3,portals,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,False
+last_10,3,racebet,Qwen/Qwen3-30B-A3B-Instruct-2507,"racebet
+The game features a maze with four camels (A-D) moving toward a goal, pits (A-D) where the player can place bets, and a clear transformation of camels into ""win"" sprites when they reach the goal. The layout, symbols (camelA, camelB, etc.), and the progression from bet placement to camel advancement and final win state match the mechanics of racebet.",,racebet,True
+last_10,4,boulderchase,Qwen/Qwen3-30B-A3B-Instruct-2507,"boulderchase
+The repeated presence of boulders, diamonds, an avatar, enemies (crab, butterfly), and an exit door, along with the consistent maze layout and the progression of the avatar moving through the grid while avoiding hazards, matches the mechanics of BoulderChase. The consistent pattern of boulders falling and the need to collect diamonds to unlock the exit aligns with this game's description.",,boulderchase,True
+last_10,4,brainman,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,False
+last_10,4,cakybaky,Qwen/Qwen3-30B-A3B-Instruct-2507,cakybaky,,cakybaky,True
+last_10,4,defender,Qwen/Qwen3-30B-A3B-Instruct-2507,"defender
+The game features a spaceship avatar defending a city from alien invaders, with aliens spawning from portals, dropping bombs, and moving leftward. The player shoots missiles to destroy aliens and protect the city. Supply crates provide ammo, and the city's health decreases when hit by bombs. The layout, symbols (alien, bomb, supply, city), and gameplay mechanics match Defender exactly.",,multiple,False
+last_10,4,digdug,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,False
+last_10,4,iceandfire,Qwen/Qwen3-30B-A3B-Instruct-2507,"iceandfire
+The recurring elements include ice and fire tiles, fireboots and iceshoes as protective gear, traps, chips for points, and a goal exit. The avatar must navigate hazardous terrain while collecting necessary items to survive, matching the core mechanics of iceandfire.",,iceandfire,True
+last_10,4,lasers2,Qwen/Qwen3-30B-A3B-Instruct-2507,"boulderchase
+The repeated use of ""box"", ""obstacle"", and ""wall"" patterns, along with the avatar moving left through a maze while collecting items and avoiding hazards like boulders, matches the gameplay of boulderchase. The consistent presence of ""ldown"", ""lleft"", and ""lcleft"" symbols suggests the avatar is navigating a grid-based maze with boulders falling and pushing, which aligns with boulderchase mechanics.",,boulderchase,False
+last_10,4,portals,Qwen/Qwen3-30B-A3B-Instruct-2507,boulderchase,,boulderchase,False
+last_10,4,racebet,Qwen/Qwen3-30B-A3B-Instruct-2507,"racebet
+The recurring pattern of camels (A-D) moving toward a goal, colored pits (A-D) for betting, and a central arena with walls and normal areas matches the game racebet. The avatar moves leftward, and the camels progress forward in each frame, indicating a race. The final frame shows ""winA"" at the goal, confirming a win condition for camel A.",,racebet,True

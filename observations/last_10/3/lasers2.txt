@@ -1,0 +1,130 @@
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall   avatar       boulder                       lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall             boulder                     lup lup lup   wall obstacle wall wall wall wall wall wall
+wall   avatar                               lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall               boulder                   lup lup lup   wall obstacle wall wall wall wall wall wall
+wall   avatar                               lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall                 boulder                 lup lup lup   wall obstacle wall wall wall wall wall wall
+wall   avatar                               lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall   avatar               boulder               lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall   avatar                 boulder             lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall     avatar                 boulder           lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall     avatar                   boulder         lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall     avatar                     boulder       lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft avatar lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall                             boulder     lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 

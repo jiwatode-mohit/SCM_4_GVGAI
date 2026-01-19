@@ -1,0 +1,160 @@
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall dirt dirt dirt boulder dirt diamond diamond dirt boulder dirt dirt dirt dirt dirt dirt boulder dirt dirt diamond boulder diamond diamond dirt dirt wall
+wall dirt dirt dirt boulder boulder boulder boulder boulder boulder dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt boulder dirt dirt dirt wall
+wall dirt dirt dirt dirt diamond diamond diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt boulder diamond boulder boulder dirt boulder wall
+wall diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder diamond boulder dirt dirt dirt boulder boulder wall
+wall wall wall wall wall wall wall wall wall wall dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt dirt wall diamond diamond wall
+wall             boulder dirt dirt     dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt wall diamond diamond wall
+wall           diamond diamond dirt       boulder dirt dirt dirt dirt   dirt dirt dirt dirt wall diamond diamond wall
+wall boulder boulder boulder     diamond diamond diamond dirt dirt   dirt dirt dirt dirt dirt   dirt dirt dirt dirt wall dirt dirt wall
+wall diamond diamond diamond diamond   diamond butterfly diamond butterfly diamond crab dirt     wall wall wall wall diamond   diamond dirt boulder boulder wall dirt dirt wall
+wall       diamond diamond diamond butterfly diamond crab butterfly crab crab       boulder boulder diamond diamond     dirt dirt dirt dirt wall dirt dirt wall
+wall       dirt dirt exitdoor diamond crab diamond crab avatar dirt dirt dirt dirt dirt dirt boulder boulder           dirt dirt wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall dirt dirt dirt boulder dirt diamond diamond dirt boulder dirt dirt dirt dirt dirt dirt boulder dirt dirt diamond boulder diamond diamond dirt dirt wall
+wall dirt dirt dirt boulder boulder boulder boulder boulder boulder dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt boulder dirt dirt dirt wall
+wall dirt dirt dirt dirt diamond diamond diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt boulder diamond boulder boulder dirt boulder wall
+wall diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder diamond boulder dirt dirt dirt boulder boulder wall
+wall wall wall wall wall wall wall wall wall wall dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt dirt wall diamond diamond wall
+wall             boulder dirt dirt     dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt wall diamond diamond wall
+wall           diamond diamond dirt       boulder dirt dirt dirt dirt   dirt dirt dirt dirt wall diamond diamond wall
+wall boulder boulder boulder     diamond diamond diamond dirt dirt   dirt dirt dirt dirt dirt   dirt dirt dirt dirt wall dirt dirt wall
+wall diamond diamond diamond diamond   diamond butterfly diamond butterfly diamond crab diamond crab     wall wall wall wall diamond   diamond dirt boulder boulder wall dirt dirt wall
+wall       diamond diamond diamond butterfly diamond crab butterfly crab crab crab     boulder boulder diamond diamond     dirt dirt dirt dirt wall dirt dirt wall
+wall       dirt dirt exitdoor diamond crab diamond crab avatar dirt dirt dirt dirt dirt dirt boulder boulder           dirt dirt wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall dirt dirt dirt boulder dirt diamond diamond dirt boulder dirt dirt dirt dirt dirt dirt boulder dirt dirt diamond boulder diamond diamond dirt dirt wall
+wall dirt dirt dirt boulder boulder boulder boulder boulder boulder dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt boulder dirt dirt dirt wall
+wall dirt dirt dirt dirt diamond diamond diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt boulder diamond boulder boulder dirt boulder wall
+wall diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder diamond boulder dirt dirt dirt boulder boulder wall
+wall wall wall wall wall wall wall wall wall wall dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt dirt wall diamond diamond wall
+wall             boulder dirt dirt     dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt wall diamond diamond wall
+wall           diamond diamond dirt       boulder dirt dirt dirt dirt   dirt dirt dirt dirt wall diamond diamond wall
+wall boulder boulder boulder     diamond diamond diamond dirt dirt   dirt dirt dirt dirt dirt   dirt dirt dirt dirt wall dirt dirt wall
+wall diamond diamond diamond diamond   diamond butterfly diamond butterfly diamond crab diamond crab     wall wall wall wall diamond   diamond dirt boulder boulder wall dirt dirt wall
+wall       diamond diamond diamond butterfly diamond crab butterfly crab crab crab     boulder boulder diamond diamond     dirt dirt dirt dirt wall dirt dirt wall
+wall       dirt dirt exitdoor diamond crab diamond crab avatar dirt dirt dirt dirt dirt dirt boulder boulder           dirt dirt wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall dirt dirt dirt boulder dirt diamond diamond dirt boulder dirt dirt dirt dirt dirt dirt boulder dirt dirt diamond boulder diamond diamond dirt dirt wall
+wall dirt dirt dirt boulder boulder boulder boulder boulder boulder dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt boulder dirt dirt dirt wall
+wall dirt dirt dirt dirt diamond diamond diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt boulder diamond boulder boulder dirt boulder wall
+wall diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder diamond boulder dirt dirt dirt boulder boulder wall
+wall wall wall wall wall wall wall wall wall wall dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt dirt wall diamond diamond wall
+wall             boulder dirt dirt     dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt wall diamond diamond wall
+wall           diamond diamond dirt       boulder dirt dirt dirt dirt   dirt dirt dirt dirt wall diamond diamond wall
+wall boulder boulder boulder     diamond diamond diamond dirt dirt   dirt dirt dirt dirt dirt   dirt dirt dirt dirt wall dirt dirt wall
+wall diamond diamond diamond diamond   diamond butterfly diamond butterfly diamond crab diamond crab     wall wall wall wall diamond   diamond dirt boulder boulder wall dirt dirt wall
+wall       diamond diamond diamond butterfly diamond crab butterfly crab crab crab     boulder boulder diamond diamond     dirt dirt dirt dirt wall dirt dirt wall
+wall       dirt dirt exitdoor diamond crab diamond crab avatar dirt dirt dirt dirt dirt dirt boulder boulder           dirt dirt wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall dirt dirt dirt boulder dirt diamond diamond dirt boulder dirt dirt dirt dirt dirt dirt boulder dirt dirt diamond boulder diamond diamond dirt dirt wall
+wall dirt dirt dirt boulder boulder boulder boulder boulder boulder dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt boulder dirt dirt dirt wall
+wall dirt dirt dirt dirt diamond diamond diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt boulder diamond boulder boulder dirt boulder wall
+wall diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder diamond boulder dirt dirt dirt boulder boulder wall
+wall wall wall wall wall wall wall wall wall wall dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt dirt wall diamond diamond wall
+wall             boulder dirt dirt     dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt wall diamond diamond wall
+wall           diamond diamond dirt       boulder dirt dirt dirt dirt   dirt dirt dirt dirt wall diamond diamond wall
+wall boulder boulder boulder     diamond diamond diamond dirt dirt   dirt dirt dirt dirt dirt   dirt dirt dirt dirt wall dirt dirt wall
+wall diamond diamond diamond diamond   diamond butterfly diamond butterfly diamond crab diamond crab     wall wall wall wall diamond   diamond dirt boulder boulder wall dirt dirt wall
+wall       diamond diamond diamond butterfly diamond crab butterfly crab crab crab     boulder boulder diamond diamond     dirt dirt dirt dirt wall dirt dirt wall
+wall       dirt dirt exitdoor diamond crab diamond crab avatar sword dirt dirt dirt dirt dirt boulder boulder           dirt dirt wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall dirt dirt dirt boulder dirt diamond diamond dirt boulder dirt dirt dirt dirt dirt dirt boulder dirt dirt diamond boulder diamond diamond dirt dirt wall
+wall dirt dirt dirt boulder boulder boulder boulder boulder boulder dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt boulder dirt dirt dirt wall
+wall dirt dirt dirt dirt diamond diamond diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt boulder diamond boulder boulder dirt boulder wall
+wall diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder diamond boulder dirt dirt dirt boulder boulder wall
+wall wall wall wall wall wall wall wall wall wall dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt dirt wall diamond diamond wall
+wall             boulder dirt dirt     dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt wall diamond diamond wall
+wall           diamond diamond dirt       boulder dirt dirt dirt dirt   dirt dirt dirt dirt wall diamond diamond wall
+wall boulder boulder boulder     diamond diamond diamond dirt dirt   dirt dirt dirt dirt dirt   dirt dirt dirt dirt wall dirt dirt wall
+wall diamond diamond diamond diamond   diamond butterfly diamond butterfly diamond crab diamond crab     wall wall wall wall diamond   diamond dirt boulder boulder wall dirt dirt wall
+wall       diamond diamond diamond butterfly diamond crab butterfly crab crab crab     boulder boulder diamond diamond     dirt dirt dirt dirt wall dirt dirt wall
+wall       dirt dirt exitdoor diamond crab diamond crab avatar sword dirt dirt dirt dirt dirt boulder boulder           dirt dirt wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall dirt dirt dirt boulder dirt diamond diamond dirt boulder dirt dirt dirt dirt dirt dirt boulder dirt dirt diamond boulder diamond diamond dirt dirt wall
+wall dirt dirt dirt boulder boulder boulder boulder boulder boulder dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt boulder dirt dirt dirt wall
+wall dirt dirt dirt dirt diamond diamond diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt boulder diamond boulder boulder dirt boulder wall
+wall diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder diamond boulder dirt dirt dirt boulder boulder wall
+wall wall wall wall wall wall wall wall wall wall dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt dirt wall diamond diamond wall
+wall             boulder dirt dirt     dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt wall diamond diamond wall
+wall           diamond diamond dirt       boulder dirt dirt dirt dirt   dirt dirt dirt dirt wall diamond diamond wall
+wall boulder boulder boulder     diamond diamond diamond dirt dirt   dirt dirt dirt dirt dirt   dirt dirt dirt dirt wall dirt dirt wall
+wall diamond diamond diamond diamond   diamond butterfly diamond butterfly diamond crab diamond crab     wall wall wall wall diamond   diamond dirt boulder boulder wall dirt dirt wall
+wall       diamond diamond diamond butterfly diamond crab butterfly crab crab crab     boulder boulder diamond diamond     dirt dirt dirt dirt wall dirt dirt wall
+wall       dirt dirt exitdoor diamond crab diamond crab avatar   dirt dirt dirt dirt dirt boulder boulder           dirt dirt wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall dirt dirt dirt boulder dirt diamond diamond dirt boulder dirt dirt dirt dirt dirt dirt boulder dirt dirt diamond boulder diamond diamond dirt dirt wall
+wall dirt dirt dirt boulder boulder boulder boulder boulder boulder dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt boulder dirt dirt dirt wall
+wall dirt dirt dirt dirt diamond diamond diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt boulder diamond boulder boulder dirt boulder wall
+wall diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder diamond boulder dirt dirt dirt boulder boulder wall
+wall wall wall wall wall wall wall wall wall wall dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt dirt wall diamond diamond wall
+wall             boulder dirt dirt     dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt wall diamond diamond wall
+wall           diamond diamond dirt       boulder dirt dirt dirt dirt   dirt dirt dirt dirt wall diamond diamond wall
+wall boulder boulder boulder     diamond diamond diamond dirt dirt   dirt dirt dirt dirt dirt   dirt dirt dirt dirt wall dirt dirt wall
+wall diamond diamond diamond diamond   diamond butterfly diamond butterfly diamond crab diamond crab     wall wall wall wall diamond   diamond dirt boulder boulder wall dirt dirt wall
+wall       diamond diamond diamond butterfly diamond crab butterfly crab crab crab     boulder boulder diamond diamond     dirt dirt dirt dirt wall dirt dirt wall
+wall       dirt dirt exitdoor diamond crab diamond crab avatar   dirt dirt dirt dirt dirt boulder boulder           dirt dirt wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall dirt dirt dirt boulder dirt diamond diamond dirt boulder dirt dirt dirt dirt dirt dirt boulder dirt dirt diamond boulder diamond diamond dirt dirt wall
+wall dirt dirt dirt boulder boulder boulder boulder boulder boulder dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt boulder dirt dirt dirt wall
+wall dirt dirt dirt dirt diamond diamond diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt boulder diamond boulder boulder dirt boulder wall
+wall diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder diamond boulder dirt dirt dirt boulder boulder wall
+wall wall wall wall wall wall wall wall wall wall dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt dirt wall diamond diamond wall
+wall             boulder dirt dirt     dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt wall diamond diamond wall
+wall           diamond diamond dirt       boulder dirt dirt dirt dirt   dirt dirt dirt dirt wall diamond diamond wall
+wall boulder boulder boulder     diamond diamond diamond dirt dirt   dirt dirt dirt dirt dirt   dirt dirt dirt dirt wall dirt dirt wall
+wall diamond diamond diamond diamond   diamond butterfly diamond butterfly diamond crab diamond crab     wall wall wall wall diamond   diamond dirt boulder boulder wall dirt dirt wall
+wall       diamond diamond diamond butterfly diamond crab butterfly crab crab crab     boulder boulder diamond diamond     dirt dirt dirt dirt wall dirt dirt wall
+wall       dirt dirt exitdoor diamond crab diamond crab avatar   dirt dirt dirt dirt dirt boulder boulder           dirt dirt wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall dirt dirt dirt boulder dirt diamond diamond dirt boulder dirt dirt dirt dirt dirt dirt boulder dirt dirt diamond boulder diamond diamond dirt dirt wall
+wall dirt dirt dirt boulder boulder boulder boulder boulder boulder dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt boulder dirt dirt dirt wall
+wall dirt dirt dirt dirt diamond diamond diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt boulder diamond boulder boulder dirt boulder wall
+wall diamond dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt boulder diamond boulder dirt dirt dirt boulder boulder wall
+wall wall wall wall wall wall wall wall wall wall dirt dirt dirt dirt dirt dirt dirt dirt boulder dirt dirt dirt wall diamond diamond wall
+wall             boulder dirt dirt     dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt wall diamond diamond wall
+wall           diamond diamond dirt       boulder dirt dirt dirt dirt   dirt dirt dirt dirt wall diamond diamond wall
+wall boulder boulder boulder     diamond diamond diamond dirt dirt   dirt dirt dirt dirt dirt   dirt dirt dirt dirt wall dirt dirt wall
+wall diamond diamond diamond diamond   diamond butterfly diamond butterfly diamond crab diamond crab     wall wall wall wall diamond   diamond dirt boulder boulder wall dirt dirt wall
+wall       diamond diamond diamond butterfly diamond crab butterfly crab crab avatar crab     boulder boulder diamond diamond     dirt dirt dirt dirt wall dirt dirt wall
+wall       dirt dirt exitdoor diamond crab diamond crab     dirt dirt dirt dirt dirt boulder boulder           dirt dirt wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 

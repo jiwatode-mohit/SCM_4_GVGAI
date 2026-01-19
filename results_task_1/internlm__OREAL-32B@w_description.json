@@ -1,0 +1,2090 @@
+{
+    "subsets": {
+        "first_10": {
+            "standard": {
+                "0": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "1": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "2": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "3": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "4": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "lasers2",
+                        "thought": null,
+                        "prediction": "lasers2"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                }
+            },
+            "constructive": {
+                "0": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "1": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "2": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "3": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "4": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                }
+            },
+            "destructive": {
+                "0": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "lasers2": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "1": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "2": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "3": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "4": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                }
+            },
+            "vgdl": {
+                "0": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "1": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "2": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "3": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "4": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                }
+            }
+        },
+        "last_10": {
+            "standard": {
+                "0": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "1": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "2": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "3": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "4": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "portals": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                }
+            },
+            "constructive": {
+                "0": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "iceandfire": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "1": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "2": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "3": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "4": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                }
+            },
+            "destructive": {
+                "0": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "digdug": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "iceandfire": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    }
+                },
+                "1": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    }
+                },
+                "2": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "3": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    }
+                },
+                "4": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    }
+                }
+            },
+            "vgdl": {
+                "0": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "1": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "2": {
+                    "boulderchase": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "brainman": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "3": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "lasers2",
+                        "thought": null,
+                        "prediction": "lasers2"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                },
+                "4": {
+                    "boulderchase": {
+                        "reply": "boulderchase",
+                        "thought": null,
+                        "prediction": "boulderchase"
+                    },
+                    "brainman": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "cakybaky": {
+                        "reply": "cakybaky",
+                        "thought": null,
+                        "prediction": "cakybaky"
+                    },
+                    "defender": {
+                        "reply": "defender",
+                        "thought": null,
+                        "prediction": "defender"
+                    },
+                    "digdug": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "iceandfire": {
+                        "reply": "iceandfire",
+                        "thought": null,
+                        "prediction": "iceandfire"
+                    },
+                    "lasers2": {
+                        "reply": "portals",
+                        "thought": null,
+                        "prediction": "portals"
+                    },
+                    "portals": {
+                        "reply": "brainman",
+                        "thought": null,
+                        "prediction": "brainman"
+                    },
+                    "racebet": {
+                        "reply": "racebet",
+                        "thought": null,
+                        "prediction": "racebet"
+                    }
+                }
+            }
+        }
+    },
+    "modes": [
+        "standard",
+        "constructive",
+        "destructive",
+        "vgdl"
+    ],
+    "iterations": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "description_variants": {
+        "constructive": {
+            "0": {
+                "racebet": "**Game Name: RaceBet**\n\n**Description:**\nIn RaceBet, players aim to predict which camel will win a race. The game involves betting by positioning oneself on one of the betting spots corresponding to a specific camel. The outcome is binary: if the chosen camel wins, the player wins; otherwise, the player loses. There are no points awarded; the focus is solely on the correctness of the bet.",
+                "digdug": "In \"Digdug,\" players navigate through a cave system, collecting all gems and gold coins to win. The game involves digging through the cave walls to create paths and avoid obstacles. Players must also contend with enemies that roam the levels; contact with these enemies results in the player's demise. To combat enemies, players can shoot boulders by pressing the USE button twice in quick succession. These boulders can eliminate enemies, aiding the player's progression through the levels.",
+                "brainman": "**Game Name: Brainman**\n\n**Description:**\nIn Brainman, the player's objective is to navigate through a series of rooms by pushing keys into doors to open them and reach the exit. Along the way, the player can collect gems scattered throughout the levels, which contribute to the player's score. Keys are moved by colliding with them, and once pushed, they travel in a straight line until they hit another object or a door. When a key hits a door, both the key and the door are destroyed, allowing the player to proceed. The game challenges the player's problem-solving skills and spatial awareness as they figure out the optimal paths to collect gems and reach the exit.",
+                "defender": "**Game Name: Defender**\n\n**Description:**\nIn *Defender*, the player's objective is to protect a city from incoming enemies. Enemies spawn on the right side of the screen and move across, bombing the city as they go. The player must eliminate these enemies before they can cause too much damage. If the city is destroyed, the player loses the game. The player's ammunition is replenished by collecting supplies that drop from the top of the screen. Regularly collecting these supplies is essential to avoid running out of ammo.",
+                "lasers2": "**Game Name: Lasers2**\n\n**Objective:** Reach the exit, usually blocked by a mud sprite.\n\n**Gameplay Mechanics:**\n- **Mud Sprite:** Destroyed by directing a laser at it.\n- **Laser Cannons:** Player can change their orientation by shooting at them.\n- **Crystal Blocks:** Can be rotated to deflect lasers in specific directions.\n- **Player Hazard:** Lasers kill the player on contact.\n\n**Key Features:**\n- Strategic placement and redirection of lasers.\n- Rotating crystal blocks to manipulate laser paths.\n- Avoiding direct contact with lasers to prevent death.",
+                "boulderchase": "**Enhanced Description:**\n\nIn Boulderchase, players navigate a perilous cave to collect at least 9 gems and find the exit. The core gameplay involves strategic digging to create paths while avoiding deadly boulders that fall when unsupported. These boulders can crush both the player and enemies. Additionally, enemies roam the cave, capable of digging and dropping gems that players can collect. Players must carefully manage their movements and digging to avoid enemy contact and boulder traps, ensuring they collect the required gems and reach the exit safely.",
+                "portals": "**Game Name: Portals**\n\n**Description:**\nIn the game \"Portals,\" players control an avatar tasked with finding the exit of a complex maze. The maze is filled with entry and exit portals; each time the player passes through an entry portal, they are randomly teleported to one of the exit portals. Additionally, the maze is populated with enemies and missiles that can kill the player upon contact. The objective is to navigate through the maze, using the portals strategically, while avoiding or eliminating obstacles to reach the exit.",
+                "iceandfire": "**Game Name: Ice and Fire**\n\n**Objective:** Navigate through a maze to find the exit while avoiding traps and hazardous surfaces.\n\n**Gameplay Mechanics:**\n- **Maze Navigation:** The game features a complex maze with multiple paths and dead ends.\n- **Hazardous Surfaces:** The maze includes ice and fire surfaces that are lethal upon contact.\n- **Boots Collection:** Players can collect ice boots and fire boots to safely traverse the respective surfaces.\n- **Coin Collection:** Scattered throughout the maze are coins that players can collect to increase their score.\n\n**Key Features:**\n- **Traps:** Various traps are placed within the maze to challenge the player.\n- **Surface Interaction:** Appropriate boots are required to avoid damage from ice and fire surfaces.\n- **Scoring System:** Collecting coins rewards the player with points, adding an element of competition.\n\n**Goal:** Reach the maze exit while maximizing the score by collecting coins and avoiding hazards.",
+                "cakybaky": "**Game Name: Cakybaky**\n\n**Description:**\nIn Cakybaky, your objective is to bake a cake by collecting specific ingredients in the correct order. The recipe requires flour, milk, eggs, sugar, butter, and cherries, though not all levels include every ingredient. As you navigate through the level, you must avoid angry chefs who chase you. Each chef is only active when you are collecting their favorite ingredient. If a chef catches you, you lose. The game challenges your timing and evasion skills as you collect ingredients while avoiding these chef obstacles."
+            },
+            "1": {
+                "racebet": "**Game Name: RaceBet**\n\n**Description:**\nIn RaceBet, players aim to predict which camel will win a race. The game involves betting by positioning oneself on one of the betting spots corresponding to a specific camel. The outcome is binary: if the chosen camel wins, the player wins; otherwise, the player loses. There are no points awarded; the focus is solely on the correctness of the bet.",
+                "digdug": "In \"Digdug,\" players navigate through a cave system, collecting all gems and gold coins to win. The game involves digging through the cave walls to create paths and avoid obstacles. Players must also contend with enemies that roam the levels; contact with these enemies results in the player's demise. To combat enemies, players can shoot boulders by pressing the USE button twice in quick succession. These boulders can eliminate enemies, aiding the player's progression through the levels.",
+                "brainman": "**Game Name: Brainman**\n\n**Description:**\nIn Brainman, the player's objective is to navigate through a series of rooms by pushing keys into doors to open them and reach the exit. Along the way, the player can collect gems scattered throughout the levels, which contribute to the player's score. Keys are moved by colliding with them, and once pushed, they travel in a straight line until they hit another object or a door. When a key hits a door, both the key and the door are destroyed, allowing the player to proceed. The game challenges the player's problem-solving skills and spatial awareness as they figure out the optimal paths to collect gems and reach the exit.",
+                "defender": "**Game Name: Defender**\n\n**Description:**\nIn *Defender*, the player's objective is to protect a city from incoming enemies. Enemies spawn on the right side of the screen and move across, bombing the city as they go. The player must eliminate these enemies before they can cause too much damage. If the city is destroyed, the player loses the game. The player's ammunition is replenished by collecting supplies that drop from the top of the screen. Regularly collecting these supplies is essential to avoid running out of ammo.",
+                "lasers2": "**Game Name: Lasers2**\n\n**Objective:** Reach the exit, usually blocked by a mud sprite.\n\n**Gameplay Mechanics:**\n- **Mud Sprite:** Destroyed by directing a laser at it.\n- **Laser Cannons:** Player can change their orientation by shooting at them.\n- **Crystal Blocks:** Can be rotated to deflect lasers in specific directions.\n- **Player Hazard:** Lasers kill the player on contact.\n\n**Key Features:**\n- Strategic placement and redirection of lasers.\n- Rotating crystal blocks to manipulate laser paths.\n- Avoiding direct contact with lasers to prevent death.",
+                "boulderchase": "**Enhanced Description:**\n\nIn Boulderchase, players navigate a perilous cave to collect at least 9 gems and find the exit. The core gameplay involves strategic digging to create paths while avoiding deadly boulders that fall when unsupported. These boulders can crush both the player and enemies. Additionally, enemies roam the cave, capable of digging and dropping gems that players can collect. Players must carefully manage their movements and digging to avoid enemy contact and boulder traps, ensuring they collect the required gems and reach the exit safely.",
+                "portals": "**Game Name: Portals**\n\n**Description:**\nIn the game \"Portals,\" players control an avatar tasked with finding the exit of a complex maze. The maze is filled with entry and exit portals; each time the player passes through an entry portal, they are randomly teleported to one of the exit portals. Additionally, the maze is populated with enemies and missiles that can kill the player upon contact. The objective is to navigate through the maze, using the portals strategically, while avoiding or eliminating obstacles to reach the exit.",
+                "iceandfire": "**Game Name: Ice and Fire**\n\n**Objective:** Navigate through a maze to find the exit while avoiding traps and hazardous surfaces.\n\n**Gameplay Mechanics:**\n- **Maze Navigation:** The game features a complex maze with multiple paths and dead ends.\n- **Hazardous Surfaces:** The maze includes ice and fire surfaces that are lethal upon contact.\n- **Boots Collection:** Players can collect ice boots and fire boots to safely traverse the respective surfaces.\n- **Coin Collection:** Scattered throughout the maze are coins that players can collect to increase their score.\n\n**Key Features:**\n- **Traps:** Various traps are placed within the maze to challenge the player.\n- **Surface Interaction:** Appropriate boots are required to avoid damage from ice and fire surfaces.\n- **Scoring System:** Collecting coins rewards the player with points, adding an element of competition.\n\n**Goal:** Reach the maze exit while maximizing the score by collecting coins and avoiding hazards.",
+                "cakybaky": "**Game Name: Cakybaky**\n\n**Description:**\nIn Cakybaky, your objective is to bake a cake by collecting specific ingredients in the correct order. The recipe requires flour, milk, eggs, sugar, butter, and cherries, though not all levels include every ingredient. As you navigate through the level, you must avoid angry chefs who chase you. Each chef is only active when you are collecting their favorite ingredient. If a chef catches you, you lose. The game challenges your timing and evasion skills as you collect ingredients while avoiding these chef obstacles."
+            },
+            "2": {
+                "racebet": "**Game Name: RaceBet**\n\n**Description:**\nIn RaceBet, players aim to predict which camel will win a race. The game involves betting by positioning oneself on one of the betting spots corresponding to a specific camel. The outcome is binary: if the chosen camel wins, the player wins; otherwise, the player loses. There are no points awarded; the focus is solely on the correctness of the bet.",
+                "digdug": "In \"Digdug,\" players navigate through a cave system, collecting all gems and gold coins to win. The game involves digging through the cave walls to create paths and avoid obstacles. Players must also contend with enemies that roam the levels; contact with these enemies results in the player's demise. To combat enemies, players can shoot boulders by pressing the USE button twice in quick succession. These boulders can eliminate enemies, aiding the player's progression through the levels.",
+                "brainman": "**Game Name: Brainman**\n\n**Description:**\nIn Brainman, the player's objective is to navigate through a series of rooms by pushing keys into doors to open them and reach the exit. Along the way, the player can collect gems scattered throughout the levels, which contribute to the player's score. Keys are moved by colliding with them, and once pushed, they travel in a straight line until they hit another object or a door. When a key hits a door, both the key and the door are destroyed, allowing the player to proceed. The game challenges the player's problem-solving skills and spatial awareness as they figure out the optimal paths to collect gems and reach the exit.",
+                "defender": "**Game Name: Defender**\n\n**Description:**\nIn *Defender*, the player's objective is to protect a city from incoming enemies. Enemies spawn on the right side of the screen and move across, bombing the city as they go. The player must eliminate these enemies before they can cause too much damage. If the city is destroyed, the player loses the game. The player's ammunition is replenished by collecting supplies that drop from the top of the screen. Regularly collecting these supplies is essential to avoid running out of ammo.",
+                "lasers2": "**Game Name: Lasers2**\n\n**Objective:** Reach the exit, usually blocked by a mud sprite.\n\n**Gameplay Mechanics:**\n- **Mud Sprite:** Destroyed by directing a laser at it.\n- **Laser Cannons:** Player can change their orientation by shooting at them.\n- **Crystal Blocks:** Can be rotated to deflect lasers in specific directions.\n- **Player Hazard:** Lasers kill the player on contact.\n\n**Key Features:**\n- Strategic placement and redirection of lasers.\n- Rotating crystal blocks to manipulate laser paths.\n- Avoiding direct contact with lasers to prevent death.",
+                "boulderchase": "**Enhanced Description:**\n\nIn Boulderchase, players navigate a perilous cave to collect at least 9 gems and find the exit. The core gameplay involves strategic digging to create paths while avoiding deadly boulders that fall when unsupported. These boulders can crush both the player and enemies. Additionally, enemies roam the cave, capable of digging and dropping gems that players can collect. Players must carefully manage their movements and digging to avoid enemy contact and boulder traps, ensuring they collect the required gems and reach the exit safely.",
+                "portals": "**Game Name: Portals**\n\n**Description:**\nIn the game \"Portals,\" players control an avatar tasked with finding the exit of a complex maze. The maze is filled with entry and exit portals; each time the player passes through an entry portal, they are randomly teleported to one of the exit portals. Additionally, the maze is populated with enemies and missiles that can kill the player upon contact. The objective is to navigate through the maze, using the portals strategically, while avoiding or eliminating obstacles to reach the exit.",
+                "iceandfire": "**Game Name: Ice and Fire**\n\n**Objective:** Navigate through a maze to find the exit while avoiding traps and hazardous surfaces.\n\n**Gameplay Mechanics:**\n- **Maze Navigation:** The game features a complex maze with multiple paths and dead ends.\n- **Hazardous Surfaces:** The maze includes ice and fire surfaces that are lethal upon contact.\n- **Boots Collection:** Players can collect ice boots and fire boots to safely traverse the respective surfaces.\n- **Coin Collection:** Scattered throughout the maze are coins that players can collect to increase their score.\n\n**Key Features:**\n- **Traps:** Various traps are placed within the maze to challenge the player.\n- **Surface Interaction:** Appropriate boots are required to avoid damage from ice and fire surfaces.\n- **Scoring System:** Collecting coins rewards the player with points, adding an element of competition.\n\n**Goal:** Reach the maze exit while maximizing the score by collecting coins and avoiding hazards.",
+                "cakybaky": "**Game Name: Cakybaky**\n\n**Description:**\nIn Cakybaky, your objective is to bake a cake by collecting specific ingredients in the correct order. The recipe requires flour, milk, eggs, sugar, butter, and cherries, though not all levels include every ingredient. As you navigate through the level, you must avoid angry chefs who chase you. Each chef is only active when you are collecting their favorite ingredient. If a chef catches you, you lose. The game challenges your timing and evasion skills as you collect ingredients while avoiding these chef obstacles."
+            },
+            "3": {
+                "racebet": "**Game Name: RaceBet**\n\n**Description:**\nIn RaceBet, players aim to predict which camel will win a race. The game involves betting by positioning oneself on one of the betting spots corresponding to a specific camel. The outcome is binary: if the chosen camel wins, the player wins; otherwise, the player loses. There are no points awarded; the focus is solely on the correctness of the bet.",
+                "digdug": "In \"Digdug,\" players navigate through a cave system, collecting all gems and gold coins to win. The game involves digging through the cave walls to create paths and avoid obstacles. Players must also contend with enemies that roam the levels; contact with these enemies results in the player's demise. To combat enemies, players can shoot boulders by pressing the USE button twice in quick succession. These boulders can eliminate enemies, aiding the player's progression through the levels.",
+                "brainman": "**Game Name: Brainman**\n\n**Description:**\nIn Brainman, the player's objective is to navigate through a series of rooms by pushing keys into doors to open them and reach the exit. Along the way, the player can collect gems scattered throughout the levels, which contribute to the player's score. Keys are moved by colliding with them, and once pushed, they travel in a straight line until they hit another object or a door. When a key hits a door, both the key and the door are destroyed, allowing the player to proceed. The game challenges the player's problem-solving skills and spatial awareness as they figure out the optimal paths to collect gems and reach the exit.",
+                "defender": "**Game Name: Defender**\n\n**Description:**\nIn *Defender*, the player's objective is to protect a city from incoming enemies. Enemies spawn on the right side of the screen and move across, bombing the city as they go. The player must eliminate these enemies before they can cause too much damage. If the city is destroyed, the player loses the game. The player's ammunition is replenished by collecting supplies that drop from the top of the screen. Regularly collecting these supplies is essential to avoid running out of ammo.",
+                "lasers2": "**Game Name: Lasers2**\n\n**Objective:** Reach the exit, usually blocked by a mud sprite.\n\n**Gameplay Mechanics:**\n- **Mud Sprite:** Destroyed by directing a laser at it.\n- **Laser Cannons:** Player can change their orientation by shooting at them.\n- **Crystal Blocks:** Can be rotated to deflect lasers in specific directions.\n- **Player Hazard:** Lasers kill the player on contact.\n\n**Key Features:**\n- Strategic placement and redirection of lasers.\n- Rotating crystal blocks to manipulate laser paths.\n- Avoiding direct contact with lasers to prevent death.",
+                "boulderchase": "**Enhanced Description:**\n\nIn Boulderchase, players navigate a perilous cave to collect at least 9 gems and find the exit. The core gameplay involves strategic digging to create paths while avoiding deadly boulders that fall when unsupported. These boulders can crush both the player and enemies. Additionally, enemies roam the cave, capable of digging and dropping gems that players can collect. Players must carefully manage their movements and digging to avoid enemy contact and boulder traps, ensuring they collect the required gems and reach the exit safely.",
+                "portals": "**Game Name: Portals**\n\n**Description:**\nIn the game \"Portals,\" players control an avatar tasked with finding the exit of a complex maze. The maze is filled with entry and exit portals; each time the player passes through an entry portal, they are randomly teleported to one of the exit portals. Additionally, the maze is populated with enemies and missiles that can kill the player upon contact. The objective is to navigate through the maze, using the portals strategically, while avoiding or eliminating obstacles to reach the exit.",
+                "iceandfire": "**Game Name: Ice and Fire**\n\n**Objective:** Navigate through a maze to find the exit while avoiding traps and hazardous surfaces.\n\n**Gameplay Mechanics:**\n- **Maze Navigation:** The game features a complex maze with multiple paths and dead ends.\n- **Hazardous Surfaces:** The maze includes ice and fire surfaces that are lethal upon contact.\n- **Boots Collection:** Players can collect ice boots and fire boots to safely traverse the respective surfaces.\n- **Coin Collection:** Scattered throughout the maze are coins that players can collect to increase their score.\n\n**Key Features:**\n- **Traps:** Various traps are placed within the maze to challenge the player.\n- **Surface Interaction:** Appropriate boots are required to avoid damage from ice and fire surfaces.\n- **Scoring System:** Collecting coins rewards the player with points, adding an element of competition.\n\n**Goal:** Reach the maze exit while maximizing the score by collecting coins and avoiding hazards.",
+                "cakybaky": "**Game Name: Cakybaky**\n\n**Description:**\nIn Cakybaky, your objective is to bake a cake by collecting specific ingredients in the correct order. The recipe requires flour, milk, eggs, sugar, butter, and cherries, though not all levels include every ingredient. As you navigate through the level, you must avoid angry chefs who chase you. Each chef is only active when you are collecting their favorite ingredient. If a chef catches you, you lose. The game challenges your timing and evasion skills as you collect ingredients while avoiding these chef obstacles."
+            },
+            "4": {
+                "racebet": "**Game Name: RaceBet**\n\n**Description:**\nIn RaceBet, players aim to predict which camel will win a race. The game involves betting by positioning oneself on one of the betting spots corresponding to a specific camel. The outcome is binary: if the chosen camel wins, the player wins; otherwise, the player loses. There are no points awarded; the focus is solely on the correctness of the bet.",
+                "digdug": "In \"Digdug,\" players navigate through a cave system, collecting all gems and gold coins to win. The game involves digging through the cave walls to create paths and avoid obstacles. Players must also contend with enemies that roam the levels; contact with these enemies results in the player's demise. To combat enemies, players can shoot boulders by pressing the USE button twice in quick succession. These boulders can eliminate enemies, aiding the player's progression through the levels.",
+                "brainman": "**Game Name: Brainman**\n\n**Description:**\nIn Brainman, the player's objective is to navigate through a series of rooms by pushing keys into doors to open them and reach the exit. Along the way, the player can collect gems scattered throughout the levels, which contribute to the player's score. Keys are moved by colliding with them, and once pushed, they travel in a straight line until they hit another object or a door. When a key hits a door, both the key and the door are destroyed, allowing the player to proceed. The game challenges the player's problem-solving skills and spatial awareness as they figure out the optimal paths to collect gems and reach the exit.",
+                "defender": "**Game Name: Defender**\n\n**Description:**\nIn *Defender*, the player's objective is to protect a city from incoming enemies. Enemies spawn on the right side of the screen and move across, bombing the city as they go. The player must eliminate these enemies before they can cause too much damage. If the city is destroyed, the player loses the game. The player's ammunition is replenished by collecting supplies that drop from the top of the screen. Regularly collecting these supplies is essential to avoid running out of ammo.",
+                "lasers2": "**Game Name: Lasers2**\n\n**Objective:** Reach the exit, usually blocked by a mud sprite.\n\n**Gameplay Mechanics:**\n- **Mud Sprite:** Destroyed by directing a laser at it.\n- **Laser Cannons:** Player can change their orientation by shooting at them.\n- **Crystal Blocks:** Can be rotated to deflect lasers in specific directions.\n- **Player Hazard:** Lasers kill the player on contact.\n\n**Key Features:**\n- Strategic placement and redirection of lasers.\n- Rotating crystal blocks to manipulate laser paths.\n- Avoiding direct contact with lasers to prevent death.",
+                "boulderchase": "**Enhanced Description:**\n\nIn Boulderchase, players navigate a perilous cave to collect at least 9 gems and find the exit. The core gameplay involves strategic digging to create paths while avoiding deadly boulders that fall when unsupported. These boulders can crush both the player and enemies. Additionally, enemies roam the cave, capable of digging and dropping gems that players can collect. Players must carefully manage their movements and digging to avoid enemy contact and boulder traps, ensuring they collect the required gems and reach the exit safely.",
+                "portals": "**Game Name: Portals**\n\n**Description:**\nIn the game \"Portals,\" players control an avatar tasked with finding the exit of a complex maze. The maze is filled with entry and exit portals; each time the player passes through an entry portal, they are randomly teleported to one of the exit portals. Additionally, the maze is populated with enemies and missiles that can kill the player upon contact. The objective is to navigate through the maze, using the portals strategically, while avoiding or eliminating obstacles to reach the exit.",
+                "iceandfire": "**Game Name: Ice and Fire**\n\n**Objective:** Navigate through a maze to find the exit while avoiding traps and hazardous surfaces.\n\n**Gameplay Mechanics:**\n- **Maze Navigation:** The game features a complex maze with multiple paths and dead ends.\n- **Hazardous Surfaces:** The maze includes ice and fire surfaces that are lethal upon contact.\n- **Boots Collection:** Players can collect ice boots and fire boots to safely traverse the respective surfaces.\n- **Coin Collection:** Scattered throughout the maze are coins that players can collect to increase their score.\n\n**Key Features:**\n- **Traps:** Various traps are placed within the maze to challenge the player.\n- **Surface Interaction:** Appropriate boots are required to avoid damage from ice and fire surfaces.\n- **Scoring System:** Collecting coins rewards the player with points, adding an element of competition.\n\n**Goal:** Reach the maze exit while maximizing the score by collecting coins and avoiding hazards.",
+                "cakybaky": "**Game Name: Cakybaky**\n\n**Description:**\nIn Cakybaky, your objective is to bake a cake by collecting specific ingredients in the correct order. The recipe requires flour, milk, eggs, sugar, butter, and cherries, though not all levels include every ingredient. As you navigate through the level, you must avoid angry chefs who chase you. Each chef is only active when you are collecting their favorite ingredient. If a chef catches you, you lose. The game challenges your timing and evasion skills as you collect ingredients while avoiding these chef obstacles."
+            }
+        },
+        "destructive": {
+            "0": {
+                "racebet": "**Game Name: RaceBet**\n\n**Gameplay Mechanics:**\nRaceBet is a betting game centered around virtual horse racing. Players can place bets on their chosen horses before each race. The game uses a random number generator to determine the outcome of each race, ensuring fairness and unpredictability.\n\n**Objectives:**\nThe primary objective is to accumulate the most virtual currency by making strategic bets on the races. Players aim to predict the winning horse accurately to maximize their winnings.\n\n**Important Features:**\n- **Virtual Currency:** Players start with a set amount of virtual money and can earn more through successful bets.\n- **Horse Profiles:** Each horse has unique stats that affect its performance, such as speed and stamina.\n- **Betting Options:** Players can bet on different outcomes, including win, place, and show bets.\n- **Race Tracks:** Multiple tracks with varying difficulties and rewards.\n- **Upgrades:** Players can use their earnings to upgrade their horses or betting strategies.\n- **Tournaments:** Special events with higher stakes and rewards.",
+                "digdug": "Dig Dug is an arcade game developed by Namco and released in 1982. The game is known for its unique gameplay mechanics and colorful graphics. Players control Dig Dug, a miner who must defeat underground monsters by inflating them with a pump until they explode. The objective is to clear levels of monsters while digging through soil and rocks to progress. Players can also use hammers to break rocks and create paths. The game features various enemies like Pookas and Fygars, each with different behaviors. Dig Dug must avoid being crushed by falling rocks or attacked by enemies. The game's simple yet challenging gameplay has made it a classic in the arcade genre.",
+                "brainman": "\"BrainMan\" is a cognitive training game designed to enhance various mental abilities through a series of challenging and engaging exercises. The game focuses on improving memory, attention, processing speed, and problem-solving skills. Players progress through different levels by completing tasks that require quick thinking and accurate responses. Each level introduces new challenges, ensuring continuous learning and adaptation. The game also includes a tracking system to monitor progress and provide personalized feedback, helping players identify areas for improvement. With its adaptive difficulty and diverse set of activities, \"BrainMan\" offers a comprehensive approach to cognitive development.",
+                "defender": "Defender is a classic 1980s arcade game developed by Williams Electronics. Players control a spaceship at the bottom of the screen, moving it left and right to defend Earth from waves of alien invaders. The objective is to eliminate all incoming saucers while protecting human pods from being captured. Players can shoot by pressing the fire button, and the game features a wrap-around screen where shots and enemies can move from one side to the other. The game introduces the concept of a \"smart bomb\" that clears all enemies on the screen, which can be earned by scoring points. Defender emphasizes fast-paced action, strategic movement, and constant vigilance to survive increasing difficulty levels.",
+                "lasers2": "\"lasers2\" appears to be a game involving lasers, likely a sequel or updated version of a previous game titled \"lasers.\" Without specific details, I can only speculate on its gameplay mechanics and objectives based on common elements found in laser-based games.\n\nTypically, laser games involve navigating through environments filled with laser beams, where the player must avoid being hit by the lasers while reaching a specific goal, such as exiting the level or reaching a particular point. The gameplay mechanics might include:\n\n1. **Movement Controls:** Players control a character or object that can move in various directions, often with the ability to jump or dodge to avoid lasers.\n\n2. **Laser Patterns:** Lasers may shoot in straight lines, pulsate, or follow specific patterns. Players need to predict and time their movements to avoid these patterns.\n\n3. **Level Design:** Levels are designed with increasing difficulty, introducing more complex laser configurations and obstacles as the player progresses.\n\n4. **Power-Ups:** Some games include power-ups that can temporarily pause or disable lasers, providing the player with an advantage.\n\n5. **Objectives:** The primary objective is usually to reach the end of the level without being hit by a laser. Secondary objectives might include collecting items or achieving the goal within a certain time limit.\n\n6. **Game Modes:** There might be different modes, such as survival, where the player must last as long as possible, or time trial, where the goal is to complete levels as quickly as possible.\n\nIf \"lasers2\" is indeed a sequel, it likely builds upon these mechanics with enhanced graphics, more challenging levels, and additional features such as new types of lasers or interactive environmental elements.",
+                "boulderchase": "Boulderchase is a classic arcade game released in 1984. Players control a character named Rockford who must navigate through a series of caves, avoiding boulders and other obstacles while collecting diamonds. The objective is to collect all the diamonds in each level and exit through a designated door. The game features multiple levels with increasing difficulty, and players must manage their energy by eating food items scattered throughout the levels. The gameplay is fast-paced and requires quick reflexes and strategic planning to avoid the rolling boulders and reach the exit.",
+                "portals": "\"Portals\" is a puzzle game where players navigate through levels by creating and using portals to solve challenges. The game typically involves two types of portals: blue and orange. Players can place a blue portal on one surface and an orange portal on another. When a player or an object enters one portal, it exits from the other, allowing for movement between distant points in the level. The objective is to reach the exit by strategically placing portals to overcome obstacles such as gaps, barriers, and environmental hazards. The game often includes elements like gravity manipulation, momentum conservation, and the use of environmental objects to aid in solving puzzles.",
+                "iceandfire": "Ice and Fire is a strategy game that combines elements of turn-based combat and resource management. Players take control of a faction, either Ice or Fire, and aim to conquer the opposing faction's territories. The game is set on a grid-based map, where each territory can be occupied by units belonging to either faction. Units have different abilities and strengths, and players must strategically deploy and upgrade their units to gain an advantage. Resource management is crucial, as players must collect and allocate resources to build and upgrade units, construct defensive structures, and research new technologies. The game also features a campaign mode with various missions and objectives, as well as a multiplayer mode for competitive play against other players.",
+                "cakybaky": "CakyBaky is a casual, free-to-play mobile game developed by Good Job Games. The game revolves around baking and decorating cakes, where players take on the role of a cake baker in a charming town. Players progress by completing quests, which involve baking specific types of cakes and fulfilling orders from customers. As players advance, they can upgrade their bakery, unlock new recipes, and decorate their shop. The game features a colorful, cartoonish art style and a relaxed, stress-free atmosphere, making it appealing to a wide audience."
+            },
+            "1": {
+                "racebet": "**Game Name: RaceBet**\n\n**Gameplay Mechanics:**\nRaceBet is a betting game centered around virtual horse racing. Players can place bets on their chosen horses before each race. The game uses a random number generator to determine the outcome of each race, ensuring fairness and unpredictability.\n\n**Objectives:**\nThe primary objective is to accumulate the most virtual currency by making strategic bets on the races. Players aim to predict the winning horse accurately to maximize their winnings.\n\n**Important Features:**\n- **Virtual Currency:** Players start with a set amount of virtual money and can earn more through successful bets.\n- **Horse Profiles:** Each horse has unique stats that affect its performance, such as speed and stamina.\n- **Betting Options:** Players can bet on different outcomes, including win, place, and show bets.\n- **Race Tracks:** Multiple tracks with varying difficulties and rewards.\n- **Upgrades:** Players can use their earnings to upgrade their horses or betting strategies.\n- **Tournaments:** Special events with higher stakes and rewards.",
+                "digdug": "Dig Dug is an arcade game developed by Namco and released in 1982. The game is known for its unique gameplay mechanics and colorful graphics. Players control Dig Dug, a miner who must defeat underground monsters by inflating them with a pump until they explode. The objective is to clear levels of monsters while digging through soil and rocks to progress. Players can also use hammers to break rocks and create paths. The game features various enemies like Pookas and Fygars, each with different behaviors. Dig Dug must avoid being crushed by falling rocks or attacked by enemies. The game's simple yet challenging gameplay has made it a classic in the arcade genre.",
+                "brainman": "\"BrainMan\" is a cognitive training game designed to enhance various mental abilities through a series of challenging and engaging exercises. The game focuses on improving memory, attention, processing speed, and problem-solving skills. Players progress through different levels by completing tasks that require quick thinking and accurate responses. Each level introduces new challenges, ensuring continuous learning and adaptation. The game also includes a tracking system to monitor progress and provide personalized feedback, helping players identify areas for improvement. With its adaptive difficulty and diverse set of activities, \"BrainMan\" offers a comprehensive approach to cognitive development.",
+                "defender": "Defender is a classic 1980s arcade game developed by Williams Electronics. Players control a spaceship at the bottom of the screen, moving it left and right to defend Earth from waves of alien invaders. The objective is to eliminate all incoming saucers while protecting human pods from being captured. Players can shoot by pressing the fire button, and the game features a wrap-around screen where shots and enemies can move from one side to the other. The game introduces the concept of a \"smart bomb\" that clears all enemies on the screen, which can be earned by scoring points. Defender emphasizes fast-paced action, strategic movement, and constant vigilance to survive increasing difficulty levels.",
+                "lasers2": "\"lasers2\" appears to be a game involving lasers, likely a sequel or updated version of a previous game titled \"lasers.\" Without specific details, I can only speculate on its gameplay mechanics and objectives based on common elements found in laser-based games.\n\nTypically, laser games involve navigating through environments filled with laser beams, where the player must avoid being hit by the lasers while reaching a specific goal, such as exiting the level or reaching a particular point. The gameplay mechanics might include:\n\n1. **Movement Controls:** Players control a character or object that can move in various directions, often with the ability to jump or dodge to avoid lasers.\n\n2. **Laser Patterns:** Lasers may shoot in straight lines, pulsate, or follow specific patterns. Players need to predict and time their movements to avoid these patterns.\n\n3. **Level Design:** Levels are designed with increasing difficulty, introducing more complex laser configurations and obstacles as the player progresses.\n\n4. **Power-Ups:** Some games include power-ups that can temporarily pause or disable lasers, providing the player with an advantage.\n\n5. **Objectives:** The primary objective is usually to reach the end of the level without being hit by a laser. Secondary objectives might include collecting items or achieving the goal within a certain time limit.\n\n6. **Game Modes:** There might be different modes, such as survival, where the player must last as long as possible, or time trial, where the goal is to complete levels as quickly as possible.\n\nIf \"lasers2\" is indeed a sequel, it likely builds upon these mechanics with enhanced graphics, more challenging levels, and additional features such as new types of lasers or interactive environmental elements.",
+                "boulderchase": "Boulderchase is a classic arcade game released in 1984. Players control a character named Rockford who must navigate through a series of caves, avoiding boulders and other obstacles while collecting diamonds. The objective is to collect all the diamonds in each level and exit through a designated door. The game features multiple levels with increasing difficulty, and players must manage their energy by eating food items scattered throughout the levels. The gameplay is fast-paced and requires quick reflexes and strategic planning to avoid the rolling boulders and reach the exit.",
+                "portals": "\"Portals\" is a puzzle game where players navigate through levels by creating and using portals to solve challenges. The game typically involves two types of portals: blue and orange. Players can place a blue portal on one surface and an orange portal on another. When a player or an object enters one portal, it exits from the other, allowing for movement between distant points in the level. The objective is to reach the exit by strategically placing portals to overcome obstacles such as gaps, barriers, and environmental hazards. The game often includes elements like gravity manipulation, momentum conservation, and the use of environmental objects to aid in solving puzzles.",
+                "iceandfire": "Ice and Fire is a strategy game that combines elements of turn-based combat and resource management. Players take control of a faction, either Ice or Fire, and aim to conquer the opposing faction's territories. The game is set on a grid-based map, where each territory can be occupied by units belonging to either faction. Units have different abilities and strengths, and players must strategically deploy and upgrade their units to gain an advantage. Resource management is crucial, as players must collect and allocate resources to build and upgrade units, construct defensive structures, and research new technologies. The game also features a campaign mode with various missions and objectives, as well as a multiplayer mode for competitive play against other players.",
+                "cakybaky": "CakyBaky is a casual, free-to-play mobile game developed by Good Job Games. The game revolves around baking and decorating cakes, where players take on the role of a cake baker in a charming town. Players progress by completing quests, which involve baking specific types of cakes and fulfilling orders from customers. As players advance, they can upgrade their bakery, unlock new recipes, and decorate their shop. The game features a colorful, cartoonish art style and a relaxed, stress-free atmosphere, making it appealing to a wide audience."
+            },
+            "2": {
+                "racebet": "**Game Name: RaceBet**\n\n**Gameplay Mechanics:**\nRaceBet is a betting game centered around virtual horse racing. Players can place bets on their chosen horses before each race. The game uses a random number generator to determine the outcome of each race, ensuring fairness and unpredictability.\n\n**Objectives:**\nThe primary objective is to accumulate the most virtual currency by making strategic bets on the races. Players aim to predict the winning horse accurately to maximize their winnings.\n\n**Important Features:**\n- **Virtual Currency:** Players start with a set amount of virtual money and can earn more through successful bets.\n- **Horse Profiles:** Each horse has unique stats that affect its performance, such as speed and stamina.\n- **Betting Options:** Players can bet on different outcomes, including win, place, and show bets.\n- **Race Tracks:** Multiple tracks with varying difficulties and rewards.\n- **Upgrades:** Players can use their earnings to upgrade their horses or betting strategies.\n- **Tournaments:** Special events with higher stakes and rewards.",
+                "digdug": "Dig Dug is an arcade game developed by Namco and released in 1982. The game is known for its unique gameplay mechanics and colorful graphics. Players control Dig Dug, a miner who must defeat underground monsters by inflating them with a pump until they explode. The objective is to clear levels of monsters while digging through soil and rocks to progress. Players can also use hammers to break rocks and create paths. The game features various enemies like Pookas and Fygars, each with different behaviors. Dig Dug must avoid being crushed by falling rocks or attacked by enemies. The game's simple yet challenging gameplay has made it a classic in the arcade genre.",
+                "brainman": "\"BrainMan\" is a cognitive training game designed to enhance various mental abilities through a series of challenging and engaging exercises. The game focuses on improving memory, attention, processing speed, and problem-solving skills. Players progress through different levels by completing tasks that require quick thinking and accurate responses. Each level introduces new challenges, ensuring continuous learning and adaptation. The game also includes a tracking system to monitor progress and provide personalized feedback, helping players identify areas for improvement. With its adaptive difficulty and diverse set of activities, \"BrainMan\" offers a comprehensive approach to cognitive development.",
+                "defender": "Defender is a classic 1980s arcade game developed by Williams Electronics. Players control a spaceship at the bottom of the screen, moving it left and right to defend Earth from waves of alien invaders. The objective is to eliminate all incoming saucers while protecting human pods from being captured. Players can shoot by pressing the fire button, and the game features a wrap-around screen where shots and enemies can move from one side to the other. The game introduces the concept of a \"smart bomb\" that clears all enemies on the screen, which can be earned by scoring points. Defender emphasizes fast-paced action, strategic movement, and constant vigilance to survive increasing difficulty levels.",
+                "lasers2": "\"lasers2\" appears to be a game involving lasers, likely a sequel or updated version of a previous game titled \"lasers.\" Without specific details, I can only speculate on its gameplay mechanics and objectives based on common elements found in laser-based games.\n\nTypically, laser games involve navigating through environments filled with laser beams, where the player must avoid being hit by the lasers while reaching a specific goal, such as exiting the level or reaching a particular point. The gameplay mechanics might include:\n\n1. **Movement Controls:** Players control a character or object that can move in various directions, often with the ability to jump or dodge to avoid lasers.\n\n2. **Laser Patterns:** Lasers may shoot in straight lines, pulsate, or follow specific patterns. Players need to predict and time their movements to avoid these patterns.\n\n3. **Level Design:** Levels are designed with increasing difficulty, introducing more complex laser configurations and obstacles as the player progresses.\n\n4. **Power-Ups:** Some games include power-ups that can temporarily pause or disable lasers, providing the player with an advantage.\n\n5. **Objectives:** The primary objective is usually to reach the end of the level without being hit by a laser. Secondary objectives might include collecting items or achieving the goal within a certain time limit.\n\n6. **Game Modes:** There might be different modes, such as survival, where the player must last as long as possible, or time trial, where the goal is to complete levels as quickly as possible.\n\nIf \"lasers2\" is indeed a sequel, it likely builds upon these mechanics with enhanced graphics, more challenging levels, and additional features such as new types of lasers or interactive environmental elements.",
+                "boulderchase": "Boulderchase is a classic arcade game released in 1984. Players control a character named Rockford who must navigate through a series of caves, avoiding boulders and other obstacles while collecting diamonds. The objective is to collect all the diamonds in each level and exit through a designated door. The game features multiple levels with increasing difficulty, and players must manage their energy by eating food items scattered throughout the levels. The gameplay is fast-paced and requires quick reflexes and strategic planning to avoid the rolling boulders and reach the exit.",
+                "portals": "\"Portals\" is a puzzle game where players navigate through levels by creating and using portals to solve challenges. The game typically involves two types of portals: blue and orange. Players can place a blue portal on one surface and an orange portal on another. When a player or an object enters one portal, it exits from the other, allowing for movement between distant points in the level. The objective is to reach the exit by strategically placing portals to overcome obstacles such as gaps, barriers, and environmental hazards. The game often includes elements like gravity manipulation, momentum conservation, and the use of environmental objects to aid in solving puzzles.",
+                "iceandfire": "Ice and Fire is a strategy game that combines elements of turn-based combat and resource management. Players take control of a faction, either Ice or Fire, and aim to conquer the opposing faction's territories. The game is set on a grid-based map, where each territory can be occupied by units belonging to either faction. Units have different abilities and strengths, and players must strategically deploy and upgrade their units to gain an advantage. Resource management is crucial, as players must collect and allocate resources to build and upgrade units, construct defensive structures, and research new technologies. The game also features a campaign mode with various missions and objectives, as well as a multiplayer mode for competitive play against other players.",
+                "cakybaky": "CakyBaky is a casual, free-to-play mobile game developed by Good Job Games. The game revolves around baking and decorating cakes, where players take on the role of a cake baker in a charming town. Players progress by completing quests, which involve baking specific types of cakes and fulfilling orders from customers. As players advance, they can upgrade their bakery, unlock new recipes, and decorate their shop. The game features a colorful, cartoonish art style and a relaxed, stress-free atmosphere, making it appealing to a wide audience."
+            },
+            "3": {
+                "racebet": "**Game Name: RaceBet**\n\n**Gameplay Mechanics:**\nRaceBet is a betting game centered around virtual horse racing. Players can place bets on their chosen horses before each race. The game uses a random number generator to determine the outcome of each race, ensuring fairness and unpredictability.\n\n**Objectives:**\nThe primary objective is to accumulate the most virtual currency by making strategic bets on the races. Players aim to predict the winning horse accurately to maximize their winnings.\n\n**Important Features:**\n- **Virtual Currency:** Players start with a set amount of virtual money and can earn more through successful bets.\n- **Horse Profiles:** Each horse has unique stats that affect its performance, such as speed and stamina.\n- **Betting Options:** Players can bet on different outcomes, including win, place, and show bets.\n- **Race Tracks:** Multiple tracks with varying difficulties and rewards.\n- **Upgrades:** Players can use their earnings to upgrade their horses or betting strategies.\n- **Tournaments:** Special events with higher stakes and rewards.",
+                "digdug": "Dig Dug is an arcade game developed by Namco and released in 1982. The game is known for its unique gameplay mechanics and colorful graphics. Players control Dig Dug, a miner who must defeat underground monsters by inflating them with a pump until they explode. The objective is to clear levels of monsters while digging through soil and rocks to progress. Players can also use hammers to break rocks and create paths. The game features various enemies like Pookas and Fygars, each with different behaviors. Dig Dug must avoid being crushed by falling rocks or attacked by enemies. The game's simple yet challenging gameplay has made it a classic in the arcade genre.",
+                "brainman": "\"BrainMan\" is a cognitive training game designed to enhance various mental abilities through a series of challenging and engaging exercises. The game focuses on improving memory, attention, processing speed, and problem-solving skills. Players progress through different levels by completing tasks that require quick thinking and accurate responses. Each level introduces new challenges, ensuring continuous learning and adaptation. The game also includes a tracking system to monitor progress and provide personalized feedback, helping players identify areas for improvement. With its adaptive difficulty and diverse set of activities, \"BrainMan\" offers a comprehensive approach to cognitive development.",
+                "defender": "Defender is a classic 1980s arcade game developed by Williams Electronics. Players control a spaceship at the bottom of the screen, moving it left and right to defend Earth from waves of alien invaders. The objective is to eliminate all incoming saucers while protecting human pods from being captured. Players can shoot by pressing the fire button, and the game features a wrap-around screen where shots and enemies can move from one side to the other. The game introduces the concept of a \"smart bomb\" that clears all enemies on the screen, which can be earned by scoring points. Defender emphasizes fast-paced action, strategic movement, and constant vigilance to survive increasing difficulty levels.",
+                "lasers2": "\"lasers2\" appears to be a game involving lasers, likely a sequel or updated version of a previous game titled \"lasers.\" Without specific details, I can only speculate on its gameplay mechanics and objectives based on common elements found in laser-based games.\n\nTypically, laser games involve navigating through environments filled with laser beams, where the player must avoid being hit by the lasers while reaching a specific goal, such as exiting the level or reaching a particular point. The gameplay mechanics might include:\n\n1. **Movement Controls:** Players control a character or object that can move in various directions, often with the ability to jump or dodge to avoid lasers.\n\n2. **Laser Patterns:** Lasers may shoot in straight lines, pulsate, or follow specific patterns. Players need to predict and time their movements to avoid these patterns.\n\n3. **Level Design:** Levels are designed with increasing difficulty, introducing more complex laser configurations and obstacles as the player progresses.\n\n4. **Power-Ups:** Some games include power-ups that can temporarily pause or disable lasers, providing the player with an advantage.\n\n5. **Objectives:** The primary objective is usually to reach the end of the level without being hit by a laser. Secondary objectives might include collecting items or achieving the goal within a certain time limit.\n\n6. **Game Modes:** There might be different modes, such as survival, where the player must last as long as possible, or time trial, where the goal is to complete levels as quickly as possible.\n\nIf \"lasers2\" is indeed a sequel, it likely builds upon these mechanics with enhanced graphics, more challenging levels, and additional features such as new types of lasers or interactive environmental elements.",
+                "boulderchase": "Boulderchase is a classic arcade game released in 1984. Players control a character named Rockford who must navigate through a series of caves, avoiding boulders and other obstacles while collecting diamonds. The objective is to collect all the diamonds in each level and exit through a designated door. The game features multiple levels with increasing difficulty, and players must manage their energy by eating food items scattered throughout the levels. The gameplay is fast-paced and requires quick reflexes and strategic planning to avoid the rolling boulders and reach the exit.",
+                "portals": "\"Portals\" is a puzzle game where players navigate through levels by creating and using portals to solve challenges. The game typically involves two types of portals: blue and orange. Players can place a blue portal on one surface and an orange portal on another. When a player or an object enters one portal, it exits from the other, allowing for movement between distant points in the level. The objective is to reach the exit by strategically placing portals to overcome obstacles such as gaps, barriers, and environmental hazards. The game often includes elements like gravity manipulation, momentum conservation, and the use of environmental objects to aid in solving puzzles.",
+                "iceandfire": "Ice and Fire is a strategy game that combines elements of turn-based combat and resource management. Players take control of a faction, either Ice or Fire, and aim to conquer the opposing faction's territories. The game is set on a grid-based map, where each territory can be occupied by units belonging to either faction. Units have different abilities and strengths, and players must strategically deploy and upgrade their units to gain an advantage. Resource management is crucial, as players must collect and allocate resources to build and upgrade units, construct defensive structures, and research new technologies. The game also features a campaign mode with various missions and objectives, as well as a multiplayer mode for competitive play against other players.",
+                "cakybaky": "CakyBaky is a casual, free-to-play mobile game developed by Good Job Games. The game revolves around baking and decorating cakes, where players take on the role of a cake baker in a charming town. Players progress by completing quests, which involve baking specific types of cakes and fulfilling orders from customers. As players advance, they can upgrade their bakery, unlock new recipes, and decorate their shop. The game features a colorful, cartoonish art style and a relaxed, stress-free atmosphere, making it appealing to a wide audience."
+            },
+            "4": {
+                "racebet": "**Game Name: RaceBet**\n\n**Gameplay Mechanics:**\nRaceBet is a betting game centered around virtual horse racing. Players can place bets on their chosen horses before each race. The game uses a random number generator to determine the outcome of each race, ensuring fairness and unpredictability.\n\n**Objectives:**\nThe primary objective is to accumulate the most virtual currency by making strategic bets on the races. Players aim to predict the winning horse accurately to maximize their winnings.\n\n**Important Features:**\n- **Virtual Currency:** Players start with a set amount of virtual money and can earn more through successful bets.\n- **Horse Profiles:** Each horse has unique stats that affect its performance, such as speed and stamina.\n- **Betting Options:** Players can bet on different outcomes, including win, place, and show bets.\n- **Race Tracks:** Multiple tracks with varying difficulties and rewards.\n- **Upgrades:** Players can use their earnings to upgrade their horses or betting strategies.\n- **Tournaments:** Special events with higher stakes and rewards.",
+                "digdug": "Dig Dug is an arcade game developed by Namco and released in 1982. The game is known for its unique gameplay mechanics and colorful graphics. Players control Dig Dug, a miner who must defeat underground monsters by inflating them with a pump until they explode. The objective is to clear levels of monsters while digging through soil and rocks to progress. Players can also use hammers to break rocks and create paths. The game features various enemies like Pookas and Fygars, each with different behaviors. Dig Dug must avoid being crushed by falling rocks or attacked by enemies. The game's simple yet challenging gameplay has made it a classic in the arcade genre.",
+                "brainman": "\"BrainMan\" is a cognitive training game designed to enhance various mental abilities through a series of challenging and engaging exercises. The game focuses on improving memory, attention, processing speed, and problem-solving skills. Players progress through different levels by completing tasks that require quick thinking and accurate responses. Each level introduces new challenges, ensuring continuous learning and adaptation. The game also includes a tracking system to monitor progress and provide personalized feedback, helping players identify areas for improvement. With its adaptive difficulty and diverse set of activities, \"BrainMan\" offers a comprehensive approach to cognitive development.",
+                "defender": "Defender is a classic 1980s arcade game developed by Williams Electronics. Players control a spaceship at the bottom of the screen, moving it left and right to defend Earth from waves of alien invaders. The objective is to eliminate all incoming saucers while protecting human pods from being captured. Players can shoot by pressing the fire button, and the game features a wrap-around screen where shots and enemies can move from one side to the other. The game introduces the concept of a \"smart bomb\" that clears all enemies on the screen, which can be earned by scoring points. Defender emphasizes fast-paced action, strategic movement, and constant vigilance to survive increasing difficulty levels.",
+                "lasers2": "\"lasers2\" appears to be a game involving lasers, likely a sequel or updated version of a previous game titled \"lasers.\" Without specific details, I can only speculate on its gameplay mechanics and objectives based on common elements found in laser-based games.\n\nTypically, laser games involve navigating through environments filled with laser beams, where the player must avoid being hit by the lasers while reaching a specific goal, such as exiting the level or reaching a particular point. The gameplay mechanics might include:\n\n1. **Movement Controls:** Players control a character or object that can move in various directions, often with the ability to jump or dodge to avoid lasers.\n\n2. **Laser Patterns:** Lasers may shoot in straight lines, pulsate, or follow specific patterns. Players need to predict and time their movements to avoid these patterns.\n\n3. **Level Design:** Levels are designed with increasing difficulty, introducing more complex laser configurations and obstacles as the player progresses.\n\n4. **Power-Ups:** Some games include power-ups that can temporarily pause or disable lasers, providing the player with an advantage.\n\n5. **Objectives:** The primary objective is usually to reach the end of the level without being hit by a laser. Secondary objectives might include collecting items or achieving the goal within a certain time limit.\n\n6. **Game Modes:** There might be different modes, such as survival, where the player must last as long as possible, or time trial, where the goal is to complete levels as quickly as possible.\n\nIf \"lasers2\" is indeed a sequel, it likely builds upon these mechanics with enhanced graphics, more challenging levels, and additional features such as new types of lasers or interactive environmental elements.",
+                "boulderchase": "Boulderchase is a classic arcade game released in 1984. Players control a character named Rockford who must navigate through a series of caves, avoiding boulders and other obstacles while collecting diamonds. The objective is to collect all the diamonds in each level and exit through a designated door. The game features multiple levels with increasing difficulty, and players must manage their energy by eating food items scattered throughout the levels. The gameplay is fast-paced and requires quick reflexes and strategic planning to avoid the rolling boulders and reach the exit.",
+                "portals": "\"Portals\" is a puzzle game where players navigate through levels by creating and using portals to solve challenges. The game typically involves two types of portals: blue and orange. Players can place a blue portal on one surface and an orange portal on another. When a player or an object enters one portal, it exits from the other, allowing for movement between distant points in the level. The objective is to reach the exit by strategically placing portals to overcome obstacles such as gaps, barriers, and environmental hazards. The game often includes elements like gravity manipulation, momentum conservation, and the use of environmental objects to aid in solving puzzles.",
+                "iceandfire": "Ice and Fire is a strategy game that combines elements of turn-based combat and resource management. Players take control of a faction, either Ice or Fire, and aim to conquer the opposing faction's territories. The game is set on a grid-based map, where each territory can be occupied by units belonging to either faction. Units have different abilities and strengths, and players must strategically deploy and upgrade their units to gain an advantage. Resource management is crucial, as players must collect and allocate resources to build and upgrade units, construct defensive structures, and research new technologies. The game also features a campaign mode with various missions and objectives, as well as a multiplayer mode for competitive play against other players.",
+                "cakybaky": "CakyBaky is a casual, free-to-play mobile game developed by Good Job Games. The game revolves around baking and decorating cakes, where players take on the role of a cake baker in a charming town. Players progress by completing quests, which involve baking specific types of cakes and fulfilling orders from customers. As players advance, they can upgrade their bakery, unlock new recipes, and decorate their shop. The game features a colorful, cartoonish art style and a relaxed, stress-free atmosphere, making it appealing to a wide audience."
+            }
+        },
+        "vgdl": {
+            "0": {
+                "racebet": "In the game \"racebet,\" players control an avatar that can move around the level. The objective is to place bets on which of four camels\u2014each with different speeds\u2014will reach the goal first. The camels move automatically towards the goal, and the player must choose a pit (labeled 1, 2, 3, or 4) to stand in, which corresponds to betting on a specific camel. \n\nThe game ends when a camel reaches the goal and transforms into a winner sprite. If the player's bet (the pit they are standing in) matches the winning camel, they win the game. If the player's bet does not match the winning camel, they lose. The game also ends if any camel reaches the goal without the player having placed a bet, resulting in a loss.",
+                "digdug": "In the game \"digdug,\" the player controls an avatar equipped with a shovel and a weapon. The objective is to collect all the gems and gold while avoiding or eliminating monsters. The avatar can dig through walls using the shovel, transforming them into falling debris that can harm monsters or the avatar itself. The player can also use the weapon to throw boulders at monsters, which can destroy them or turn into resting boulders that block movement. Monsters move towards the avatar and can be eliminated by the avatar's shovel or boulders. The game ends when all gems and gold are collected, or when the avatar is eliminated.",
+                "brainman": "In \"BrainMan,\" the player controls an avatar (A) on a grid filled with various elements like walls (.), doors (d), and gems (g, r, b). The objective is to reach the exit (e) while collecting gems and keys (k) to open doors. Gems are worth points: green (1), blue (2), red (5). Keys can be picked up and thrown as missiles (keym) to open doors, scoring 4 points. Boulder (O) can be pushed but will bounce back if blocked. Hitting walls or doors reverses the avatar's movement. The game ends when the avatar reaches the exit (win) or is eliminated (lose).",
+                "defender": "In the game \"Defender,\" the player controls an avatar spaceship that must protect cities from alien invaders. The objective is to survive for 1000 time units or eliminate all cities and the avatar to lose. Aliens spawn from portals and drop bombs, while the avatar can shoot missiles to destroy them. Supply drops occasionally provide additional missiles. The player loses if all cities are destroyed or the avatar is destroyed. The game includes interactions like collision responses, resource management, and scoring based on destroying aliens and avoiding bombs.",
+                "lasers2": "In \"lasers2,\" the player controls an archer (avatar) aiming to reach a goal (door). The game features various elements like boxes, mirrors, and laser cannons. The avatar can push boxes and must navigate around obstacles. Laser cannons shoot lasers that can be deflected by mirrors. The player must strategically place mirrors to redirect lasers away from the avatar. Boulder interactions change the orientation of laser cannons and mirrors. The game ends when the avatar reaches the goal or is eliminated by a laser.",
+                "boulderchase": "In \"Boulder Chase,\" the player controls an avatar that must navigate through a level filled with obstacles and enemies to reach an exit door. The objective is to collect diamonds while avoiding or eliminating enemies and boulders. Key mechanics include:\n\n- **Avatar Actions**: The avatar can move and shoot a sword to break dirt blocks.\n- **Collectibles**: Diamonds are scattered throughout the level and must be collected to progress.\n- **Enemies**: Crabs and butterflies are enemies that the avatar can defeat by touching them from above or using the sword.\n- **Boulders**: These move downwards and can be stopped by dirt blocks. The avatar can push boulders to eliminate enemies or clear paths.\n- **Doors**: The exit door requires the avatar to have collected a certain number of diamonds to activate.\n\nWinning conditions involve reaching the exit door with the required number of diamonds, while losing occurs if the avatar is eliminated by enemies or falls off the level.",
+                "portals": "In the game \"portals,\" the player controls an avatar with the objective of reaching a goal to win. The game features portals that allow the avatar to teleport between entry and exit points. Bullets move in straight lines and can be deadly to the avatar. Walls block movement, and the avatar cannot pass through them. The game ends in victory when the avatar reaches the goal, and in defeat if the avatar is eliminated.",
+                "iceandfire": "In the game \"iceandfire,\" the player controls an avatar with the objective of reaching an exit while avoiding traps and collecting resources. The game is set on a grid with various terrain types, including ice and fire, which pose dangers unless the avatar has the appropriate footwear. The avatar can collect ice shoes and fire boots to traverse ice and fire tiles, respectively. Collecting chips scattered throughout the level provides additional points. The game ends either when the avatar reaches the exit, dies by stepping on a trap or walking onto dangerous terrain without the correct footwear, or when a time limit is reached without reaching the exit.",
+                "cakybaky": "In \"cakybaky,\" the player controls an avatar (man4) with the objective of collecting six ingredients (flour, milk, egg, sugar, butter, cherries) in a specific order to win the game. The game is set on a grid with walls and tables that block movement. The avatar can move and rotate but cannot pass through walls or tables. The chef (chaser) sprite moves towards the avatar and can kill it upon contact, causing the player to lose. The game ends in a loss if the avatar is killed or if the time limit of 1500 steps is reached without winning. The player wins by collecting all six ingredients in sequence, each ingredient becoming collectible only after the previous one has been collected. Each successful collection scores points, and the game ends in victory when the final ingredient is collected."
+            },
+            "1": {
+                "racebet": "In the game \"racebet,\" players control an avatar that can move around the level. The objective is to place bets on which of four camels\u2014each with different speeds\u2014will reach the goal first. The camels move automatically towards the goal, and the player must choose a pit (labeled 1, 2, 3, or 4) to stand in, which corresponds to betting on a specific camel. \n\nThe game ends when a camel reaches the goal and transforms into a winner sprite. If the player's bet (the pit they are standing in) matches the winning camel, they win the game. If the player's bet does not match the winning camel, they lose. The game also ends if any camel reaches the goal without the player having placed a bet, resulting in a loss.",
+                "digdug": "In the game \"digdug,\" the player controls an avatar equipped with a shovel and a weapon. The objective is to collect all the gems and gold while avoiding or eliminating monsters. The avatar can dig through walls using the shovel, transforming them into falling debris that can harm monsters or the avatar itself. The player can also use the weapon to throw boulders at monsters, which can destroy them or turn into resting boulders that block movement. Monsters move towards the avatar and can be eliminated by the avatar's shovel or boulders. The game ends when all gems and gold are collected, or when the avatar is eliminated.",
+                "brainman": "In \"BrainMan,\" the player controls an avatar (A) on a grid filled with various elements like walls (.), doors (d), and gems (g, r, b). The objective is to reach the exit (e) while collecting gems and keys (k) to open doors. Gems are worth points: green (1), blue (2), red (5). Keys can be picked up and thrown as missiles (keym) to open doors, scoring 4 points. Boulder (O) can be pushed but will bounce back if blocked. Hitting walls or doors reverses the avatar's movement. The game ends when the avatar reaches the exit (win) or is eliminated (lose).",
+                "defender": "In the game \"Defender,\" the player controls an avatar spaceship that must protect cities from alien invaders. The objective is to survive for 1000 time units or eliminate all cities and the avatar to lose. Aliens spawn from portals and drop bombs, while the avatar can shoot missiles to destroy them. Supply drops occasionally provide additional missiles. The player loses if all cities are destroyed or the avatar is destroyed. The game includes interactions like collision responses, resource management, and scoring based on destroying aliens and avoiding bombs.",
+                "lasers2": "In \"lasers2,\" the player controls an archer (avatar) aiming to reach a goal (door). The game features various elements like boxes, mirrors, and laser cannons. The avatar can push boxes and must navigate around obstacles. Laser cannons shoot lasers that can be deflected by mirrors. The player must strategically place mirrors to redirect lasers away from the avatar. Boulder interactions change the orientation of laser cannons and mirrors. The game ends when the avatar reaches the goal or is eliminated by a laser.",
+                "boulderchase": "In \"Boulder Chase,\" the player controls an avatar that must navigate through a level filled with obstacles and enemies to reach an exit door. The objective is to collect diamonds while avoiding or eliminating enemies and boulders. Key mechanics include:\n\n- **Avatar Actions**: The avatar can move and shoot a sword to break dirt blocks.\n- **Collectibles**: Diamonds are scattered throughout the level and must be collected to progress.\n- **Enemies**: Crabs and butterflies are enemies that the avatar can defeat by touching them from above or using the sword.\n- **Boulders**: These move downwards and can be stopped by dirt blocks. The avatar can push boulders to eliminate enemies or clear paths.\n- **Doors**: The exit door requires the avatar to have collected a certain number of diamonds to activate.\n\nWinning conditions involve reaching the exit door with the required number of diamonds, while losing occurs if the avatar is eliminated by enemies or falls off the level.",
+                "portals": "In the game \"portals,\" the player controls an avatar with the objective of reaching a goal to win. The game features portals that allow the avatar to teleport between entry and exit points. Bullets move in straight lines and can be deadly to the avatar. Walls block movement, and the avatar cannot pass through them. The game ends in victory when the avatar reaches the goal, and in defeat if the avatar is eliminated.",
+                "iceandfire": "In the game \"iceandfire,\" the player controls an avatar with the objective of reaching an exit while avoiding traps and collecting resources. The game is set on a grid with various terrain types, including ice and fire, which pose dangers unless the avatar has the appropriate footwear. The avatar can collect ice shoes and fire boots to traverse ice and fire tiles, respectively. Collecting chips scattered throughout the level provides additional points. The game ends either when the avatar reaches the exit, dies by stepping on a trap or walking onto dangerous terrain without the correct footwear, or when a time limit is reached without reaching the exit.",
+                "cakybaky": "In \"cakybaky,\" the player controls an avatar (man4) with the objective of collecting six ingredients (flour, milk, egg, sugar, butter, cherries) in a specific order to win the game. The game is set on a grid with walls and tables that block movement. The avatar can move and rotate but cannot pass through walls or tables. The chef (chaser) sprite moves towards the avatar and can kill it upon contact, causing the player to lose. The game ends in a loss if the avatar is killed or if the time limit of 1500 steps is reached without winning. The player wins by collecting all six ingredients in sequence, each ingredient becoming collectible only after the previous one has been collected. Each successful collection scores points, and the game ends in victory when the final ingredient is collected."
+            },
+            "2": {
+                "racebet": "In the game \"racebet,\" players control an avatar that can move around the level. The objective is to place bets on which of four camels\u2014each with different speeds\u2014will reach the goal first. The camels move automatically towards the goal, and the player must choose a pit (labeled 1, 2, 3, or 4) to stand in, which corresponds to betting on a specific camel. \n\nThe game ends when a camel reaches the goal and transforms into a winner sprite. If the player's bet (the pit they are standing in) matches the winning camel, they win the game. If the player's bet does not match the winning camel, they lose. The game also ends if any camel reaches the goal without the player having placed a bet, resulting in a loss.",
+                "digdug": "In the game \"digdug,\" the player controls an avatar equipped with a shovel and a weapon. The objective is to collect all the gems and gold while avoiding or eliminating monsters. The avatar can dig through walls using the shovel, transforming them into falling debris that can harm monsters or the avatar itself. The player can also use the weapon to throw boulders at monsters, which can destroy them or turn into resting boulders that block movement. Monsters move towards the avatar and can be eliminated by the avatar's shovel or boulders. The game ends when all gems and gold are collected, or when the avatar is eliminated.",
+                "brainman": "In \"BrainMan,\" the player controls an avatar (A) on a grid filled with various elements like walls (.), doors (d), and gems (g, r, b). The objective is to reach the exit (e) while collecting gems and keys (k) to open doors. Gems are worth points: green (1), blue (2), red (5). Keys can be picked up and thrown as missiles (keym) to open doors, scoring 4 points. Boulder (O) can be pushed but will bounce back if blocked. Hitting walls or doors reverses the avatar's movement. The game ends when the avatar reaches the exit (win) or is eliminated (lose).",
+                "defender": "In the game \"Defender,\" the player controls an avatar spaceship that must protect cities from alien invaders. The objective is to survive for 1000 time units or eliminate all cities and the avatar to lose. Aliens spawn from portals and drop bombs, while the avatar can shoot missiles to destroy them. Supply drops occasionally provide additional missiles. The player loses if all cities are destroyed or the avatar is destroyed. The game includes interactions like collision responses, resource management, and scoring based on destroying aliens and avoiding bombs.",
+                "lasers2": "In \"lasers2,\" the player controls an archer (avatar) aiming to reach a goal (door). The game features various elements like boxes, mirrors, and laser cannons. The avatar can push boxes and must navigate around obstacles. Laser cannons shoot lasers that can be deflected by mirrors. The player must strategically place mirrors to redirect lasers away from the avatar. Boulder interactions change the orientation of laser cannons and mirrors. The game ends when the avatar reaches the goal or is eliminated by a laser.",
+                "boulderchase": "In \"Boulder Chase,\" the player controls an avatar that must navigate through a level filled with obstacles and enemies to reach an exit door. The objective is to collect diamonds while avoiding or eliminating enemies and boulders. Key mechanics include:\n\n- **Avatar Actions**: The avatar can move and shoot a sword to break dirt blocks.\n- **Collectibles**: Diamonds are scattered throughout the level and must be collected to progress.\n- **Enemies**: Crabs and butterflies are enemies that the avatar can defeat by touching them from above or using the sword.\n- **Boulders**: These move downwards and can be stopped by dirt blocks. The avatar can push boulders to eliminate enemies or clear paths.\n- **Doors**: The exit door requires the avatar to have collected a certain number of diamonds to activate.\n\nWinning conditions involve reaching the exit door with the required number of diamonds, while losing occurs if the avatar is eliminated by enemies or falls off the level.",
+                "portals": "In the game \"portals,\" the player controls an avatar with the objective of reaching a goal to win. The game features portals that allow the avatar to teleport between entry and exit points. Bullets move in straight lines and can be deadly to the avatar. Walls block movement, and the avatar cannot pass through them. The game ends in victory when the avatar reaches the goal, and in defeat if the avatar is eliminated.",
+                "iceandfire": "In the game \"iceandfire,\" the player controls an avatar with the objective of reaching an exit while avoiding traps and collecting resources. The game is set on a grid with various terrain types, including ice and fire, which pose dangers unless the avatar has the appropriate footwear. The avatar can collect ice shoes and fire boots to traverse ice and fire tiles, respectively. Collecting chips scattered throughout the level provides additional points. The game ends either when the avatar reaches the exit, dies by stepping on a trap or walking onto dangerous terrain without the correct footwear, or when a time limit is reached without reaching the exit.",
+                "cakybaky": "In \"cakybaky,\" the player controls an avatar (man4) with the objective of collecting six ingredients (flour, milk, egg, sugar, butter, cherries) in a specific order to win the game. The game is set on a grid with walls and tables that block movement. The avatar can move and rotate but cannot pass through walls or tables. The chef (chaser) sprite moves towards the avatar and can kill it upon contact, causing the player to lose. The game ends in a loss if the avatar is killed or if the time limit of 1500 steps is reached without winning. The player wins by collecting all six ingredients in sequence, each ingredient becoming collectible only after the previous one has been collected. Each successful collection scores points, and the game ends in victory when the final ingredient is collected."
+            },
+            "3": {
+                "racebet": "In the game \"racebet,\" players control an avatar that can move around the level. The objective is to place bets on which of four camels\u2014each with different speeds\u2014will reach the goal first. The camels move automatically towards the goal, and the player must choose a pit (labeled 1, 2, 3, or 4) to stand in, which corresponds to betting on a specific camel. \n\nThe game ends when a camel reaches the goal and transforms into a winner sprite. If the player's bet (the pit they are standing in) matches the winning camel, they win the game. If the player's bet does not match the winning camel, they lose. The game also ends if any camel reaches the goal without the player having placed a bet, resulting in a loss.",
+                "digdug": "In the game \"digdug,\" the player controls an avatar equipped with a shovel and a weapon. The objective is to collect all the gems and gold while avoiding or eliminating monsters. The avatar can dig through walls using the shovel, transforming them into falling debris that can harm monsters or the avatar itself. The player can also use the weapon to throw boulders at monsters, which can destroy them or turn into resting boulders that block movement. Monsters move towards the avatar and can be eliminated by the avatar's shovel or boulders. The game ends when all gems and gold are collected, or when the avatar is eliminated.",
+                "brainman": "In \"BrainMan,\" the player controls an avatar (A) on a grid filled with various elements like walls (.), doors (d), and gems (g, r, b). The objective is to reach the exit (e) while collecting gems and keys (k) to open doors. Gems are worth points: green (1), blue (2), red (5). Keys can be picked up and thrown as missiles (keym) to open doors, scoring 4 points. Boulder (O) can be pushed but will bounce back if blocked. Hitting walls or doors reverses the avatar's movement. The game ends when the avatar reaches the exit (win) or is eliminated (lose).",
+                "defender": "In the game \"Defender,\" the player controls an avatar spaceship that must protect cities from alien invaders. The objective is to survive for 1000 time units or eliminate all cities and the avatar to lose. Aliens spawn from portals and drop bombs, while the avatar can shoot missiles to destroy them. Supply drops occasionally provide additional missiles. The player loses if all cities are destroyed or the avatar is destroyed. The game includes interactions like collision responses, resource management, and scoring based on destroying aliens and avoiding bombs.",
+                "lasers2": "In \"lasers2,\" the player controls an archer (avatar) aiming to reach a goal (door). The game features various elements like boxes, mirrors, and laser cannons. The avatar can push boxes and must navigate around obstacles. Laser cannons shoot lasers that can be deflected by mirrors. The player must strategically place mirrors to redirect lasers away from the avatar. Boulder interactions change the orientation of laser cannons and mirrors. The game ends when the avatar reaches the goal or is eliminated by a laser.",
+                "boulderchase": "In \"Boulder Chase,\" the player controls an avatar that must navigate through a level filled with obstacles and enemies to reach an exit door. The objective is to collect diamonds while avoiding or eliminating enemies and boulders. Key mechanics include:\n\n- **Avatar Actions**: The avatar can move and shoot a sword to break dirt blocks.\n- **Collectibles**: Diamonds are scattered throughout the level and must be collected to progress.\n- **Enemies**: Crabs and butterflies are enemies that the avatar can defeat by touching them from above or using the sword.\n- **Boulders**: These move downwards and can be stopped by dirt blocks. The avatar can push boulders to eliminate enemies or clear paths.\n- **Doors**: The exit door requires the avatar to have collected a certain number of diamonds to activate.\n\nWinning conditions involve reaching the exit door with the required number of diamonds, while losing occurs if the avatar is eliminated by enemies or falls off the level.",
+                "portals": "In the game \"portals,\" the player controls an avatar with the objective of reaching a goal to win. The game features portals that allow the avatar to teleport between entry and exit points. Bullets move in straight lines and can be deadly to the avatar. Walls block movement, and the avatar cannot pass through them. The game ends in victory when the avatar reaches the goal, and in defeat if the avatar is eliminated.",
+                "iceandfire": "In the game \"iceandfire,\" the player controls an avatar with the objective of reaching an exit while avoiding traps and collecting resources. The game is set on a grid with various terrain types, including ice and fire, which pose dangers unless the avatar has the appropriate footwear. The avatar can collect ice shoes and fire boots to traverse ice and fire tiles, respectively. Collecting chips scattered throughout the level provides additional points. The game ends either when the avatar reaches the exit, dies by stepping on a trap or walking onto dangerous terrain without the correct footwear, or when a time limit is reached without reaching the exit.",
+                "cakybaky": "In \"cakybaky,\" the player controls an avatar (man4) with the objective of collecting six ingredients (flour, milk, egg, sugar, butter, cherries) in a specific order to win the game. The game is set on a grid with walls and tables that block movement. The avatar can move and rotate but cannot pass through walls or tables. The chef (chaser) sprite moves towards the avatar and can kill it upon contact, causing the player to lose. The game ends in a loss if the avatar is killed or if the time limit of 1500 steps is reached without winning. The player wins by collecting all six ingredients in sequence, each ingredient becoming collectible only after the previous one has been collected. Each successful collection scores points, and the game ends in victory when the final ingredient is collected."
+            },
+            "4": {
+                "racebet": "In the game \"racebet,\" players control an avatar that can move around the level. The objective is to place bets on which of four camels\u2014each with different speeds\u2014will reach the goal first. The camels move automatically towards the goal, and the player must choose a pit (labeled 1, 2, 3, or 4) to stand in, which corresponds to betting on a specific camel. \n\nThe game ends when a camel reaches the goal and transforms into a winner sprite. If the player's bet (the pit they are standing in) matches the winning camel, they win the game. If the player's bet does not match the winning camel, they lose. The game also ends if any camel reaches the goal without the player having placed a bet, resulting in a loss.",
+                "digdug": "In the game \"digdug,\" the player controls an avatar equipped with a shovel and a weapon. The objective is to collect all the gems and gold while avoiding or eliminating monsters. The avatar can dig through walls using the shovel, transforming them into falling debris that can harm monsters or the avatar itself. The player can also use the weapon to throw boulders at monsters, which can destroy them or turn into resting boulders that block movement. Monsters move towards the avatar and can be eliminated by the avatar's shovel or boulders. The game ends when all gems and gold are collected, or when the avatar is eliminated.",
+                "brainman": "In \"BrainMan,\" the player controls an avatar (A) on a grid filled with various elements like walls (.), doors (d), and gems (g, r, b). The objective is to reach the exit (e) while collecting gems and keys (k) to open doors. Gems are worth points: green (1), blue (2), red (5). Keys can be picked up and thrown as missiles (keym) to open doors, scoring 4 points. Boulder (O) can be pushed but will bounce back if blocked. Hitting walls or doors reverses the avatar's movement. The game ends when the avatar reaches the exit (win) or is eliminated (lose).",
+                "defender": "In the game \"Defender,\" the player controls an avatar spaceship that must protect cities from alien invaders. The objective is to survive for 1000 time units or eliminate all cities and the avatar to lose. Aliens spawn from portals and drop bombs, while the avatar can shoot missiles to destroy them. Supply drops occasionally provide additional missiles. The player loses if all cities are destroyed or the avatar is destroyed. The game includes interactions like collision responses, resource management, and scoring based on destroying aliens and avoiding bombs.",
+                "lasers2": "In \"lasers2,\" the player controls an archer (avatar) aiming to reach a goal (door). The game features various elements like boxes, mirrors, and laser cannons. The avatar can push boxes and must navigate around obstacles. Laser cannons shoot lasers that can be deflected by mirrors. The player must strategically place mirrors to redirect lasers away from the avatar. Boulder interactions change the orientation of laser cannons and mirrors. The game ends when the avatar reaches the goal or is eliminated by a laser.",
+                "boulderchase": "In \"Boulder Chase,\" the player controls an avatar that must navigate through a level filled with obstacles and enemies to reach an exit door. The objective is to collect diamonds while avoiding or eliminating enemies and boulders. Key mechanics include:\n\n- **Avatar Actions**: The avatar can move and shoot a sword to break dirt blocks.\n- **Collectibles**: Diamonds are scattered throughout the level and must be collected to progress.\n- **Enemies**: Crabs and butterflies are enemies that the avatar can defeat by touching them from above or using the sword.\n- **Boulders**: These move downwards and can be stopped by dirt blocks. The avatar can push boulders to eliminate enemies or clear paths.\n- **Doors**: The exit door requires the avatar to have collected a certain number of diamonds to activate.\n\nWinning conditions involve reaching the exit door with the required number of diamonds, while losing occurs if the avatar is eliminated by enemies or falls off the level.",
+                "portals": "In the game \"portals,\" the player controls an avatar with the objective of reaching a goal to win. The game features portals that allow the avatar to teleport between entry and exit points. Bullets move in straight lines and can be deadly to the avatar. Walls block movement, and the avatar cannot pass through them. The game ends in victory when the avatar reaches the goal, and in defeat if the avatar is eliminated.",
+                "iceandfire": "In the game \"iceandfire,\" the player controls an avatar with the objective of reaching an exit while avoiding traps and collecting resources. The game is set on a grid with various terrain types, including ice and fire, which pose dangers unless the avatar has the appropriate footwear. The avatar can collect ice shoes and fire boots to traverse ice and fire tiles, respectively. Collecting chips scattered throughout the level provides additional points. The game ends either when the avatar reaches the exit, dies by stepping on a trap or walking onto dangerous terrain without the correct footwear, or when a time limit is reached without reaching the exit.",
+                "cakybaky": "In \"cakybaky,\" the player controls an avatar (man4) with the objective of collecting six ingredients (flour, milk, egg, sugar, butter, cherries) in a specific order to win the game. The game is set on a grid with walls and tables that block movement. The avatar can move and rotate but cannot pass through walls or tables. The chef (chaser) sprite moves towards the avatar and can kill it upon contact, causing the player to lose. The game ends in a loss if the avatar is killed or if the time limit of 1500 steps is reached without winning. The player wins by collecting all six ingredients in sequence, each ingredient becoming collectible only after the previous one has been collected. Each successful collection scores points, and the game ends in victory when the final ingredient is collected."
+            }
+        }
+    }
+}

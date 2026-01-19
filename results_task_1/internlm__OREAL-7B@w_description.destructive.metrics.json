@@ -1,0 +1,270 @@
+{
+  "first_10": {
+    "overall": {
+      "correct": 0,
+      "attempts": 45,
+      "accuracy": 0.0
+    },
+    "per_label": {
+      "racebet": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "digdug": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "brainman": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "defender": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "lasers2": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "boulderchase": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "portals": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "iceandfire": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "cakybaky": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      }
+    },
+    "confusion": {
+      "racebet": {
+        "multiple": 5
+      },
+      "digdug": {
+        "multiple": 5
+      },
+      "brainman": {
+        "multiple": 3,
+        "racebet": 2
+      },
+      "defender": {
+        "portals": 1,
+        "multiple": 2,
+        "racebet": 2
+      },
+      "lasers2": {
+        "multiple": 4,
+        "racebet": 1
+      },
+      "boulderchase": {
+        "multiple": 5
+      },
+      "portals": {
+        "multiple": 5
+      },
+      "iceandfire": {
+        "multiple": 4,
+        "racebet": 1
+      },
+      "cakybaky": {
+        "multiple": 5
+      }
+    }
+  },
+  "last_10": {
+    "overall": {
+      "correct": 0,
+      "attempts": 45,
+      "accuracy": 0.0
+    },
+    "per_label": {
+      "racebet": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "digdug": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "brainman": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "defender": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "lasers2": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "boulderchase": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "portals": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "iceandfire": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      },
+      "cakybaky": {
+        "correct": 0,
+        "attempts": 5,
+        "accuracy": 0.0
+      }
+    },
+    "confusion": {
+      "racebet": {
+        "multiple": 5
+      },
+      "digdug": {
+        "multiple": 5
+      },
+      "brainman": {
+        "multiple": 3,
+        "racebet": 1,
+        "portals": 1
+      },
+      "defender": {
+        "multiple": 1,
+        "portals": 4
+      },
+      "lasers2": {
+        "multiple": 3,
+        "portals": 2
+      },
+      "boulderchase": {
+        "multiple": 5
+      },
+      "portals": {
+        "multiple": 5
+      },
+      "iceandfire": {
+        "multiple": 3,
+        "racebet": 2
+      },
+      "cakybaky": {
+        "multiple": 3,
+        "racebet": 2
+      }
+    }
+  },
+  "total": {
+    "overall": {
+      "correct": 0,
+      "attempts": 90,
+      "accuracy": 0.0
+    },
+    "per_label": {
+      "racebet": {
+        "correct": 0,
+        "attempts": 10,
+        "accuracy": 0.0
+      },
+      "digdug": {
+        "correct": 0,
+        "attempts": 10,
+        "accuracy": 0.0
+      },
+      "brainman": {
+        "correct": 0,
+        "attempts": 10,
+        "accuracy": 0.0
+      },
+      "defender": {
+        "correct": 0,
+        "attempts": 10,
+        "accuracy": 0.0
+      },
+      "lasers2": {
+        "correct": 0,
+        "attempts": 10,
+        "accuracy": 0.0
+      },
+      "boulderchase": {
+        "correct": 0,
+        "attempts": 10,
+        "accuracy": 0.0
+      },
+      "portals": {
+        "correct": 0,
+        "attempts": 10,
+        "accuracy": 0.0
+      },
+      "iceandfire": {
+        "correct": 0,
+        "attempts": 10,
+        "accuracy": 0.0
+      },
+      "cakybaky": {
+        "correct": 0,
+        "attempts": 10,
+        "accuracy": 0.0
+      }
+    },
+    "confusion": {
+      "racebet": {
+        "multiple": 10
+      },
+      "digdug": {
+        "multiple": 10
+      },
+      "brainman": {
+        "multiple": 6,
+        "racebet": 3,
+        "portals": 1
+      },
+      "defender": {
+        "portals": 5,
+        "multiple": 3,
+        "racebet": 2
+      },
+      "lasers2": {
+        "multiple": 7,
+        "racebet": 1,
+        "portals": 2
+      },
+      "boulderchase": {
+        "multiple": 10
+      },
+      "portals": {
+        "multiple": 10
+      },
+      "iceandfire": {
+        "multiple": 7,
+        "racebet": 3
+      },
+      "cakybaky": {
+        "multiple": 8,
+        "racebet": 2
+      }
+    }
+  }
+}

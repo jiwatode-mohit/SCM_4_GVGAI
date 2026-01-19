@@ -1,0 +1,157 @@
+subset,iteration,game,model,reply,thought,prediction,correct
+first_10,0,boulderchase,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,True
+first_10,0,brainman,Qwen/Qwen3-Coder-30B-A3B-Instruct,"brainman
+The ASCII art shows a grid-based maze with walls, an avatar character, keys, doors, and a green exit. This matches the gameplay of ""brainman"" where the player pushes keys into doors to open them and reach the exit. The presence of keys, doors, and a clear path to an exit confirms this is brainman.",,brainman,True
+first_10,0,cakybaky,Qwen/Qwen3-Coder-30B-A3B-Instruct,"cakybaky
+The ASCII art shows a grid-based environment with walls, tables, and an avatar character moving around. The presence of ""inc3"", ""inc5"", ""inc6"", and ""inc4"" suggests ingredient indicators or score elements typical of cakybaky's recipe-following mechanics. The ""chef"" characters are present, which aligns with cakybaky's gameplay where chefs chase the player. The layout and movement patterns match the grid-based, maze-like structure of cakybaky.",,cakybaky,True
+first_10,0,defender,Qwen/Qwen3-Coder-30B-A3B-Instruct,"defender
+The game features a player avatar moving through a grid-like environment with walls, and city structures that are being bombed by enemies, which is characteristic of the defender game mechanics where the player defends against enemy attacks. The presence of ""portalAmmo"" and ""supply"" items suggests some variation or addition to the standard defender gameplay, but the core defensive city-building and enemy avoidance gameplay remains consistent with defender.",,defender,True
+first_10,0,digdug,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+first_10,0,iceandfire,Qwen/Qwen3-Coder-30B-A3B-Instruct,"iceandfire
+The game features ice and fire surfaces, ice shoes and fire boots as items, and a maze-like structure with traps, which are all characteristic elements of ""iceandfire"".",,iceandfire,True
+first_10,0,lasers2,Qwen/Qwen3-Coder-30B-A3B-Instruct,"digdug
+The frames show a player character (avatar) navigating a cave-like environment with walls, obstacles, and falling boulders. The player can shoot boulders using ACTION_USE, which is a key mechanic in DigDug. The presence of gems (box), enemies (obstacle), and the ability to dig through walls are classic elements of DigDug. The layout and movement patterns match the cave-digging gameplay.",,digdug,False
+first_10,0,portals,Qwen/Qwen3-Coder-30B-A3B-Instruct,"boulderchase
+The ASCII art shows a cave-like environment with walls, floors, and a player character (avatar) moving around. The presence of boulders, enemies, and the need to dig through the cave to collect gems and reach an exit strongly indicates this is boulderchase, where players navigate cave systems, dig through terrain, and face hazards like falling boulders and enemies.",,boulderchase,False
+first_10,0,racebet,Qwen/Qwen3-Coder-30B-A3B-Instruct,"racebet
+The ASCII art shows a betting scenario with camels (camelA, camelB, etc.) positioned in lanes leading to a goal. The layout resembles a racetrack with betting areas and a designated winning area, consistent with the race betting game ""racebet"".",,racebet,True
+first_10,1,boulderchase,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,True
+first_10,1,brainman,Qwen/Qwen3-Coder-30B-A3B-Instruct,"brainman
+The ASCII art shows a grid-based maze with walls, an avatar character, keys, doors, and a exit. The gameplay involves pushing keys into doors to open them and reach the exit, which matches the description of ""brainman"". The presence of keys that can be pushed and doors that get destroyed upon key collision is characteristic of this game.",,brainman,True
+first_10,1,cakybaky,Qwen/Qwen3-Coder-30B-A3B-Instruct,"cakybaky
+The ASCII art shows a grid-based environment with walls, tables, and an avatar character. The presence of ""inc3"", ""inc5"", ""inc6"", and ""inc4"" suggests ingredient indicators or collectible items. The layout resembles a kitchen or room setting with furniture (tables), and the mention of ""chef"" characters indicates pursuit mechanics typical of cakybaky where chefs chase the player. The consistent use of table elements and the specific layout of rooms and corridors matches cakybaky's design.",,cakybaky,True
+first_10,1,defender,Qwen/Qwen3-Coder-30B-A3B-Instruct,"defender
+The game features a player avatar moving through a grid-based environment with walls, portals, and ammo pickups, while enemies (aliens) are present and the objective appears to be defending against enemy attacks, matching the core mechanics of Defender.",,multiple,False
+first_10,1,digdug,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+first_10,1,iceandfire,Qwen/Qwen3-Coder-30B-A3B-Instruct,"iceandfire
+The game features a maze-like environment with distinct terrain types (ice and fire), special equipment (ice and fire boots), and collectible items (coins). The presence of ""ice"" and ""fire"" terrain elements, along with ""iceboots"" and ""iceshoes"" (likely referring to ice boots), strongly indicates the game is iceandfire. The character movement patterns and the layout of walls and exits further support this conclusion.",,iceandfire,True
+first_10,1,lasers2,Qwen/Qwen3-Coder-30B-A3B-Instruct,"digdug
+The frames show a player character (avatar) navigating a cave-like environment with walls, obstacles, and falling boulders. The player can shoot boulders using the USE action, which is a key mechanic in DigDug. The layout includes diggable areas, enemies, and the need to navigate through a cave system to reach a goal, consistent with DigDug's gameplay.",,digdug,False
+first_10,1,portals,Qwen/Qwen3-Coder-30B-A3B-Instruct,"portals
+The ASCII art shows a maze-like structure with walls, floors, and distinct entrance/exit points. The presence of ""entry"" and ""exit"" markers, along with the teleporting mechanic described in the game, strongly indicates this is portals where the player navigates through a maze using entry and exit portals.",,portals,True
+first_10,1,racebet,Qwen/Qwen3-Coder-30B-A3B-Instruct,"racebet
+The ASCII art shows camel characters moving in a betting scenario with goal markers and betting spots, which matches the racebet game where players bet on camels in a race.",,racebet,True
+first_10,2,boulderchase,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,True
+first_10,2,brainman,Qwen/Qwen3-Coder-30B-A3B-Instruct,"brainman
+The ASCII art shows a maze-like structure with walls, an avatar character, keys, doors, and an exit. The gameplay involves pushing keys into doors to open them and reach the exit, which matches the description of ""brainman"". The presence of keys that can be pushed and doors that get destroyed upon key collision is characteristic of this game.",,brainman,True
+first_10,2,cakybaky,Qwen/Qwen3-Coder-30B-A3B-Instruct,"cakybaky
+The ASCII art shows a grid-based environment with walls, tables, and an avatar character moving around. The presence of ""inc3"", ""inc5"", ""inc6"", and ""inc4"" suggests ingredient indicators or score elements typical of cakybaky's recipe-following mechanics. The ""chef"" characters are present, which aligns with the game's mechanic where chefs chase the player. The layout resembles a kitchen or maze-like structure with specific paths and collectibles, consistent with cakybaky's gameplay.",,cakybaky,True
+first_10,2,defender,Qwen/Qwen3-Coder-30B-A3B-Instruct,"defender
+The game features a player avatar (avatar) moving through a grid-based environment with walls and portals, enemy aliens (alien) that move toward the player, and a city defense theme where the player must shoot enemies to prevent them from destroying the city. The presence of ""portalAmmo"" and ""city"" elements along with the movement mechanics strongly suggests the game is defender, where the player defends against enemy ships by shooting them.",,multiple,False
+first_10,2,digdug,Qwen/Qwen3-Coder-30B-A3B-Instruct,"boulderchase
+The ASCII art shows a cave-like environment with walls, gems, and a player character (avatar) moving around. There are boulders and enemies present, and the player can dig through walls. The presence of falling boulders that can kill the player, enemies that move around, and the need to collect gems and reach an exit are key indicators of boulderchase.",,boulderchase,False
+first_10,2,iceandfire,Qwen/Qwen3-Coder-30B-A3B-Instruct,"iceandfire
+The game features a maze-like structure with distinct terrain types (ice and fire), special equipment (ice shoes and fire boots), and collectible items (coins). The presence of walls, traps, and the player character moving through a structured environment strongly indicates ""iceandfire"".",,iceandfire,True
+first_10,2,lasers2,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+first_10,2,portals,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+first_10,2,racebet,Qwen/Qwen3-Coder-30B-A3B-Instruct,"racebet
+The ASCII art shows a betting scenario with camels (camelA, camelB, etc.) in a betting arena, with goals and betting areas, clearly indicating the racebet game where players bet on which camel will win.",,racebet,True
+first_10,3,boulderchase,Qwen/Qwen3-Coder-30B-A3B-Instruct,"boulderchase
+The frames show a cave-like environment with dirt, boulders, and enemies (crab, butterfly). The player character (avatar) is collecting diamonds and navigating through the level, with boulders falling and potentially killing the player. The layout and mechanics match boulderchase.",,boulderchase,True
+first_10,3,brainman,Qwen/Qwen3-Coder-30B-A3B-Instruct,"brainman
+The ASCII art shows a grid-based environment with walls, an avatar character, keys, doors, and a exit. The gameplay involves pushing keys into doors to open them and reach the exit, which is characteristic of ""brainman"". The presence of keys being pushed and doors being destroyed aligns with the game mechanics described.",,brainman,True
+first_10,3,cakybaky,Qwen/Qwen3-Coder-30B-A3B-Instruct,"cakybaky
+The ASCII art shows a grid-based environment with walls, tables, and an avatar character moving around. The presence of ""inc3"", ""inc5"", ""inc6"", and ""inc4"" suggests ingredient indicators or score elements typical of cakybaky's recipe-following mechanics. The ""chef"" characters are present, which aligns with the game's mechanic of chefs chasing the player. The layout and movement patterns match the grid-based navigation and ingredient collection aspects of cakybaky.",,cakybaky,True
+first_10,3,defender,Qwen/Qwen3-Coder-30B-A3B-Instruct,"defender
+The game features a player character (avatar) moving through a grid-based environment with walls and open spaces, enemy ships (aliens) that move toward the player, and the ability to shoot at enemies. The layout shows a city defense scenario with enemies approaching from the right side, consistent with the defender game mechanics where the player defends against advancing enemies. The presence of ""portalAmmo"" suggests a resource management element typical of defender-like games.",,defender,True
+first_10,3,digdug,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+first_10,3,iceandfire,Qwen/Qwen3-Coder-30B-A3B-Instruct,"iceandfire
+The game features ice and fire surfaces, ice shoes and fire boots as items, and a maze-like structure with traps, which are all characteristic elements of ""iceandfire"".",,iceandfire,True
+first_10,3,lasers2,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+first_10,3,portals,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+first_10,3,racebet,Qwen/Qwen3-Coder-30B-A3B-Instruct,"racebet
+The game features camels in betting spots with a goal area, indicating a betting/racing game where players place bets on which camel will win.",,racebet,True
+first_10,4,boulderchase,Qwen/Qwen3-Coder-30B-A3B-Instruct,"digdug
+The game features a player character (avatar) navigating a cave-like environment, collecting diamonds (gems), and avoiding enemies (crab, butterfly). The player can shoot boulders using the ACTION_USE command, which aligns with DigDug's mechanics where players shoot boulders to kill enemies. The presence of dirt, walls, and boulders in a cave-like structure further supports this identification.",,digdug,False
+first_10,4,brainman,Qwen/Qwen3-Coder-30B-A3B-Instruct,"brainman
+The ASCII art shows a maze-like environment with walls, an avatar character, a key, a door, and an exit. The key is being pushed (as indicated by the ""key"" symbol moving), which aligns with the mechanics of brainman where keys are pushed into doors to open them. The presence of a door that gets destroyed along with the key further supports this game.",,brainman,True
+first_10,4,cakybaky,Qwen/Qwen3-Coder-30B-A3B-Instruct,"cakybaky
+The ASCII art shows a grid-based environment with walls, tables, and an avatar character moving around. The presence of ""inc3"", ""inc5"", ""inc6"", and ""inc4"" suggests ingredients or items that need to be collected in a specific order, which is characteristic of cakybaky where players must gather ingredients in a particular sequence. The ""chef"" characters are present, which are enemies in cakybaky that chase the player. The layout and movement patterns match the gameplay of cakybaky.",,cakybaky,True
+first_10,4,defender,Qwen/Qwen3-Coder-30B-A3B-Instruct,"defender
+The game features a player avatar moving in a grid-like environment with walls and open spaces, enemy ships (aliens) approaching from the right side, and defensive actions involving shooting at enemies. The presence of ""city"" structures that need protection, ""portalAmmo"" items, and the specific movement patterns (ACTION_UP, ACTION_DOWN, ACTION_LEFT, ACTION_RIGHT) strongly suggest this is Defender, where the player defends against attacking enemies by shooting them down.",,defender,True
+first_10,4,digdug,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+first_10,4,iceandfire,Qwen/Qwen3-Coder-30B-A3B-Instruct,"iceandfire
+The game features a maze-like structure with distinct terrain types (ice and fire), special equipment (ice shoes and fire boots), and collectible items (coins). The presence of traps, the need to navigate between different surface types, and the specific power-ups for traversing hazardous areas are characteristic of iceandfire.",,iceandfire,True
+first_10,4,lasers2,Qwen/Qwen3-Coder-30B-A3B-Instruct,"digdug
+The frames show a player character (avatar) navigating a cave-like environment with walls, obstacles, and boulders. The presence of ""box"" items, ""obstacle"" elements, and the ability to use ""ACTION_USE"" to shoot boulders are characteristic of DigDug. The layout and movement patterns match the cave-digging and enemy-avoidance mechanics of DigDug.",,digdug,False
+first_10,4,portals,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+first_10,4,racebet,Qwen/Qwen3-Coder-30B-A3B-Instruct,"racebet
+The ASCII art shows camel characters moving in a betting scenario with goals and walls, clearly depicting a camel racing game where players bet on which camel will win, matching the ""racebet"" game description.",,racebet,True
+last_10,0,boulderchase,Qwen/Qwen3-Coder-30B-A3B-Instruct,"boulderchase
+The game features a player character navigating a cave environment, collecting gems, and avoiding hazards like falling boulders and enemies. The presence of boulders that can be dug through, enemies that move around, and the need to collect gems to progress are key indicators of boulderchase. The consistent layout with dirt, boulders, and diamond gems, along with the enemy sprites (crab, butterfly), matches the gameplay mechanics described for boulderchase.",,boulderchase,True
+last_10,0,brainman,Qwen/Qwen3-Coder-30B-A3B-Instruct,"brainman
+The ASCII art shows a grid-based maze with walls, a player character (avatar), keys, doors, and colored tiles (green, blue, red). This matches the game ""brainman"" where the player pushes keys into doors to open them and reach the exit. The presence of keys, doors, and the specific layout pattern confirms this.",,brainman,True
+last_10,0,cakybaky,Qwen/Qwen3-Coder-30B-A3B-Instruct,"cakybaky
+The ASCII art shows a grid-based environment with walls, tables, and characters (chef, avatar). The presence of ""inc3"", ""inc5"", ""inc6"", and ""inc4"" suggests ingredients or items that need to be collected in a specific order, which is a core mechanic of cakybaky where players must gather ingredients in sequence to bake a cake. The layout and movement patterns are consistent with the game's maze-like structure and enemy interactions.",,cakybaky,True
+last_10,0,defender,Qwen/Qwen3-Coder-30B-A3B-Instruct,"defender
+The game features a player avatar defending a city from attacking aliens, with bombs and city structures similar to the defender game mechanics. The presence of ""city"" and ""sam"" (likely a reference to the player's ship/avatar) along with enemy aliens and bomb placements strongly indicates this is defender.",,defender,True
+last_10,0,digdug,Qwen/Qwen3-Coder-30B-A3B-Instruct,"digdug
+The ASCII art shows a cave-like environment with walls, gems, gold, and a player character (avatar) wielding a shovel, which are key indicators of Dig Dug. The presence of monsters and the action of digging through walls to collect items strongly suggests this is Dig Dug.",,digdug,True
+last_10,0,iceandfire,Qwen/Qwen3-Coder-30B-A3B-Instruct,"iceandfire
+The game features a maze-like structure with distinct terrain types (ice and fire), special equipment (ice and fire boots), and collectible items (iceshoes, fireboots). The consistent presence of walls, chips, traps, and the avatar's movement patterns align with iceandfire's mechanics.",,iceandfire,True
+last_10,0,lasers2,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+last_10,0,portals,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+last_10,0,racebet,Qwen/Qwen3-Coder-30B-A3B-Instruct,"racebet
+The ASCII art shows camel characters moving in a race-like scenario with betting spots and a goal, which matches the description of ""racebet"" where players bet on which camel will win.",,racebet,True
+last_10,1,boulderchase,Qwen/Qwen3-Coder-30B-A3B-Instruct,"digdug
+The frames show a cave-like environment with dirt, boulders, and diamonds, where the player (avatar) can dig and shoot boulders using the ACTION_USE command. Enemies like crabs and butterflies are present, and the goal appears to be collecting items and navigating the cave, consistent with DigDug's mechanics.",,digdug,False
+last_10,1,brainman,Qwen/Qwen3-Coder-30B-A3B-Instruct,"brainman
+The ASCII art shows a maze-like structure with walls, a player character (avatar), keys, doors, and an exit. The key mechanics involve pushing keys into doors to open them, which matches the brainman game description where keys are pushed to open doors and collect gems for scoring. The presence of a key, a door, and an exit in a fixed layout also aligns with brainman's gameplay elements.",,brainman,True
+last_10,1,cakybaky,Qwen/Qwen3-Coder-30B-A3B-Instruct,"cakybaky
+The ASCII art shows a grid-based environment with walls, tables, and characters. The presence of ""chef"" characters, ""inc3"", ""inc5"", ""inc6"", and ""inc4"" suggests ingredient collection mechanics typical of cakybaky. The avatar character moving around and interacting with chefs and objects confirms this is the baking game where ingredients must be collected in order.",,cakybaky,True
+last_10,1,defender,Qwen/Qwen3-Coder-30B-A3B-Instruct,defender,,defender,True
+last_10,1,digdug,Qwen/Qwen3-Coder-30B-A3B-Instruct,"digdug
+The ASCII art shows a cave-like environment with walls, monsters, and a player character (avatar) that can dig. The presence of gems, gold coins, and boulders that fall when dug indicates this is likely digdug, where the player must navigate a cave, collect items, and avoid enemies.",,digdug,True
+last_10,1,iceandfire,Qwen/Qwen3-Coder-30B-A3B-Instruct,"iceandfire
+The game features a maze-like environment with distinct terrain types (ice and fire), special equipment (ice and fire boots), and collectible items (coins, chips). The consistent presence of ""fireboots"", ""iceshoes"", and ""trap"" elements along with the avatar's movement through the maze indicates this is iceandfire.",,iceandfire,True
+last_10,1,lasers2,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+last_10,1,portals,Qwen/Qwen3-Coder-30B-A3B-Instruct,"portals
+The ASCII art shows a maze-like structure with walls, floors, and various sprites including an avatar, exits, entries, and sitting figures. The presence of portals (entry and exit points) that teleport the player is a key indicator. The consistent layout with directional elements like horizontal/vertical floors and walls, along with the movement pattern described in the game, strongly suggests the game ""portals"".",,portals,True
+last_10,1,racebet,Qwen/Qwen3-Coder-30B-A3B-Instruct,"racebet
+The ASCII art shows camel characters moving in a betting scenario with goals and walls, clearly depicting a camel racing game where players place bets on which camel will win.",,racebet,True
+last_10,2,boulderchase,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,True
+last_10,2,brainman,Qwen/Qwen3-Coder-30B-A3B-Instruct,"brainman
+The ASCII art shows a grid-based environment with walls, a player character (avatar), keys, doors, and an exit. The consistent pattern of the avatar moving right while interacting with keys and doors suggests the mechanics of pushing keys into doors to open them, which is characteristic of brainman.",,brainman,True
+last_10,2,cakybaky,Qwen/Qwen3-Coder-30B-A3B-Instruct,"cakybaky
+The ASCII art shows a grid-based environment with walls, tables, and characters (chef, avatar). The presence of ""inc3"", ""inc5"", ""inc6"", and ""inc4"" suggests incrementing counters or scores, which aligns with the scoring mechanics in cakybaky where players collect ingredients and earn points. The layout with tables and movement patterns typical of a maze-like structure with enemies chasing the player also fits cakybaky's gameplay.",,cakybaky,True
+last_10,2,defender,Qwen/Qwen3-Coder-30B-A3B-Instruct,"defender
+The game features a player avatar (avatar) defending against alien enemies (aliens) that are bombing a city. The layout shows walls, supply items, and a city structure with bombs, which matches the defender game mechanics where the player must protect the city from enemy attacks.",,defender,True
+last_10,2,digdug,Qwen/Qwen3-Coder-30B-A3B-Instruct,"digdug
+The ASCII art shows a cave-like environment with walls, gems, gold, and a shovel, which are typical elements from Dig Dug. The presence of a monster enemy and the avatar character moving around suggests the gameplay involves digging through walls to collect items and avoid enemies, consistent with Dig Dug's mechanics. The repeated pattern of walls, gems, and monsters in a structured layout further confirms this.",,digdug,True
+last_10,2,iceandfire,Qwen/Qwen3-Coder-30B-A3B-Instruct,"iceandfire
+The game features a maze-like structure with walls, exits, and environmental elements like fire and ice surfaces. The presence of ""fireboots"" and ""iceshoes"" items, along with the mention of ""ice"" and ""fire"" surfaces that affect movement and survival, strongly indicates this is iceandfire. The consistent appearance of these items and the layout resembling a maze further support this conclusion.",,iceandfire,True
+last_10,2,lasers2,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+last_10,2,portals,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+last_10,2,racebet,Qwen/Qwen3-Coder-30B-A3B-Instruct,"racebet
+The ASCII art shows camel characters moving in a betting scenario with goal markers and betting areas, consistent with the racebet game where players bet on camels racing.",,racebet,True
+last_10,3,boulderchase,Qwen/Qwen3-Coder-30B-A3B-Instruct,"boulderchase
+The frames show a cave-like environment with dirt, boulders, and gems. The player character (avatar) is moving left, collecting diamonds and boulders, and avoiding enemies like crabs and butterflies. The layout shows typical cave exploration mechanics where the player can dig through dirt to create paths, and boulders fall from above that can be used to defeat enemies or collect items. These elements are characteristic of boulderchase.",,boulderchase,True
+last_10,3,brainman,Qwen/Qwen3-Coder-30B-A3B-Instruct,"brainman
+The ASCII art shows a grid-based maze with walls, a key, a door, an avatar character, and an exit. The key must be pushed into the door to open it, which is characteristic of brainman. The consistent layout with walls, doors, keys, and exits, along with the avatar moving in a grid pattern, confirms this is brainman.",,brainman,True
+last_10,3,cakybaky,Qwen/Qwen3-Coder-30B-A3B-Instruct,"cakybaky
+The ASCII art shows a grid-based environment with walls, tables, and characters. The presence of ""chef"" characters and ""incX"" indicators suggests ingredient collection mechanics, with enemies (chefs) chasing the player. The layout resembles a maze-like structure where the player must navigate to collect ingredients in a specific order, which is characteristic of cakybaky.",,cakybaky,True
+last_10,3,defender,Qwen/Qwen3-Coder-30B-A3B-Instruct,"defender
+The game features a city under attack from alien enemies, with bombs dropping from the sky and a player avatar defending the city. The presence of ""city"", ""alien"", ""bomb"", and ""supply"" elements in the ASCII render strongly indicates the defensive gameplay of defender.",,defender,True
+last_10,3,digdug,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+last_10,3,iceandfire,Qwen/Qwen3-Coder-30B-A3B-Instruct,"iceandfire
+The ASCII art shows a maze-like environment with distinct elements like ice and fire surfaces, boots (iceboots and iceshoes), traps, and a clear exit. These are characteristic features of ""iceandfire"" where the player must navigate through a maze with different surface types and collect appropriate footwear to traverse them safely.",,iceandfire,True
+last_10,3,lasers2,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+last_10,3,portals,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+last_10,3,racebet,Qwen/Qwen3-Coder-30B-A3B-Instruct,"racebet
+The ASCII art shows camel characters moving in a betting scenario with goals and pits, indicating a gambling or betting game where participants place bets on outcomes, specifically camel races.",,racebet,True
+last_10,4,boulderchase,Qwen/Qwen3-Coder-30B-A3B-Instruct,"boulderchase
+The frames show a cave-like environment with dirt walls, boulders, and enemies (crabs and butterflies). The player character (avatar) is moving through the cave, collecting diamonds and navigating around obstacles. The presence of boulders that can fall and kill the player, enemies that move around, and the need to dig through the cave structure are characteristic of boulderchase. The consistent layout with dirt floors, boulders, and diamond items appearing throughout the cave suggests this is the boulderchase game.",,boulderchase,True
+last_10,4,brainman,Qwen/Qwen3-Coder-30B-A3B-Instruct,"brainman
+The ASCII art shows a grid-based maze with walls, a player character (avatar), keys, doors, and an exit. The consistent pattern of movement and the presence of keys that can be pushed to open doors strongly indicates the game ""brainman"" where players push keys into doors to open them and reach the exit.",,brainman,True
+last_10,4,cakybaky,Qwen/Qwen3-Coder-30B-A3B-Instruct,"cakybaky
+The ASCII art shows a grid-based environment with walls, tables, and an avatar character moving around. The presence of ""chef"" characters suggests enemies, and the layout resembles a maze-like structure with items to collect (inc3, inc5, inc6, inc4). The game involves collecting ingredients in a specific order while avoiding pursuers, which matches the description of cakybaky.",,cakybaky,True
+last_10,4,defender,Qwen/Qwen3-Coder-30B-A3B-Instruct,defender,,defender,True
+last_10,4,digdug,Qwen/Qwen3-Coder-30B-A3B-Instruct,"boulderchase
+The ASCII art shows a cave-like environment with walls, gems, gold, and a player character (avatar) moving through it. There are enemies (monsters) present that can kill the player, and the layout suggests digging mechanics where boulders can fall and potentially harm the player. These elements are characteristic of boulderchase, where the player must navigate a cave, collect gems, avoid enemies, and deal with falling boulders.",,boulderchase,False
+last_10,4,iceandfire,Qwen/Qwen3-Coder-30B-A3B-Instruct,"iceandfire
+The game features a maze-like environment with distinct terrain types (ice and fire), special equipment (ice shoes and fire boots), and a clear objective to find an exit. These elements are characteristic of ""iceandfire"".",,iceandfire,True
+last_10,4,lasers2,Qwen/Qwen3-Coder-30B-A3B-Instruct,boulderchase,,boulderchase,False
+last_10,4,portals,Qwen/Qwen3-Coder-30B-A3B-Instruct,"portals
+The ASCII art shows a maze-like structure with walls, floors, and various sprites including ""entry"" and ""exit"" markers, along with an ""avatar"" character. The presence of portals (entry/exit points) that teleport the player, combined with the maze-like environment and enemy sprites, strongly indicates the game is portals. The consistent use of directional indicators like ""floor"", ""wall"", and ""exit1""/""exit2"" further supports this conclusion.",,portals,True
+last_10,4,racebet,Qwen/Qwen3-Coder-30B-A3B-Instruct,"racebet
+The ASCII art shows camel characters moving in a betting scenario with goals and walls, clearly depicting a camel racing game where players place bets on which camel will win.",,racebet,True

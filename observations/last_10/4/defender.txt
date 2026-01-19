@@ -1,0 +1,170 @@
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+            alien alien alien alien       alien alien                                
+bomb alien     bomb alien                   alien alien                                
+bomb     bomb           bomb alien alien alien   alien alien   alien alien       alien alien alien alien     alien      
+        supply         bomb                                          
+        supply supply                                                    
+        supply supply                                                    
+        supply supply   supply                                                
+        supply supply   supply supply                                                
+        supply supply   supply supply     avatar                                     bomb bomb  
+        supply supply   supply supply                                           bomb bomb  
+        supply supply           city       city city                              
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+            alien alien alien alien       alien alien                                
+alien     alien                   alien alien                                
+bomb     bomb           alien alien alien   alien alien   alien alien       alien alien alien alien     alien      
+        supply         bomb                                          
+        supply supply                                                    
+        supply supply                                                    
+        supply supply   supply                                                
+        supply supply   supply supply                                                
+        supply supply   supply supply   avatar                                            
+        supply supply   supply supply                                           bomb bomb  
+        supply supply           city       city city                              
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+          alien alien alien alien alien alien       alien alien                                
+    alien alien                   alien alien                                
+bomb     bomb         alien alien alien alien   alien alien   alien alien     alien alien alien alien alien alien   alien alien      
+bomb     bomb supply         bomb                                          
+        supply supply         bomb                                          
+        supply supply                                                    
+        supply supply   supply                                                
+        supply supply   supply supply   avatar                                            
+        supply supply   supply supply                                                
+        supply supply   supply supply                                           bomb bomb  
+        supply supply           city       city city                         bomb bomb  
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+          alien alien alien alien alien alien       alien alien                                
+    alien alien                   alien alien                                
+                alien alien alien alien   alien alien   alien alien     alien alien alien alien alien alien   alien alien      
+bomb     bomb supply                                                    
+        supply supply         bomb                                          
+        supply supply                                                    
+        supply supply   supply   avatar                                            
+        supply supply   supply supply                                                
+        supply supply   supply supply                                                
+        supply supply   supply supply                                                
+        supply supply           city       city city                         bomb bomb  
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+          alien alien alien alien alien alien     alien alien                                  
+    alien alien                 alien alien                                  
+                alien alien alien alien   alien alien   alien alien       alien alien alien alien alien alien   alien alien      
+bomb     bomb supply                                                    
+bomb     bomb supply supply         bomb                                          
+        supply supply         bomb                                          
+        supply supply   supply   avatar                                            
+        supply supply   supply supply                                                
+        supply supply   supply supply                                                
+        supply supply   supply supply                                                
+        supply supply           city       city city                         bomb bomb  
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall bomb wall bomb wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+          alien alien alien alien alien alien     alien alien                                  
+    alien alien                 bomb alien bomb alien                                  
+                alien alien alien alien   alien alien   alien alien       alien alien alien alien alien alien   alien alien      
+        supply                                                    
+bomb     bomb supply supply                                                    
+        supply supply         bomb                                          
+        supply supply   supply   avatar                                            
+        supply supply   supply supply                                                
+        supply supply   supply supply                                                
+        supply supply   supply supply                                                
+        supply supply           city       city city                              
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall bomb wall bomb wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+        alien alien alien alien alien alien       alien alien                                  
+  alien alien                   bomb alien bomb alien                                  
+              alien alien alien alien   bomb alien bomb alien   alien alien     alien alien alien alien alien alien   alien alien        
+        supply                                                    
+bomb     bomb supply supply                                                    
+bomb     bomb supply supply       avatar bomb                                          
+        supply supply   supply     bomb                                          
+        supply supply   supply supply                                                
+        supply supply   supply supply                                                
+        supply supply   supply supply                                                
+        supply supply           city       city city                              
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+        alien alien alien alien alien alien       alien alien                                  
+  alien alien                   alien alien                                  
+              alien alien alien alien   bomb alien bomb alien   alien alien     alien alien alien alien alien alien   alien alien        
+        supply                                                    
+        supply supply                                                    
+bomb     bomb supply supply       avatar                                            
+        supply supply   supply     bomb                                          
+        supply supply   supply supply                                                
+        supply supply   supply supply                                                
+        supply supply   supply supply                                                
+        supply supply           city       city city                              
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+        alien alien alien alien alien       alien                                    
+  alien alien                   alien                                    
+              alien alien alien     bomb alien bomb   alien       alien alien alien alien alien   alien alien        
+        supply               bomb bomb                                  
+        supply supply                                                    
+bomb     bomb supply supply       avatar                                            
+bomb     bomb supply supply   supply     bomb                                          
+        supply supply   supply supply     bomb                                          
+        supply supply   supply supply                                                
+        supply supply   supply supply                                                
+        supply supply           city       city city                              
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+        alien alien alien alien alien       alien                                    
+  alien alien                   alien                                    
+              alien alien alien     alien     alien       alien alien alien alien alien   alien alien        
+        supply               bomb bomb                                  
+        supply supply                                                    
+        supply supply     avatar                                              
+bomb     bomb supply supply   supply                                                
+        supply supply   supply supply     bomb                                          
+        supply supply   supply supply                                                
+        supply supply   supply supply                                                
+        supply supply           city       city city                              
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 

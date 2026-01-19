@@ -1,0 +1,180 @@
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall entrance         monster         wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall   wall wall wall wall wall wall wall wall wall wall wall wall gold wall wall wall wall wall wall gem wall
+wall wall wall wall wall   wall wall wall gold monster wall wall wall wall wall wall       monster       wall wall   wall
+wall wall wall wall gold   wall wall wall gem wall wall wall wall                 wall wall wall   wall
+wall wall wall gem wall   wall wall wall   wall wall wall wall wall wall gem   gem   gem   wall wall     wall
+shovel shovel shovel wall wall wall gem                 wall wall   gem   gem   gem wall wall wall   wall wall
+avatar wall   gem wall   wall wall wall   wall wall gold wall wall wall wall wall wall   wall wall wall wall     wall
+        gem   gem wall wall           entrance           wall wall wall wall wall   wall
+            wall wall wall   wall wall wall wall wall wall wall wall wall   wall wall wall wall wall   wall
+monster       gem   gem resting wall wall gem wall gold gold gold wall wall wall wall wall   wall wall wall wall wall   wall
+          wall wall wall wall wall wall       wall wall wall wall wall   wall wall wall wall wall   wall
+        wall wall wall wall wall wall wall       wall gem wall wall wall   wall wall wall wall     wall
+                      monster wall               monster           wall
+wall   wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall entrance           monster       wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall   wall wall wall wall wall wall wall wall wall wall wall wall gold wall wall wall wall wall wall gem wall
+wall wall wall wall wall   wall wall wall gold monster wall wall wall wall wall wall     monster         wall wall   wall
+wall wall wall wall gold   wall wall wall gem wall wall wall wall                 wall wall wall   wall
+wall wall wall gem wall   wall wall wall   wall wall wall wall wall wall gem   gem   gem   wall wall     wall
+shovel shovel shovel wall wall wall gem                 wall wall   gem   gem   gem wall wall wall   wall wall
+avatar wall   gem wall   wall wall wall   wall wall gold wall wall wall wall wall wall   wall wall wall wall     wall
+        gem   gem wall wall           entrance           wall wall wall wall wall   wall
+monster           wall wall wall   wall wall wall wall wall wall wall wall wall   wall wall wall wall wall   wall
+        gem   gem resting wall wall gem wall gold gold gold wall wall wall wall wall   wall wall wall wall wall   wall
+          wall wall wall wall wall wall       wall wall wall wall wall   wall wall wall wall wall   wall
+        wall wall wall wall wall wall wall       wall gem wall wall wall   wall wall wall wall     wall
+                      monster wall             monster             wall
+wall   wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall entrance           monster       wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall   wall wall wall wall wall wall wall wall wall wall wall wall gold wall wall wall wall wall wall gem wall
+wall wall wall wall wall   wall wall wall gold monster wall wall wall wall wall wall     monster         wall wall   wall
+wall wall wall wall gold   wall wall wall gem wall wall wall wall                 wall wall wall   wall
+wall wall wall gem wall   wall wall wall   wall wall wall wall wall wall gem   gem   gem   wall wall     wall
+shovel shovel shovel wall wall wall gem                 wall wall   gem   gem   gem wall wall wall   wall wall
+avatar wall   gem wall   wall wall wall   wall wall gold wall wall wall wall wall wall   wall wall wall wall     wall
+        gem   gem wall wall           entrance           wall wall wall wall wall   wall
+monster           wall wall wall   wall wall wall wall wall wall wall wall wall   wall wall wall wall wall   wall
+        gem   gem resting wall wall gem wall gold gold gold wall wall wall wall wall   wall wall wall wall wall   wall
+          wall wall wall wall wall wall       wall wall wall wall wall   wall wall wall wall wall   wall
+        wall wall wall wall wall wall wall       wall gem wall wall wall   wall wall wall wall     wall
+                      monster wall             monster             wall
+wall   wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall entrance           monster       wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall   wall wall wall wall wall wall wall wall wall wall wall wall gold wall wall wall wall wall wall gem wall
+wall wall wall wall wall   wall wall wall gold monster wall wall wall wall wall wall     monster         wall wall   wall
+wall wall wall wall gold   wall wall wall gem wall wall wall wall                 wall wall wall   wall
+wall wall wall gem wall   wall wall wall   wall wall wall wall wall wall gem   gem   gem   wall wall     wall
+shovel shovel wall wall wall gem                 wall wall   gem   gem   gem wall wall wall   wall wall
+avatar wall   gem wall   wall wall wall   wall wall gold wall wall wall wall wall wall   wall wall wall wall     wall
+        gem   gem wall wall           entrance           wall wall wall wall wall   wall
+monster           wall wall wall   wall wall wall wall wall wall wall wall wall   wall wall wall wall wall   wall
+        gem   gem resting wall wall gem wall gold gold gold wall wall wall wall wall   wall wall wall wall wall   wall
+          wall wall wall wall wall wall       wall wall wall wall wall   wall wall wall wall wall   wall
+        wall wall wall wall wall wall wall       wall gem wall wall wall   wall wall wall wall     wall
+                      monster wall             monster             wall
+wall   wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall entrance           monster       wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall   wall wall wall wall wall wall wall wall wall wall wall wall gold wall wall wall wall wall wall gem wall
+wall wall wall wall wall   wall wall wall gold monster wall wall wall wall wall wall     monster         wall wall   wall
+wall wall wall wall gold   wall wall wall gem wall wall wall wall                 wall wall wall   wall
+wall wall wall gem wall   wall wall wall   wall wall wall wall wall wall gem   gem   gem   wall wall     wall
+shovel wall wall wall gem                 wall wall   gem   gem   gem wall wall wall   wall wall
+avatar wall   gem wall   wall wall wall   wall wall gold wall wall wall wall wall wall   wall wall wall wall     wall
+        gem   gem wall wall           entrance           wall wall wall wall wall   wall
+monster           wall wall wall   wall wall wall wall wall wall wall wall wall   wall wall wall wall wall   wall
+        gem   gem resting wall wall gem wall gold gold gold wall wall wall wall wall   wall wall wall wall wall   wall
+          wall wall wall wall wall wall       wall wall wall wall wall   wall wall wall wall wall   wall
+        wall wall wall wall wall wall wall       wall gem wall wall wall   wall wall wall wall     wall
+                      monster wall             monster             wall
+wall   wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall entrance             monster     wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall   wall wall wall wall wall wall wall wall wall wall wall wall gold wall wall wall wall wall wall gem wall
+wall wall wall wall wall   wall wall wall gold monster wall wall wall wall wall wall   monster           wall wall   wall
+wall wall wall wall gold   wall wall wall gem wall wall wall wall                 wall wall wall   wall
+wall wall wall gem wall   wall wall wall   wall wall wall wall wall wall gem   gem   gem   wall wall     wall
+  wall wall wall gem                 wall wall   gem   gem   gem wall wall wall   wall wall
+avatar wall   gem wall   wall wall wall   wall wall gold wall wall wall wall wall wall   wall wall wall wall     wall
+monster       gem   gem wall wall           entrance           wall wall wall wall wall   wall
+            wall wall wall   wall wall wall wall wall wall wall wall wall   wall wall wall wall wall   wall
+        gem   gem resting wall wall gem wall gold gold gold wall wall wall wall wall   wall wall wall wall wall   wall
+          wall wall wall wall wall wall       wall wall wall wall wall   wall wall wall wall wall   wall
+        wall wall wall wall wall wall wall monster     wall gem wall wall wall   wall wall wall wall     wall
+                        wall           monster               wall
+wall   wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall entrance             monster     wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall   wall wall wall wall wall wall wall wall wall wall wall wall gold wall wall wall wall wall wall gem wall
+wall wall wall wall wall   wall wall wall gold monster wall wall wall wall wall wall   monster           wall wall   wall
+wall wall wall wall gold   wall wall wall gem wall wall wall wall                 wall wall wall   wall
+wall wall wall gem wall   wall wall wall   wall wall wall wall wall wall gem   gem   gem   wall wall     wall
+  wall wall wall gem                 wall wall   gem   gem   gem wall wall wall   wall wall
+avatar wall   gem wall   wall wall wall   wall wall gold wall wall wall wall wall wall   wall wall wall wall     wall
+monster       gem   gem wall wall           entrance           wall wall wall wall wall   wall
+            wall wall wall   wall wall wall wall wall wall wall wall wall   wall wall wall wall wall   wall
+        gem   gem resting wall wall gem wall gold gold gold wall wall wall wall wall   wall wall wall wall wall   wall
+          wall wall wall wall wall wall       wall wall wall wall wall   wall wall wall wall wall   wall
+        wall wall wall wall wall wall wall monster     wall gem wall wall wall   wall wall wall wall     wall
+                        wall           monster               wall
+wall   wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall entrance             monster     wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall   wall wall wall wall wall wall wall wall wall wall wall wall gold wall wall wall wall wall wall gem wall
+wall wall wall wall wall   wall wall wall gold monster wall wall wall wall wall wall   monster           wall wall   wall
+wall wall wall wall gold   wall wall wall gem wall wall wall wall                 wall wall wall   wall
+wall wall wall gem wall   wall wall wall   wall wall wall wall wall wall gem   gem   gem   wall wall     wall
+  wall wall wall gem                 wall wall   gem   gem   gem wall wall wall   wall wall
+avatar wall   gem wall   wall wall wall   wall wall gold wall wall wall wall wall wall   wall wall wall wall     wall
+monster       gem   gem wall wall           entrance           wall wall wall wall wall   wall
+            wall wall wall   wall wall wall wall wall wall wall wall wall   wall wall wall wall wall   wall
+        gem   gem resting wall wall gem wall gold gold gold wall wall wall wall wall   wall wall wall wall wall   wall
+          wall wall wall wall wall wall       wall wall wall wall wall   wall wall wall wall wall   wall
+        wall wall wall wall wall wall wall monster     wall gem wall wall wall   wall wall wall wall     wall
+                        wall           monster               wall
+wall   wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall entrance             monster     wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall   wall wall wall wall wall wall wall wall wall wall wall wall gold wall wall wall wall wall wall gem wall
+wall wall wall wall wall   wall wall wall gold monster wall wall wall wall wall wall   monster           wall wall   wall
+wall wall wall wall gold   wall wall wall gem wall wall wall wall                 wall wall wall   wall
+wall wall wall gem wall   wall wall wall   wall wall wall wall wall wall gem   gem   gem   wall wall     wall
+  wall wall wall gem                 wall wall   gem   gem   gem wall wall wall   wall wall
+avatar wall   gem wall   wall wall wall   wall wall gold wall wall wall wall wall wall   wall wall wall wall     wall
+monster       gem   gem wall wall           entrance           wall wall wall wall wall   wall
+            wall wall wall   wall wall wall wall wall wall wall wall wall   wall wall wall wall wall   wall
+        gem   gem resting wall wall gem wall gold gold gold wall wall wall wall wall   wall wall wall wall wall   wall
+          wall wall wall wall wall wall       wall wall wall wall wall   wall wall wall wall wall   wall
+        wall wall wall wall wall wall wall monster     wall gem wall wall wall   wall wall wall wall     wall
+                        wall           monster               wall
+wall   wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall entrance               monster   wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall   wall wall wall wall wall wall wall wall wall wall wall wall gold wall wall wall wall wall wall gem wall
+wall wall wall wall wall   wall wall wall gold monster wall wall wall wall wall wall monster             wall wall   wall
+wall wall wall wall gold   wall wall wall gem wall wall wall wall                 wall wall wall   wall
+wall wall wall gem wall   wall wall wall   wall wall wall wall wall wall gem   gem   gem   wall wall     wall
+  wall wall wall gem                 wall wall   gem   gem   gem wall wall wall   wall wall
+avatar monster wall   gem wall   wall wall wall   wall wall gold wall wall wall wall wall wall   wall wall wall wall     wall
+        gem   gem wall wall           entrance           wall wall wall wall wall   wall
+            wall wall wall   wall wall wall wall wall wall wall wall wall   wall wall wall wall wall   wall
+        gem   gem resting wall wall gem wall gold gold gold wall wall wall wall wall   wall wall wall wall wall   wall
+          wall wall wall wall wall wall monster     wall wall wall wall wall   wall wall wall wall wall   wall
+        wall wall wall wall wall wall wall       wall gem wall wall wall   wall wall wall wall     wall
+                        wall         monster                 wall
+wall   wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 

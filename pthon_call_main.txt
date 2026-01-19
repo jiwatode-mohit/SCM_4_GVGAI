@@ -1,0 +1,4 @@
+python main.py \
+  --models nvidia/OpenReasoning-Nemotron-1.5B \
+  --emit-csv \
+  --analyze

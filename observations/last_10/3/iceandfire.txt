@@ -1,0 +1,170 @@
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall   chip       wall wall wall   chip     exit wall
+wall wall   wall wall wall   wall wall wall   wall wall wall wall wall
+wall wall   wall fireboots wall fire fire fire fire fire fire   wall trap wall
+wall wall   wall   wall wall wall wall chip wall wall wall wall   wall
+wall ice ice ice ice ice ice wall wall wall wall         wall
+wall   wall wall wall wall ice wall wall wall wall   wall wall wall wall
+wall   chip chip   wall ice ice ice ice ice     avatar   wall
+wall wall wall wall wall wall   wall wall wall wall   wall wall   wall
+wall                             wall
+wall   wall wall wall wall   wall wall wall   wall wall wall   wall
+wall   wall   wall wall   wall wall wall   wall wall wall wall wall
+wall   wall     chip     trap     chip     iceshoes wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall   chip       wall wall wall   chip     exit wall
+wall wall   wall wall wall   wall wall wall   wall wall wall wall wall
+wall wall   wall fireboots wall fire fire fire fire fire fire   wall trap wall
+wall wall   wall   wall wall wall wall chip wall wall wall wall   wall
+wall ice ice ice ice ice ice wall wall wall wall         wall
+wall   wall wall wall wall ice wall wall wall wall   wall wall wall wall
+wall   chip chip   wall ice ice ice ice ice   avatar     wall
+wall wall wall wall wall wall   wall wall wall wall   wall wall   wall
+wall                             wall
+wall   wall wall wall wall   wall wall wall   wall wall wall   wall
+wall   wall   wall wall   wall wall wall   wall wall wall wall wall
+wall   wall     chip     trap     chip     iceshoes wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall   chip       wall wall wall   chip     exit wall
+wall wall   wall wall wall   wall wall wall   wall wall wall wall wall
+wall wall   wall fireboots wall fire fire fire fire fire fire   wall trap wall
+wall wall   wall   wall wall wall wall chip wall wall wall wall   wall
+wall ice ice ice ice ice ice wall wall wall wall         wall
+wall   wall wall wall wall ice wall wall wall wall   wall wall wall wall
+wall   chip chip   wall ice ice ice ice ice   avatar     wall
+wall wall wall wall wall wall   wall wall wall wall   wall wall   wall
+wall                             wall
+wall   wall wall wall wall   wall wall wall   wall wall wall   wall
+wall   wall   wall wall   wall wall wall   wall wall wall wall wall
+wall   wall     chip     trap     chip     iceshoes wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall   chip       wall wall wall   chip     exit wall
+wall wall   wall wall wall   wall wall wall   wall wall wall wall wall
+wall wall   wall fireboots wall fire fire fire fire fire fire   wall trap wall
+wall wall   wall   wall wall wall wall chip wall wall wall wall   wall
+wall ice ice ice ice ice ice wall wall wall wall         wall
+wall   wall wall wall wall ice wall wall wall wall   wall wall wall wall
+wall   chip chip   wall ice ice ice ice ice   avatar     wall
+wall wall wall wall wall wall   wall wall wall wall   wall wall   wall
+wall                             wall
+wall   wall wall wall wall   wall wall wall   wall wall wall   wall
+wall   wall   wall wall   wall wall wall   wall wall wall wall wall
+wall   wall     chip     trap     chip     iceshoes wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall   chip       wall wall wall   chip     exit wall
+wall wall   wall wall wall   wall wall wall   wall wall wall wall wall
+wall wall   wall fireboots wall fire fire fire fire fire fire   wall trap wall
+wall wall   wall   wall wall wall wall chip wall wall wall wall   wall
+wall ice ice ice ice ice ice wall wall wall wall         wall
+wall   wall wall wall wall ice wall wall wall wall   wall wall wall wall
+wall   chip chip   wall ice ice ice ice ice     avatar   wall
+wall wall wall wall wall wall   wall wall wall wall   wall wall   wall
+wall                             wall
+wall   wall wall wall wall   wall wall wall   wall wall wall   wall
+wall   wall   wall wall   wall wall wall   wall wall wall wall wall
+wall   wall     chip     trap     chip     iceshoes wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall   chip       wall wall wall   chip     exit wall
+wall wall   wall wall wall   wall wall wall   wall wall wall wall wall
+wall wall   wall fireboots wall fire fire fire fire fire fire   wall trap wall
+wall wall   wall   wall wall wall wall chip wall wall wall wall   wall
+wall ice ice ice ice ice ice wall wall wall wall         wall
+wall   wall wall wall wall ice wall wall wall wall   wall wall wall wall
+wall   chip chip   wall ice ice ice ice ice   avatar     wall
+wall wall wall wall wall wall   wall wall wall wall   wall wall   wall
+wall                             wall
+wall   wall wall wall wall   wall wall wall   wall wall wall   wall
+wall   wall   wall wall   wall wall wall   wall wall wall wall wall
+wall   wall     chip     trap     chip     iceshoes wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall   chip       wall wall wall   chip     exit wall
+wall wall   wall wall wall   wall wall wall   wall wall wall wall wall
+wall wall   wall fireboots wall fire fire fire fire fire fire   wall trap wall
+wall wall   wall   wall wall wall wall chip wall wall wall wall   wall
+wall ice ice ice ice ice ice wall wall wall wall         wall
+wall   wall wall wall wall ice wall wall wall wall   wall wall wall wall
+wall   chip chip   wall ice ice ice ice ice   avatar     wall
+wall wall wall wall wall wall   wall wall wall wall   wall wall   wall
+wall                             wall
+wall   wall wall wall wall   wall wall wall   wall wall wall   wall
+wall   wall   wall wall   wall wall wall   wall wall wall wall wall
+wall   wall     chip     trap     chip     iceshoes wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall   chip       wall wall wall   chip     exit wall
+wall wall   wall wall wall   wall wall wall   wall wall wall wall wall
+wall wall   wall fireboots wall fire fire fire fire fire fire   wall trap wall
+wall wall   wall   wall wall wall wall chip wall wall wall wall   wall
+wall ice ice ice ice ice ice wall wall wall wall         wall
+wall   wall wall wall wall ice wall wall wall wall   wall wall wall wall
+wall   chip chip   wall ice ice ice ice ice   avatar     wall
+wall wall wall wall wall wall   wall wall wall wall   wall wall   wall
+wall                             wall
+wall   wall wall wall wall   wall wall wall   wall wall wall   wall
+wall   wall   wall wall   wall wall wall   wall wall wall wall wall
+wall   wall     chip     trap     chip     iceshoes wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall   chip       wall wall wall   chip     exit wall
+wall wall   wall wall wall   wall wall wall   wall wall wall wall wall
+wall wall   wall fireboots wall fire fire fire fire fire fire   wall trap wall
+wall wall   wall   wall wall wall wall chip wall wall wall wall   wall
+wall ice ice ice ice ice ice wall wall wall wall         wall
+wall   wall wall wall wall ice wall wall wall wall   wall wall wall wall
+wall   chip chip   wall ice ice ice ice ice avatar       wall
+wall wall wall wall wall wall   wall wall wall wall   wall wall   wall
+wall                             wall
+wall   wall wall wall wall   wall wall wall   wall wall wall   wall
+wall   wall   wall wall   wall wall wall   wall wall wall wall wall
+wall   wall     chip     trap     chip     iceshoes wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall   chip       wall wall wall   chip     exit wall
+wall wall   wall wall wall   wall wall wall   wall wall wall wall wall
+wall wall   wall fireboots wall fire fire fire fire fire fire   wall trap wall
+wall wall   wall   wall wall wall wall chip wall wall wall wall   wall
+wall ice ice ice ice ice ice wall wall wall wall         wall
+wall   wall wall wall wall ice wall wall wall wall   wall wall wall wall
+wall   chip chip   wall ice ice ice ice avatar ice         wall
+wall wall wall wall wall wall   wall wall wall wall   wall wall   wall
+wall                             wall
+wall   wall wall wall wall   wall wall wall   wall wall wall   wall
+wall   wall   wall wall   wall wall wall   wall wall wall wall wall
+wall   wall     chip     trap     chip     iceshoes wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
