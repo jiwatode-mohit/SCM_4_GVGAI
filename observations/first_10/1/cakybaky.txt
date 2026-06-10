@@ -1,0 +1,170 @@
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall       inc3                 chef                             wall
+wall   table table table table table table table table       chef       table         inc5           wall
+wall             table           table table table                         wall
+wall       chef     table                     table table table table table table table table table   wall
+wall       chef     table                                 chef chef     wall
+wall             table         avatar               table table table table         wall
+wall   table table table                                               wall
+wall                 table                 table                   wall
+wall                 table     table table table       table       table table table table     wall
+wall         inc6       table       chef         table                   wall
+wall                 table       chef         table         inc4         wall
+wall                         table table                           wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall       inc3                 chef                             wall
+wall   table table table table table table table table       chef       table         inc5           wall
+wall             table           table table table                         wall
+wall       chef chef   table                     table table table table table table table table table   wall
+wall       chef chef   table                                 chef chef     wall
+wall             table           avatar             table table table table chef chef     wall
+wall   table table table                                               wall
+wall                 table                 table                   wall
+wall                 table     table table table       table       table table table table     wall
+wall         inc6       table       chef         table                   wall
+wall                 table       chef         table         inc4         wall
+wall                         table table                           wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall       inc3                 chef                             wall
+wall   table table table table table table table table       chef       table         inc5           wall
+wall             table           table table table                         wall
+wall       chef chef   table                     table table table table table table table table table   wall
+wall       chef chef   table           avatar                     chef chef     wall
+wall             table                         table table table table         wall
+wall   table table table                                               wall
+wall                 table                 table                   wall
+wall                 table     table table table       table       table table table table     wall
+wall         inc6       table       chef         table                   wall
+wall                 table       chef         table         inc4         wall
+wall                         table table                           wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_NIL
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall       inc3                 chef                             wall
+wall   table table table table table table table table       chef       table         inc5           wall
+wall             table           table table table                         wall
+wall       chef chef   table                     table table table table table table table table table   wall
+wall       chef chef   table           avatar                     chef chef     wall
+wall             table                         table table table table         wall
+wall   table table table                                               wall
+wall                 table                 table                   wall
+wall                 table     table table table       table       table table table table     wall
+wall         inc6       table       chef         table                   wall
+wall                 table       chef         table         inc4         wall
+wall                         table table                           wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall       inc3               chef chef                             wall
+wall   table table table table table table table table     chef chef       table         inc5           wall
+wall             table           table table table                         wall
+wall       chef chef   table                     table table table table table table table table table   wall
+wall       chef chef   table         avatar                       chef chef     wall
+wall             table                         table table table table         wall
+wall   table table table                                               wall
+wall                 table                 table                   wall
+wall                 table     table table table       table       table table table table     wall
+wall         inc6       table       chef         table                   wall
+wall                 table       chef         table         inc4         wall
+wall                         table table                           wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall       inc3               chef chef                             wall
+wall   table table table table table table table table     chef chef       table         inc5           wall
+wall             table           table table table                         wall
+wall       chef chef   table                     table table table table table table table table table   wall
+wall       chef chef   table       avatar                         chef chef     wall
+wall             table                         table table table table         wall
+wall   table table table                                               wall
+wall                 table                 table                   wall
+wall                 table     table table table       table       table table table table     wall
+wall         inc6       table       chef         table                   wall
+wall                 table       chef         table         inc4         wall
+wall                         table table                           wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall       inc3               chef chef                             wall
+wall   table table table table table table table table     chef chef       table         inc5           wall
+wall             table           table table table                         wall
+wall       chef chef   table                     table table table table table table table table table   wall
+wall       chef chef   table         avatar                       chef chef     wall
+wall             table                         table table table table         wall
+wall   table table table                                               wall
+wall                 table                 table                   wall
+wall                 table     table table table       table       table table table table     wall
+wall         inc6       table     chef chef         table                   wall
+wall                 table     chef chef         table         inc4         wall
+wall                         table table                           wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall       inc3               chef chef                             wall
+wall   table table table table table table table table     chef chef       table         inc5           wall
+wall             table           table table table                         wall
+wall       chef chef   table                     table table table table table table table table table   wall
+wall       chef chef   table       avatar                         chef chef     wall
+wall             table                         table table table table         wall
+wall   table table table                                               wall
+wall                 table                 table                   wall
+wall                 table     table table table       table       table table table table     wall
+wall         inc6       table     chef chef         table                   wall
+wall                 table     chef chef         table         inc4         wall
+wall                         table table                           wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall       inc3               chef chef                             wall
+wall   table table table table table table table table     chef chef       table         inc5           wall
+wall             table           table table table                         wall
+wall       chef chef   table                     table table table table table table table table table   wall
+wall       chef chef   table     avatar                           chef chef     wall
+wall             table                         table table table table         wall
+wall   table table table                                               wall
+wall                 table                 table                   wall
+wall                 table     table table table       table       table table table table     wall
+wall         inc6       table     chef chef         table                   wall
+wall                 table     chef chef         table         inc4         wall
+wall                         table table                           wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall       inc3               chef chef                             wall
+wall   table table table table table table table table     chef chef       table         inc5           wall
+wall             table           table table table                         wall
+wall       chef chef   table                     table table table table table table table table table   wall
+wall       chef chef   table       avatar                         chef chef     wall
+wall             table                         table table table table         wall
+wall   table table table                                               wall
+wall                 table                 table                   wall
+wall                 table     table table table       table       table table table table     wall
+wall         inc6       table     chef chef         table                   wall
+wall                 table     chef chef         table         inc4         wall
+wall                         table table                           wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 

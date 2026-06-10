@@ -1,0 +1,130 @@
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                                                       camelA camelA       goal wall
+wall                                         camelB camelB                     goal wall
+wall                           camelC camelC                                   goal wall
+wall             camelD camelD                                                 goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitA pitB betB arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitC pitD arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena arena arena arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                                                         camelA       goal wall
+wall                                           camelB                     goal wall
+wall                             camelC                                   goal wall
+wall               camelD                                                 goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitA pitB arena normal arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitC pitD arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena arena arena arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                                                         camelA camelA     goal wall
+wall                                           camelB camelB                   goal wall
+wall                             camelC camelC                                 goal wall
+wall               camelD camelD                                               goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitA pitB arena normal arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitC pitD arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena arena arena arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                                                         camelA camelA     goal wall
+wall                                           camelB camelB                   goal wall
+wall                             camelC camelC                                 goal wall
+wall               camelD camelD                                               goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitA pitB arena arena normal arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitC pitD arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena arena arena arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                                                           camelA camelA   goal wall
+wall                                           camelB camelB                   goal wall
+wall                             camelC camelC                                 goal wall
+wall               camelD camelD                                               goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitA pitB arena normal arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitC pitD arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena arena arena arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                                                           camelA camelA   goal wall
+wall                                             camelB camelB                 goal wall
+wall                             camelC camelC                                 goal wall
+wall               camelD camelD                                               goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitA pitB arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitC pitD arena normal arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena arena arena arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                                                             camelA   goal wall
+wall                                             camelB camelB                 goal wall
+wall                               camelC                                 goal wall
+wall               camelD camelD                                               goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitA pitB arena normal arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitC pitD arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena arena arena arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                                                             camelA camelA goal wall
+wall                                             camelB camelB                 goal wall
+wall                               camelC camelC                               goal wall
+wall               camelD camelD                                               goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitA pitB arena arena normal arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitC pitD arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena arena arena arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                                                             camelA camelA goal wall
+wall                                               camelB camelB               goal wall
+wall                               camelC camelC                               goal wall
+wall               camelD camelD                                               goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitA pitB arena arena normal arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitC pitD arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena arena arena arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                                                               winA goal winA wall
+wall                                               camelB camelB               goal wall
+wall                               camelC camelC                               goal wall
+wall               camelD camelD                                               goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitA pitB arena arena arena normal wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena pitC pitD arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall arena arena arena arena arena arena arena arena wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 

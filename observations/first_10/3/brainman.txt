@@ -1,0 +1,120 @@
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall   avatar           green red wall wall wall wall wall wall wall
+wall         key       green wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall green                 wall       blue red wall
+wall blue green               door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall     avatar         green red wall wall wall wall wall wall wall
+wall         key       green wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall green                 wall       blue red wall
+wall blue green               door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall     avatar         green red wall wall wall wall wall wall wall
+wall         key       green wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall green                 wall       blue red wall
+wall blue green               door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall               green red wall wall wall wall wall wall wall
+wall     avatar   key       green wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall green                 wall       blue red wall
+wall blue green               door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_NIL
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall               green red wall wall wall wall wall wall wall
+wall     avatar   key       green wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall green                 wall       blue red wall
+wall blue green               door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_NIL
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall               green red wall wall wall wall wall wall wall
+wall     avatar   key       green wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall green                 wall       blue red wall
+wall blue green               door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall               green red wall wall wall wall wall wall wall
+wall   avatar     key       green wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall green                 wall       blue red wall
+wall blue green               door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall               green red wall wall wall wall wall wall wall
+wall avatar       key       green wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall green                 wall       blue red wall
+wall blue green               door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall               green red wall wall wall wall wall wall wall
+wall avatar       key       green wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall green                 wall       blue red wall
+wall blue green               door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall               green red wall wall wall wall wall wall wall
+wall   avatar     key       green wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall green                 wall       blue red wall
+wall blue green               door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 

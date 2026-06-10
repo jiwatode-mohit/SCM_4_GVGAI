@@ -1,0 +1,69 @@
+================================================================================
+ANALYSIS
+================================================================================
+Total Entries Processed: 45
+Missing VGDLs - Non-SCM: 0 | SCM: 3
+
+
+----------------------------------------
+1. OVERALL STATISTICS
+----------------------------------------
+Non-SCM (ABC) - Avg Code Sim:     0.7149
+Non-SCM (ABC) - Avg Sem Sim:      0.7609
+SCM (XYZ)     - Avg Code Sim:     0.7391
+SCM (XYZ)     - Avg Sem Sim:      0.7741
+
+Overall LLM Win Rates:
+Judge Model                    | ABC %    | XYZ %    | TIE %    | Total
+gpt-5.2-2025-12-11             |   31.0%  |   66.7%  |    2.4%  | 42
+gemini-2.5-pro                 |   33.3%  |   66.7%  |    0.0%  | 42
+claude-opus-4-5-20251101       |   28.6%  |   66.7%  |    4.8%  | 42
+qwen-3-8b                      |   19.0%  |   81.0%  |    0.0%  | 42
+
+
+----------------------------------------
+2. ANALYSIS BY CONTEXT LEVEL
+----------------------------------------
+Quantitative Metrics per Level:
+Level           | NS-Code  | NS-Sem   | SCM-Code | SCM-Sem 
+level_0         | 0.563    | 0.736    | 0.653    | 0.740   
+level_1         | 0.670    | 0.733    | 0.710    | 0.743   
+level_2         | 0.692    | 0.725    | 0.716    | 0.768   
+level_3         | 0.694    | 0.714    | 0.693    | 0.755   
+level_4         | 0.955    | 0.895    | 0.939    | 0.871   
+
+Aggregated LLM Preference (Avg of all 4 judges) per Level:
+Level           | ABC Wins | XYZ Wins | Ties     | Total Votes
+level_0         |    8.3%  |   91.7%  |    0.0%  | 36
+level_1         |    9.4%  |   84.4%  |    6.2%  | 32
+level_2         |   37.5%  |   59.4%  |    3.1%  | 32
+level_3         |   25.0%  |   75.0%  |    0.0%  | 36
+level_4         |   62.5%  |   37.5%  |    0.0%  | 32
+
+
+----------------------------------------
+3. ANALYSIS BY GAME
+----------------------------------------
+Quantitative Metrics per Game:
+Game                 | NS-Code  | NS-Sem   | SCM-Code | SCM-Sem 
+boulderchase         | 0.788    | 0.777    | 0.816    | 0.783   
+brainman             | 0.664    | 0.775    | 0.668    | 0.788   
+cakybaky             | 0.747    | 0.801    | 0.739    | 0.791   
+defender             | 0.631    | 0.656    | 0.646    | 0.679   
+digdug               | 0.720    | 0.806    | 0.764    | 0.806   
+iceandfire           | 0.766    | 0.743    | 0.797    | 0.776   
+lasers2              | 0.647    | 0.757    | 0.741    | 0.809   
+portals              | 0.767    | 0.725    | 0.786    | 0.721   
+racebet              | 0.703    | 0.807    | 0.722    | 0.820   
+
+Aggregated LLM Preference per Game:
+Game                 | ABC Wins | XYZ Wins | Ties     | Total Votes
+boulderchase         |   31.2%  |   68.8%  |    0.0%  | 16
+brainman             |   15.0%  |   85.0%  |    0.0%  | 20
+cakybaky             |   25.0%  |   75.0%  |    0.0%  | 16
+defender             |   30.0%  |   70.0%  |    0.0%  | 20
+digdug               |   35.0%  |   60.0%  |    5.0%  | 20
+iceandfire           |   37.5%  |   62.5%  |    0.0%  | 16
+lasers2              |   20.0%  |   75.0%  |    5.0%  | 20
+portals              |   25.0%  |   75.0%  |    0.0%  | 20
+racebet              |   35.0%  |   60.0%  |    5.0%  | 20

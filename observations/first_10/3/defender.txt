@@ -1,0 +1,170 @@
+Action: ACTION_USE
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+                                                             
+  avatar sam                                                        
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_USE
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+                                                             
+  avatar sam sam                                                      
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+                                                             
+avatar     sam sam                                                    
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_USE
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+                                                             
+avatar       sam sam                                                  
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_NIL
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+                                                             
+avatar         sam sam                                                
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_USE
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+                                                             
+avatar           sam sam                                              
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+avatar                                                            
+              sam sam                                            
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+avatar                                                            
+                                                             
+                sam sam                                          
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+avatar                                                            
+                                                             
+                  sam sam                                        
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+avatar                                                            
+                                                            alien
+                    sam sam                                     alien
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 

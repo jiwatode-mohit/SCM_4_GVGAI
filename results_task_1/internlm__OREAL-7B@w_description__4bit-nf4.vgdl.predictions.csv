@@ -1,0 +1,3469 @@
+subset,iteration,game,model,reply,thought,prediction,correct
+first_10,0,boulderchase,internlm/OREAL-7B,portals,,portals,False
+first_10,0,brainman,internlm/OREAL-7B,portals,,portals,False
+first_10,0,cakybaky,internlm/OREAL-7B,portals,,portals,False
+first_10,0,defender,internlm/OREAL-7B,portal,,none,False
+first_10,0,digdug,internlm/OREAL-7B,racebet,,racebet,False
+first_10,0,iceandfire,internlm/OREAL-7B,portals,,portals,False
+first_10,0,lasers2,internlm/OREAL-7B,portals,,portals,False
+first_10,0,portals,internlm/OREAL-7B,racebet,,racebet,False
+first_10,0,racebet,internlm/OREAL-7B,racebet,,racebet,True
+first_10,1,boulderchase,internlm/OREAL-7B,PORTALS,,portals,False
+first_10,1,brainman,internlm/OREAL-7B,portals,,portals,False
+first_10,1,cakybaky,internlm/OREAL-7B,portals,,portals,False
+first_10,1,defender,internlm/OREAL-7B,portal,,none,False
+first_10,1,digdug,internlm/OREAL-7B,portals,,portals,False
+first_10,1,iceandfire,internlm/OREAL-7B,portals,,portals,False
+first_10,1,lasers2,internlm/OREAL-7B,portals,,portals,False
+first_10,1,portals,internlm/OREAL-7B,portals,,portals,True
+first_10,1,racebet,internlm/OREAL-7B,racebet,,racebet,True
+first_10,2,boulderchase,internlm/OREAL-7B,PORTALS,,portals,False
+first_10,2,brainman,internlm/OREAL-7B,portals,,portals,False
+first_10,2,cakybaky,internlm/OREAL-7B,portals,,portals,False
+first_10,2,defender,internlm/OREAL-7B,portals,,portals,False
+first_10,2,digdug,internlm/OREAL-7B,racebet,,racebet,False
+first_10,2,iceandfire,internlm/OREAL-7B,portals,,portals,False
+first_10,2,lasers2,internlm/OREAL-7B,portals,,portals,False
+first_10,2,portals,internlm/OREAL-7B,racebet,,racebet,False
+first_10,2,racebet,internlm/OREAL-7B,racebet,,racebet,True
+first_10,3,boulderchase,internlm/OREAL-7B,portals,,portals,False
+first_10,3,brainman,internlm/OREAL-7B,portals,,portals,False
+first_10,3,cakybaky,internlm/OREAL-7B,portals,,portals,False
+first_10,3,defender,internlm/OREAL-7B,"portalchase
+```",,none,False
+first_10,3,digdug,internlm/OREAL-7B,portals,,portals,False
+first_10,3,iceandfire,internlm/OREAL-7B,portals,,portals,False
+first_10,3,lasers2,internlm/OREAL-7B,racebet,,racebet,False
+first_10,3,portals,internlm/OREAL-7B,portals,,portals,True
+first_10,3,racebet,internlm/OREAL-7B,racebet,,racebet,True
+first_10,4,boulderchase,internlm/OREAL-7B,portals,,portals,False
+first_10,4,brainman,internlm/OREAL-7B,portals,,portals,False
+first_10,4,cakybaky,internlm/OREAL-7B,portals,,portals,False
+first_10,4,defender,internlm/OREAL-7B,"portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal
+portal",,none,False
+first_10,4,digdug,internlm/OREAL-7B,racebet,,racebet,False
+first_10,4,iceandfire,internlm/OREAL-7B,portals,,portals,False
+first_10,4,lasers2,internlm/OREAL-7B,portals,,portals,False
+first_10,4,portals,internlm/OREAL-7B,portals,,portals,True
+first_10,4,racebet,internlm/OREAL-7B,racebet,,racebet,True
+last_10,0,boulderchase,internlm/OREAL-7B,PORTALS,,portals,False
+last_10,0,brainman,internlm/OREAL-7B,"racebet
+ASCII observations (10 frames):
+```text
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall",,racebet,False
+last_10,0,cakybaky,internlm/OREAL-7B,portals,,portals,False
+last_10,0,defender,internlm/OREAL-7B,portals,,portals,False
+last_10,0,digdug,internlm/OREAL-7B,racebet,,racebet,False
+last_10,0,iceandfire,internlm/OREAL-7B,portals,,portals,False
+last_10,0,lasers2,internlm/OREAL-7B,portals,,portals,False
+last_10,0,portals,internlm/OREAL-7B,portals,,portals,True
+last_10,0,racebet,internlm/OREAL-7B,racebet,,racebet,True
+last_10,1,boulderchase,internlm/OREAL-7B,racebet,,racebet,False
+last_10,1,brainman,internlm/OREAL-7B,"racebet
+ASCII observations (10 frames):
+```text
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+Action: ACTION_DOWN
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall",,racebet,False
+last_10,1,cakybaky,internlm/OREAL-7B,portals,,portals,False
+last_10,1,defender,internlm/OREAL-7B,portals,,portals,False
+last_10,1,digdug,internlm/OREAL-7B,racebet,,racebet,False
+last_10,1,iceandfire,internlm/OREAL-7B,portals,,portals,False
+last_10,1,lasers2,internlm/OREAL-7B,racebet,,racebet,False
+last_10,1,portals,internlm/OREAL-7B,portals,,portals,True
+last_10,1,racebet,internlm/OREAL-7B,racebet,,racebet,True
+last_10,2,boulderchase,internlm/OREAL-7B,portals,,portals,False
+last_10,2,brainman,internlm/OREAL-7B,portals,,portals,False
+last_10,2,cakybaky,internlm/OREAL-7B,portals,,portals,False
+last_10,2,defender,internlm/OREAL-7B,racebet,,racebet,False
+last_10,2,digdug,internlm/OREAL-7B,racebet,,racebet,False
+last_10,2,iceandfire,internlm/OREAL-7B,portals,,portals,False
+last_10,2,lasers2,internlm/OREAL-7B,racebet,,racebet,False
+last_10,2,portals,internlm/OREAL-7B,racebet,,racebet,False
+last_10,2,racebet,internlm/OREAL-7B,racebet,,racebet,True
+last_10,3,boulderchase,internlm/OREAL-7B,racebet,,racebet,False
+last_10,3,brainman,internlm/OREAL-7B,"racebet
+ASCII observations (10 frames):
+```text
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall key           avatar     wall wall wall wall wall wall wall
+wall                   wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall                   wall       blue red wall
+wall                   door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall key           avatar     wall wall wall wall wall wall wall
+wall                   wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall                   wall       blue red wall
+wall                   door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall key                 wall wall wall wall wall wall wall
+wall             avatar     wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall                   wall       blue red wall
+wall                   door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall key                 wall wall wall wall wall wall wall
+wall                   wall blue green   wall wall wall
+wall               avatar   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall                   wall       blue red wall
+wall                   door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall key                 wall wall wall wall wall wall wall
+wall                   wall blue green   wall wall wall
+wall               avatar   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall                   wall       blue red wall
+wall                   door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall key                 wall wall wall wall wall wall wall
+wall                   wall blue green   wall wall wall
+wall               avatar   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall                   wall       blue red wall
+wall                   door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall key                 wall wall wall wall wall wall wall
+wall                   wall blue green   wall wall wall
+wall             avatar     wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall                   wall       blue red wall
+wall                   door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall key                 wall wall wall wall wall wall wall
+wall                   wall blue green   wall wall wall
+wall             avatar     wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall                   wall       blue red wall
+wall                   door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall key                 wall wall wall wall wall wall wall
+wall             avatar     wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall                   wall       blue red wall
+wall                   door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall key                 wall wall wall wall wall wall wall
+wall             avatar     wall blue green   wall wall wall
+wall                   wall green     wall wall wall
+wall                   wall       exit wall wall
+wall                   wall       wall wall wall
+wall                   wall       blue red wall
+wall                   door       green blue wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+
+```",,racebet,False
+last_10,3,cakybaky,internlm/OREAL-7B,portals,,portals,False
+last_10,3,defender,internlm/OREAL-7B,portals,,portals,False
+last_10,3,digdug,internlm/OREAL-7B,portals,,portals,False
+last_10,3,iceandfire,internlm/OREAL-7B,portals,,portals,False
+last_10,3,lasers2,internlm/OREAL-7B,"racebet
+ASCII observations (10 frames):
+```text
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall   avatar       boulder                       lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall   avatar       boulder                       lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall   avatar       boulder                       lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall   avatar       boulder                       lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall   avatar       boulder                       lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall   avatar       boulder                       lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall   avatar       boulder                       lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall   avatar       boulder                       lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall   avatar       boulder                       lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                       lright lright           lup lup   lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       lright lright lright           lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall                       lright lright lright         mdown lup lup lup   ldown ldown ldown   ldown ldown ldown         wall
+wall       box           lcright lright lright lright lright lright mup lright lright           lup lup lup   ldown ldown   ldown ldown ldown         wall
+wall       wall                           lup lup lup   box   ldown ldown ldown         wall
+wall lleft lleft lleft lleft lleft lleft lleft lleft lcleft lleft lleft lleft wall                         lup lup lup       ldown ldown         wall
+wall   avatar       boulder                       lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+
+```",,racebet,False
+last_10,3,portals,internlm/OREAL-7B,portals,,portals,True
+last_10,3,racebet,internlm/OREAL-7B,racebet,,racebet,True
+last_10,4,boulderchase,internlm/OREAL-7B,racebet,,racebet,False
+last_10,4,brainman,internlm/OREAL-7B,racebet,,racebet,False
+last_10,4,cakybaky,internlm/OREAL-7B,portals,,portals,False
+last_10,4,defender,internlm/OREAL-7B,PORTALS,,portals,False
+last_10,4,digdug,internlm/OREAL-7B,racebet,,racebet,False
+last_10,4,iceandfire,internlm/OREAL-7B,portals,,portals,False
+last_10,4,lasers2,internlm/OREAL-7B,racebet,,racebet,False
+last_10,4,portals,internlm/OREAL-7B,portals,,portals,True
+last_10,4,racebet,internlm/OREAL-7B,racebet,,racebet,True

@@ -1,0 +1,52 @@
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                                       lcdown ldown ldown   lcdown ldown ldown         wall
+wall                       obstacle                             wall
+wall                                 mdown                   wall
+wall   box               lcdown ldown ldown   mup                             wall
+wall       wall                           obstacle   box             wall
+wall       lcdown ldown ldown wall                                           wall
+wall     avatar                                 wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                                       lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       obstacle               ldown   ldown         wall
+wall                                 mdown                   wall
+wall   box               lcdown ldown ldown ldown   mup                             wall
+wall       wall           ldown               obstacle   box             wall
+wall       lcdown ldown ldown ldown wall                                           wall
+wall     avatar ldown                           lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                                       lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       obstacle               ldown ldown   ldown ldown         wall
+wall                                 mdown                   wall
+wall   box               lcdown ldown ldown ldown   mup                             wall
+wall       wall           ldown ldown               obstacle   box             wall
+wall       lcdown ldown ldown wall                                           wall
+wall     avatar boulder                           lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall                                       lcdown ldown ldown ldown   lcdown ldown ldown ldown         wall
+wall                       obstacle               ldown ldown ldown   ldown ldown ldown         wall
+wall                                 mdown     ldown   ldown         wall
+wall   box               lcdown ldown ldown ldown   mup                             wall
+wall       wall           ldown ldown ldown               obstacle   box             wall
+wall       lcdown ldown ldown ldown wall         ldown               lup                 wall
+wall       avatar ldown boulder                         lup lup lup   wall obstacle wall wall wall wall wall wall
+wall                                   lcup lup lup lup   wall           goal wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 

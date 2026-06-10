@@ -1,0 +1,170 @@
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+                                                            alien
+avatar                                                            
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+avatar                                                           alien
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_NIL
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+avatar                                                         alien alien
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_RIGHT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+                                                             
+  avatar                                                       alien alien
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+  avatar                                                          
+                                                          alien alien
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_USE
+wall wall sam wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+  avatar                                                          
+                                                          alien alien
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_NIL
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+  avatar                                                          
+                                                        alien alien  
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_UP
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+  avatar                                                          
+                                                        alien alien  
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+avatar                                                            
+                                                        alien alien  
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 
+Action: ACTION_LEFT
+wall wall wall wall portalAmmo wall portalAmmo wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+avatar                                                            
+                                                        alien alien alien
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                            city city city city city city           city city city      
+                          city city city city city city city city       city city city city city    
+              city city city city city city city city city city city city city city city     city city city city city city  
+            city city city city city city city city city city city city city city city city city city city city city city city city city
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+
+ 

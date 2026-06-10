@@ -1,0 +1,10 @@
+logs/
+auto_commit.log
+auto_commit.sh
+keys.txt
+__pycache__/
+.vscode/
+comparitive analysis plots/
+comparative_analysis_plots/
+llm_explanations/
+prompt_analysis/

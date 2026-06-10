@@ -1,0 +1,15 @@
+name: llm_new_minimal
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - adjusttext
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - scikit-learn
+  - scipy
+  - seaborn
+  - pip:
+      - sentence-transformers
